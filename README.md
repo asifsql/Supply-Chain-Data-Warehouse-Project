@@ -6,10 +6,10 @@ stakeholder questions on top of it, including a month-over-month revenue growth 
 
 **Stack:** Python (Pandas) · PostgreSQL · SQLAlchemy · pgAdmin4 · SQL (Views, CTAS, Window Functions)
 
-![Architecture diagram](docs/architecture_diagram.svg)
+![Architecture diagram](C:\supply_chain_analytics\Supply_Chain_Project\Architecture_diagram.png)
 
 **Sample output — month-over-month revenue growth:**
-![MoM revenue growth query result](docs/screenshot_mom_growth.png)
+![MoM revenue growth query result](C:\supply_chain_analytics\Supply_Chain_Project\MoM_revenue_growth.png)
 
 ---
 
@@ -78,7 +78,7 @@ supply-chain-data-warehouse/
 ### 3. Gold Layer — Dimensional Modeling
 Star schema with **5 dimensions** and **3 facts**:
 
-![Gold layer tables in pgAdmin](docs/screenshot_gold_schema.png)
+![Gold layer tables in pgAdmin](C:\supply_chain_analytics\gold_schema.png)
 
 - `dim_products`, `dim_stores`, `dim_suppliers`, `dim_warehouses` — one row per business
   key, filtered to exclude blank/null keys before the primary key is enforced
@@ -146,7 +146,3 @@ jupyter notebook notebooks/data_cleaning.ipynb
 
 ---
 
-## 👤 Author
-
-**[Your Name]**
-Data Analyst | [LinkedIn] | [Portfolio]
