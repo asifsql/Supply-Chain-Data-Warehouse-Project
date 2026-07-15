@@ -1,0 +1,18 @@
+storeid,storename,region,city,openingdate,storetype,storemanager
+STR-001,Boston Flagship,Northeast,Boston,2021-03-12,Flagship,James Thompson
+STR-002,Atlanta Flagship,Southeast,Atlanta,2021-06-05,Flagship,Maria Garcia
+STR-003,Chicago Flagship,Midwest,Chicago,2021-09-17,Flagship,David Hernandez
+STR-004,Denver Standard,West,Denver,2022-01-08,Standard,Susan Martinez
+STR-005,Philadelphia Standard,Northeast,Philadelphia,2022-04-22,Standard,Robert Robinson
+STR-006,Charlotte Standard,Southeast,Charlotte,2022-08-14,Standard,Linda Clark
+STR-007,Columbus Standard,Midwest,Columbus,2024-11-03,Standard,Michael Rodriguez
+STR-008,Tampa Compact,Southeast,Tampa,2025-01-19,Compact,Karen Lewis
+STR-009,Phoenix Compact,West,Phoenix,2025-02-28,Compact,William Lee
+STR-010,Providence Express,Northeast,Providence,2025-04-07,Express,Lisa Walker
+STR-011,Indianapolis Standard,Midwest,Indianapolis,2025-05-12,Standard,Richard Hall
+STR-012,Nashville Compact,Southeast,Nashville,2025-07-21,Compact,Barbara Allen
+STR-013,Salt Lake City Express,West,Salt Lake City,2025-09-08,Express,Joseph Young
+STR-014,Detroit Compact,Midwest,Detroit,2025-11-17,Compact,Nancy King
+STR-015,Raleigh Standard,Southeast,Raleigh,2026-01-06,Standard,Thomas Wright
+STR-016,Hartford Express,Northeast,Hartford,2026-03-14,Express,Betty Scott
+STR-017,Milwaukee Compact,Midwest,Milwaukee,2026-06-01,Compact,Charles Torres

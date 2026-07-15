@@ -1,0 +1,6 @@
+warehouseid,warehousename,region,location,capacitysqft
+WH-001,Northeast DC,Northeast,"Boston, MA",85000
+WH-002,Southeast DC,Southeast,"Charlotte, NC",72000
+WH-003,Midwest DC,Midwest,"Columbus, OH",91000
+WH-004,West DC,West,"Denver, CO",68000
+WH-005,Central Reserve,Midwest,"Indianapolis, IN",55000

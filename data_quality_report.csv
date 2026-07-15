@@ -1,0 +1,22 @@
+File,Column,IssueType,Count,Notes,GeneratedDate
+sales_transactions,SKU,Inconsistent Format,1288,"Variants: prd-0001, PRD0001, P-0001",2026-06-28
+sales_transactions,SupplierName,Missing Value,885,Blank ERP export field,2026-06-28
+sales_transactions,SalesRep,Missing Value,402,Unassigned transactions,2026-06-28
+sales_transactions,DiscountPercent,Missing Value,241,NULL discount cell,2026-06-28
+sales_transactions,OrderDate,Invalid Date,40,ERP date parsing error,2026-06-28
+sales_transactions,SupplierName,Naming Inconsistency,19008,Mixed case / spacing variants,2026-06-28
+sales_transactions,Region,Naming Inconsistency,402,"Mixed case: NORTHEAST, northeast",2026-06-28
+sales_transactions,(all),Duplicate Rows,305,ERP export duplicates,2026-06-28
+purchase_orders,SKU,Inconsistent Format,252,Variants in PO lines,2026-06-28
+purchase_orders,ActualDeliveryDate,Missing Value,659,Open POs + blank field artifact,2026-06-28
+purchase_orders,SupplierCountry,Missing Value,212,Blank country field,2026-06-28
+purchase_orders,(all),Duplicate Rows,62,ERP export duplicates,2026-06-28
+inventory_snapshots,SKU,Inconsistent Format,903,Propagated from ERP,2026-06-28
+inventory_snapshots,InventoryValue,Missing Value,565,NULL value cell,2026-06-28
+inventory_snapshots,OnHandInventory,Negative Adjustment,337,ERP correction entries,2026-06-28
+inventory_snapshots,(all),Duplicate Rows,337,ERP export duplicates,2026-06-28
+returns,ReturnReason,Missing Value,18,Unclassified returns,2026-06-28
+product_master,(all),Total Products,163,,2026-06-28
+product_master,Status,Discontinued,14,,2026-06-28
+product_master,Status,New Launch,27,,2026-06-28
+supplier_master,(all),Total Suppliers,23,,2026-06-28

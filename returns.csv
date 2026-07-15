@@ -1,0 +1,1537 @@
+ReturnID,ReturnDate,InvoiceID,StoreName,SKU,ProductName,Category,ReturnedQty,ReturnReason,RefundAmount
+RET-000001,2025-05-03,INV-0021829,Chicago Flagship,PRD-0161,PureChoice Cleaning Products Pro,Household,1,Damaged,6.86
+RET-000002,2026-12-24,INV-0055322,Phoenix Compact,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,Expired,5.53
+RET-000003,2026-12-13,INV-0016802,Chicago Flagship,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,2,Expired,12.67
+RET-000004,2025-06-23,INV-0012383,Atlanta Flagship,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,3,Customer Return,11.17
+RET-000005,2026-07-10,INV-0041179,Charlotte Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Damaged,5.53
+RET-000006,2026-11-07,INV-0052884,Tampa Compact,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,1,Customer Return,3.38
+RET-000007,2026-05-14,INV-0075471,Detroit Compact,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Customer Return,7.36
+RET-000008,2025-09-12,INV-0021614,Chicago Flagship,PRD-0157,EverGreen Cleaning Products Lite,Household,3,Expired,23.2
+RET-000009,2025-12-05,INV-0068000,Nashville Compact,PRD-0033,NaturePath Energy Drinks Plus,Beverages,2,Damaged,6.42
+RET-000010,2026-10-30,INV-0072388,Salt Lake City Express,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,4,Customer Return,46.89
+RET-000011,2026-12-31,INV-0033243,Philadelphia Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,5,Expired,59.31
+RET-000012,2026-11-26,INV-0006374,Boston Flagship,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,5,Quality Issue,49.15
+RET-000013,2025-07-13,INV-0033959,Philadelphia Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,7,Incorrect Shipment,50.55
+RET-000014,2025-11-28,INV-0015975,Chicago Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Quality Issue,2.03
+RET-000015,2025-10-03,INV-0020111,Chicago Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,6,Damaged,30.93
+RET-000016,2026-07-05,INV-0033820,Philadelphia Standard,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Incorrect Shipment,5.26
+RET-000017,2025-12-26,INV-0009633,Atlanta Flagship,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,2,Quality Issue,8.45
+RET-000018,2025-12-16,INV-0067722,Nashville Compact,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,3,Incorrect Shipment,4.92
+RET-000019,2025-07-21,INV-0027218,Denver Standard,PRD-0147,SunRise Personal Care Value,Health & Beauty,2,Customer Return,29.69
+RET-000020,2026-06-08,INV-0064400,Indianapolis Standard,PRD-0062,PureChoice Cookies & Bars Deluxe 300g,Snacks,1,Quality Issue,2.81
+RET-000021,2025-04-05,INV-0008571,Atlanta Flagship,PRD-0015,QuickServe Juices Premium,Beverages,1,Quality Issue,4.16
+RET-000022,2025-07-06,INV-0021930,Chicago Flagship,PRD-0163,SunRise Paper Products Premium,Household,3,Expired,22.9
+RET-000023,2026-12-31,INV-0055033,Phoenix Compact,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,4,Customer Return,4.97
+RET-000024,2025-09-09,INV-0061210,Providence Express,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,15,Customer Return,206.59
+RET-000025,2025-02-24,INV-0035046,Philadelphia Standard,PRD 0149,QuickServe OTC Medicine Premium,Health & Beauty,9,Customer Return,136.49
+RET-000026,2025-06-30,INV-0017440,Chicago Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,2,Customer Return,26.64
+RET-000027,2025-12-23,INV-0006220,Boston Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,5,Expired,41.66
+RET-000028,2025-11-29,INV-0038250,Charlotte Standard,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,2,Customer Return,20.32
+RET-000029,2026-03-27,INV-0044115,Columbus Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Quality Issue,2.23
+RET-000030,2026-09-09,INV-0067729,Nashville Compact,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,3,Incorrect Shipment,5.49
+RET-000031,2025-05-17,INV-0023698,Denver Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Customer Return,1.21
+RET-000032,2025-05-07,INV-0002060,Boston Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,8,Customer Return,37.05
+RET-000033,2025-12-11,INV-0026659,Denver Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,3,Damaged,23.13
+RET-000034,2026-09-13,INV-0077740,Raleigh Standard,PRD-0156,NaturePath Cleaning Products Lite,Household,3,Customer Return,30.74
+RET-000035,2026-09-28,INV-0070743,Salt Lake City Express,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.71
+RET-000036,2026-12-01,INV-0079690,Milwaukee Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,2,Expired,8.0
+RET-000037,2026-11-18,INV-0050106,Tampa Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Incorrect Shipment,2.12
+RET-000038,2024-12-29,INV-0026969,Denver Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,4,Quality Issue,85.67
+RET-000039,2026-05-16,INV-0053978,Phoenix Compact,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,4,Quality Issue,4.23
+RET-000040,2024-10-30,INV-0018618,Chicago Flagship,PRD-0091,EverGreen Canned Goods Lite 200g,Grocery,3,Incorrect Shipment,8.07
+RET-000041,2025-12-04,INV-0047966,Columbus Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,2,Customer Return,14.05
+RET-000042,2025-05-13,INV-0055207,Phoenix Compact,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,2,Customer Return,10.67
+RET-000043,2025-02-02,INV-0047408,Columbus Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,3,Quality Issue,19.5
+RET-000044,2026-05-21,INV-0066168,Indianapolis Standard,PRD-0126,QuickServe Frozen Vegetables Deluxe,Frozen Foods,2,Customer Return,7.42
+RET-000045,2026-07-06,INV-0067771,Nashville Compact,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,6,,10.17
+RET-000046,2026-06-13,INV-0065061,Indianapolis Standard,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Customer Return,2.31
+RET-000047,2025-12-01,INV-0061287,Providence Express,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,2,Incorrect Shipment,28.77
+RET-000048,2026-12-02,INV-0063377,Indianapolis Standard,PRD-0022,ElitePro Juices Lite,Beverages,2,Expired,6.95
+RET-000049,2026-01-19,INV-0056978,Phoenix Compact,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,3,Quality Issue,26.65
+RET-000050,2025-04-04,INV-0003047,Boston Flagship,PRD-0066,OptimaFood Cheese Lite,Dairy,4,Quality Issue,66.9
+RET-000051,2025-04-06,INV-0025808,Denver Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Customer Return,10.21
+RET-000052,2026-09-09,INV-0043829,Columbus Standard,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,2,Expired,3.79
+RET-000053,2025-12-19,INV-0011007,Atlanta Flagship,PRD-0074,BluePeak Yogurt Deluxe,Dairy,6,Incorrect Shipment,28.38
+RET-000054,2026-12-31,INV-0029032,Philadelphia Standard,PRD-0022,ElitePro Juices Lite,Beverages,1,Quality Issue,3.72
+RET-000055,2025-03-18,INV-0017314,Chicago Flagship,PRD-0065,NaturePath Cheese Classic,Dairy,1,Damaged,6.06
+RET-000056,2024-12-10,INV-0025053,Denver Standard,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,1,Damaged,1.44
+RET-000057,2025-12-14,INV-0059831,Providence Express,PRD-0067,EverGreen Cheese Classic,Dairy,4,Damaged,58.2
+RET-000058,2026-05-05,INV-0035488,Philadelphia Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,3,Quality Issue,15.21
+RET-000059,2026-04-25,INV-0011255,Atlanta Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,8,Expired,34.35
+RET-000060,2026-07-25,INV-0039976,Charlotte Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,7,Customer Return,12.23
+RET-000061,2025-07-28,INV-0052229,Tampa Compact,PRD-0111,CoastalSelect Frozen Meals Select,Frozen Foods,1,Customer Return,12.14
+RET-000062,2026-06-21,INV-0068136,Nashville Compact,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,3,Damaged,14.87
+RET-000063,2024-11-25,INV-0009972,Atlanta Flagship,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,10,Expired,64.79
+RET-000064,2026-10-04,INV-0071560,Salt Lake City Express,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,4,Customer Return,10.44
+RET-000065,2025-11-07,INV-0056930,Phoenix Compact,PRD-0130,PureChoice Ice Cream Deluxe,Frozen Foods,1,Expired,8.01
+RET-000066,2026-01-05,INV-0055513,Phoenix Compact,PRD-0070,EverGreen Cheese Lite,Dairy,12,Damaged,79.98
+RET-000067,2026-05-04,INV-0077201,Raleigh Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,9,Customer Return,45.81
+RET-000068,2026-08-02,INV-0060214,Providence Express,PRD-0078,ValuBrand Yogurt Classic,Dairy,18,Quality Issue,76.42
+RET-000069,2026-10-19,INV-0072991,Salt Lake City Express,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,3.19
+RET-000070,2025-06-18,INV-0043614,Columbus Standard,PRD-0024,SunRise Water & Sparkling Premium,Beverages,2,Damaged,2.74
+RET-000071,2026-01-12,INV-0043591,Columbus Standard,prd-0022,ElitePro Juices Lite,Beverages,5,Damaged,17.53
+RET-000072,2026-08-24,INV-0008392,Atlanta Flagship,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,6,Quality Issue,15.19
+RET-000073,2025-01-24,INV-0020963,Chicago Flagship,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,2,Incorrect Shipment,39.82
+RET-000074,2026-11-14,INV-0068942,Nashville Compact,PRD-0079,CoastalSelect Yogurt Pro,Dairy,1,Expired,2.47
+RET-000075,2026-06-07,INV-0074118,Detroit Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Damaged,3.25
+RET-000076,2026-10-20,INV-0064613,Indianapolis Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,Expired,12.19
+RET-000077,2026-06-19,INV-0064596,Indianapolis Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,6,Expired,75.24
+RET-000078,2026-12-03,INV-0071267,Salt Lake City Express,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Incorrect Shipment,2.0
+RET-000079,2024-11-25,INV-0005087,Boston Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Damaged,10.54
+RET-000080,2025-06-14,INV-0030612,Philadelphia Standard,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Damaged,2.63
+RET-000081,2025-12-10,INV-0064091,Indianapolis Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,3,Quality Issue,21.01
+RET-000082,2026-05-11,INV-0015406,Chicago Flagship,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,3.95
+RET-000083,2026-01-04,INV-0038608,Charlotte Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,1,Incorrect Shipment,3.94
+RET-000084,2026-11-25,INV-0076914,Raleigh Standard,PRD-0084,HomeComfort Butter & Spreads Classic,Dairy,1,Customer Return,7.47
+RET-000085,2026-12-31,INV-0008870,Atlanta Flagship,PRD-0022,ElitePro Juices Lite,Beverages,3,Damaged,10.99
+RET-000086,2025-10-31,INV-0039161,Charlotte Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,,2.81
+RET-000087,2026-08-20,INV-0055671,Phoenix Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Customer Return,2.67
+RET-000088,2026-01-15,INV-0055164,Phoenix Compact,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,3,Damaged,20.77
+RET-000089,2025-10-05,INV-0014386,Atlanta Flagship,PRD-0158,ElitePro Cleaning Products Deluxe,Household,4,Customer Return,19.93
+RET-000090,2025-04-15,INV-0007760,Atlanta Flagship,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,9,Damaged,12.55
+RET-000091,2026-07-24,INV-0008851,Atlanta Flagship,PRD-0022,ElitePro Juices Lite,Beverages,1,Quality Issue,3.58
+RET-000092,2025-11-27,INV-0011882,Atlanta Flagship,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,1,Incorrect Shipment,1.74
+RET-000093,2026-03-26,INV-0053079,Tampa Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,4,Customer Return,36.16
+RET-000094,2024-11-26,INV-0002768,Boston Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,Quality Issue,5.05
+RET-000095,2026-12-18,INV-0010583,Atlanta Flagship,PRD-0065,NaturePath Cheese Classic,Dairy,3,Damaged,20.91
+RET-000096,2026-09-23,INV-0043959,Columbus Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Damaged,10.1
+RET-000097,2025-10-07,INV-0043980,Columbus Standard,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,4,Expired,17.9
+RET-000098,2026-04-18,INV-0034154,Philadelphia Standard,PRD-0130,PureChoice Ice Cream Deluxe,Frozen Foods,1,Expired,8.76
+RET-000099,2026-01-09,INV-0060466,Providence Express,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,7,Quality Issue,14.46
+RET-000100,2025-06-29,INV-0053822,Tampa Compact,PRD-0163,SunRise Paper Products Premium,Household,1,Customer Return,7.4
+RET-000101,2025-09-23,INV-0023260,Denver Standard,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,1,Damaged,5.23
+RET-000102,2026-08-25,INV-0079481,Hartford Express,PRD-0157,EverGreen Cleaning Products Lite,Household,1,Customer Return,9.66
+RET-000103,2026-12-18,INV-0016928,Chicago Flagship,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,1,Customer Return,8.99
+RET-000104,2025-06-19,INV-0065483,Indianapolis Standard,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,3,Damaged,19.76
+RET-000105,2026-06-11,INV-0078814,Hartford Express,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,3,Customer Return,8.33
+RET-000106,2026-08-12,INV-0014774,Chicago Flagship,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,6,Expired,11.48
+RET-000107,2024-11-17,INV-0023524,Denver Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,2,Damaged,8.34
+RET-000108,2026-05-08,INV-0054814,Phoenix Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,3,Damaged,5.78
+RET-000109,2026-12-19,INV-0007317,Boston Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,1,Quality Issue,3.37
+RET-000110,2026-11-13,INV-0007825,Atlanta Flagship,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Customer Return,1.5
+RET-000111,2026-05-12,INV-0062472,Providence Express,PRD-0155,QuickServe Cleaning Products Original,Household,2,Customer Return,6.61
+RET-000112,2026-06-19,INV-0026540,Denver Standard,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,4,Damaged,29.08
+RET-000113,2026-10-06,INV-0064514,Indianapolis Standard,PRD-0067,EverGreen Cheese Classic,Dairy,5,Expired,70.59
+RET-000114,2026-10-16,INV-0012362,Atlanta Flagship,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,1,Customer Return,2.35
+RET-000115,2026-12-04,INV-0026514,Denver Standard,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,3,Expired,7.96
+RET-000116,2026-05-07,INV-0060841,Providence Express,PRD-0097,CoastalSelect Condiments Select 300g,Grocery,1,Quality Issue,2.61
+RET-000117,2026-12-20,INV-0074472,Detroit Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Customer Return,8.73
+RET-000118,2026-09-06,INV-0077081,Raleigh Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Incorrect Shipment,8.23
+RET-000119,2025-03-12,INV-0011167,Atlanta Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Expired,12.24
+RET-000120,2026-02-16,INV-0039512,Charlotte Standard,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,1,Customer Return,1.7
+RET-000121,2025-06-19,INV-0002314,Boston Flagship,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,1,Damaged,1.44
+RET-000122,2026-04-07,INV-0053011,Tampa Compact,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,2,Customer Return,17.32
+RET-000123,2026-08-17,INV-0063823,Indianapolis Standard,PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,1,Damaged,2.87
+RET-000124,2026-08-30,INV-0045983,Columbus Standard,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,9,Damaged,12.73
+RET-000125,2026-12-03,INV-0053673,Tampa Compact,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Quality Issue,10.39
+RET-000126,2025-09-12,INV-0030033,Philadelphia Standard,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,1,Quality Issue,3.4
+RET-000127,2024-11-18,INV-0006062,Boston Flagship,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,2,Expired,13.72
+RET-000128,2025-10-26,INV-0029405,Philadelphia Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Damaged,1.95
+RET-000129,2026-07-18,INV-0061315,Providence Express,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,11,Customer Return,161.78
+RET-000130,2026-12-10,INV-0074356,Detroit Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Quality Issue,2.89
+RET-000131,2026-11-26,INV-0006741,Boston Flagship,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,1,Damaged,7.09
+RET-000132,2024-12-25,INV-0011904,Atlanta Flagship,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Customer Return,4.09
+RET-000133,2026-08-22,INV-0074932,Detroit Compact,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Quality Issue,21.55
+RET-000134,2025-04-06,INV-0001522,Boston Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,4,Expired,8.16
+RET-000135,2025-10-09,INV-0064581,Indianapolis Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,2,Quality Issue,23.65
+RET-000136,2024-12-17,INV-0005956,Boston Flagship,PRD-0126,QuickServe Frozen Vegetables Deluxe,Frozen Foods,2,Customer Return,6.46
+RET-000137,2026-05-23,INV-0054656,Phoenix Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,3,Expired,6.33
+RET-000138,2025-06-19,INV-0050521,Tampa Compact,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,7,Quality Issue,45.7
+RET-000139,2026-01-24,INV-0052086,Tampa Compact,PRD-0103,BluePeak Pasta & Grains Original 500g,Grocery,3,,5.91
+RET-000140,2025-04-02,INV-0010213,Atlanta Flagship,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,1,Damaged,5.33
+RET-000141,2026-08-02,INV-0043159,Columbus Standard,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,10,Damaged,24.36
+RET-000142,2025-06-12,INV-0008181,Atlanta Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,11,Quality Issue,26.79
+RET-000143,2026-10-05,INV-0067107,Nashville Compact,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,5,Customer Return,6.99
+RET-000144,2025-07-10,INV-0007096,Boston Flagship,PRD-0151,HomeComfort OTC Medicine Deluxe,Health & Beauty,3,Damaged,63.18
+RET-000145,2026-12-07,INV-0034188,Philadelphia Standard,PRD-0131,EverGreen Ice Cream Plus,Frozen Foods,1,Damaged,9.89
+RET-000146,2026-04-07,INV-0015472,Chicago Flagship,PRD-0016,FreshFirst Juices Deluxe,Beverages,2,Damaged,8.95
+RET-000147,2024-12-31,INV-0008229,Atlanta Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,5,Customer Return,11.75
+RET-000148,2026-08-26,INV-0079040,Hartford Express,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,8,Incorrect Shipment,118.89
+RET-000149,2025-04-29,INV-0023485,Denver Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,1,Customer Return,3.97
+RET-000150,2026-08-27,INV-0075198,Detroit Compact,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,3,Damaged,19.08
+RET-000151,2025-01-17,INV-0020595,Chicago Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,9,Quality Issue,73.24
+RET-000152,2026-02-01,INV-0072006,Salt Lake City Express,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,4,Expired,11.51
+RET-000153,2026-02-18,INV-0071976,Salt Lake City Express,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Damaged,3.74
+RET-000154,2026-09-24,INV-0014566,Atlanta Flagship,PRD-0161,PureChoice Cleaning Products Pro,Household,2,Customer Return,15.09
+RET-000155,2025-05-24,INV-0053594,Tampa Compact,PRD-0156,NaturePath Cleaning Products Lite,Household,1,Expired,9.33
+RET-000156,2026-06-27,INV-0048722,Columbus Standard,PRD-0163,SunRise Paper Products Premium,Household,3,Damaged,24.56
+RET-000157,2026-09-07,INV-0010910,Atlanta Flagship,PRD-0072,FreshFirst Cheese Select,Dairy,1,Incorrect Shipment,5.89
+RET-000158,2026-12-23,INV-0055421,Phoenix Compact,PRD-0065,NaturePath Cheese Classic,Dairy,1,Expired,6.37
+RET-000159,2026-07-10,INV-0070115,Nashville Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Incorrect Shipment,9.59
+RET-000160,2026-10-20,INV-0004389,Boston Flagship,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,5,Expired,15.84
+RET-000161,2025-08-13,INV-0012015,Atlanta Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,3,Damaged,23.13
+RET-000162,2025-09-26,INV-0023147,Denver Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Quality Issue,3.96
+RET-000163,2026-09-04,INV-0052876,Tampa Compact,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,5,Customer Return,16.26
+RET-000164,2026-12-23,INV-0029216,Philadelphia Standard,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,4,Quality Issue,6.35
+RET-000165,2025-04-10,INV-0054125,Phoenix Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Damaged,2.44
+RET-000166,2026-03-07,INV-0072117,Salt Lake City Express,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,4,Incorrect Shipment,26.52
+RET-000167,2026-12-14,INV-0035962,Charlotte Standard,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Customer Return,1.53
+RET-000168,2025-08-21,INV-0017110,Chicago Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Customer Return,2.77
+RET-000169,2026-04-15,INV-0058102,Providence Express,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Customer Return,2.32
+RET-000170,2025-06-26,INV-0018015,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,4.24
+RET-000171,2026-01-06,INV-0046126,Columbus Standard,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,2,Damaged,7.93
+RET-000172,2026-01-19,INV-0023106,Denver Standard,PRD-0029,SunRise Water & Sparkling Classic,Beverages,2,Customer Return,1.87
+RET-000173,2025-11-14,INV-0034463,Philadelphia Standard,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,1,Expired,21.21
+RET-000174,2025-12-25,INV-0057272,Phoenix Compact,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,2,Incorrect Shipment,13.01
+RET-000175,2024-10-19,INV-0024444,Denver Standard,PRD-0068,OptimaFood Cheese Deluxe,Dairy,1,Incorrect Shipment,17.85
+RET-000176,2026-10-22,INV-0075918,Raleigh Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,4,Customer Return,6.94
+RET-000177,2025-08-31,INV-0039961,Charlotte Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,2,Damaged,4.33
+RET-000178,2026-09-02,INV-0061473,Providence Express,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Quality Issue,7.23
+RET-000179,2025-03-17,INV-0010935,Atlanta Flagship,PRD-0073,QuickServe Yogurt Pro,Dairy,3,Expired,7.78
+RET-000180,2025-09-21,INV-0053112,Tampa Compact,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,3,Customer Return,68.05
+RET-000181,2024-10-14,INV-0001740,Boston Flagship,PRD-0033,NaturePath Energy Drinks Plus,Beverages,1,Customer Return,2.95
+RET-000182,2026-10-16,INV-0080484,Milwaukee Compact,PRD-0155,QuickServe Cleaning Products Original,Household,3,Customer Return,9.57
+RET-000183,2026-11-14,INV-0079798,Milwaukee Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,3,Customer Return,6.52
+RET-000184,2025-11-02,INV-0054448,Phoenix Compact,PRD-0024,SunRise Water & Sparkling Premium,Beverages,3,Customer Return,3.74
+RET-000185,2026-05-30,INV-0025107,Denver Standard,PRD0087,HomeComfort Canned Goods Original 200g,Grocery,1,Expired,1.55
+RET-000186,2026-12-31,INV-0062158,Providence Express,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Damaged,22.82
+RET-000187,2026-10-04,INV-0068929,Nashville Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Customer Return,3.75
+RET-000188,2025-04-16,INV-0016716,Chicago Flagship,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,4,Incorrect Shipment,28.33
+RET-000189,2026-12-10,INV-0057244,Phoenix Compact,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Expired,21.64
+RET-000190,2026-10-31,INV-0030342,Philadelphia Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,7,Damaged,51.94
+RET-000191,2026-11-18,INV-0000076,Boston Flagship,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,3,Incorrect Shipment,3.95
+RET-000192,2026-04-08,INV-0036353,Charlotte Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,3,Expired,8.18
+RET-000193,2025-06-04,INV-0022150,Denver Standard,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,1,Expired,1.12
+RET-000194,2025-06-05,INV-0012124,Atlanta Flagship,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,2,Customer Return,13.11
+RET-000195,2026-04-16,INV-0014151,Atlanta Flagship,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Damaged,23.38
+RET-000196,2026-06-29,INV-0007963,Atlanta Flagship,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,2,Customer Return,2.11
+RET-000197,2026-11-30,INV-0060344,Providence Express,PRD-0083,OptimaFood Butter & Spreads Lite,Dairy,1,Customer Return,4.06
+RET-000198,2026-08-08,INV-0000259,Boston Flagship,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,1,Quality Issue,1.66
+RET-000199,2026-08-09,INV-0056550,Phoenix Compact,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Damaged,15.42
+RET-000200,2025-07-13,INV-0052892,Tampa Compact,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,1,Damaged,6.77
+RET-000201,2025-05-27,INV-0003372,Boston Flagship,PRD-0072,FreshFirst Cheese Select,Dairy,1,Incorrect Shipment,5.53
+RET-000202,2026-07-19,INV-0065717,Indianapolis Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Expired,11.93
+RET-000203,2026-07-19,INV-0054110,Phoenix Compact,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Customer Return,2.41
+RET-000204,2026-11-24,INV-0057192,Phoenix Compact,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,3,Customer Return,21.53
+RET-000205,2026-12-22,INV-0043973,Columbus Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Damaged,4.42
+RET-000206,2026-07-30,INV-0058709,Providence Express,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,3,Expired,4.84
+RET-000207,2025-08-13,INV-0057921,Providence Express,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,1,Damaged,1.1
+RET-000208,2026-09-05,INV-0015799,Chicago Flagship,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,3,Quality Issue,4.54
+RET-000209,2026-02-11,INV-0053418,Tampa Compact,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,2,Quality Issue,30.94
+RET-000210,2025-04-06,INV-0051237,Tampa Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,5,Incorrect Shipment,13.63
+RET-000211,2026-05-19,INV-0024938,Denver Standard,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,1,Expired,8.68
+RET-000212,2026-02-27,INV-0001965,Boston Flagship,PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,1,Customer Return,2.97
+RET-000213,2026-08-09,INV-0064292,Indianapolis Standard,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,3,Expired,8.89
+RET-000214,2025-08-26,INV-0034861,Philadelphia Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,3,Expired,19.1
+RET-000215,2026-04-09,INV-0059170,Providence Express,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,3,Expired,13.04
+RET-000216,2026-01-07,INV-0014538,Atlanta Flagship,PRD-0161,PureChoice Cleaning Products Pro,Household,1,Damaged,6.92
+RET-000217,2026-05-19,INV-0075119,Detroit Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Damaged,7.05
+RET-000218,2026-10-09,INV-0036134,Charlotte Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.69
+RET-000219,2026-07-04,INV-0011012,Atlanta Flagship,PRD-0074,BluePeak Yogurt Deluxe,Dairy,4,Incorrect Shipment,17.72
+RET-000220,2026-04-05,INV-0050778,Tampa Compact,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,3,Expired,7.81
+RET-000221,2026-12-26,INV-0053675,Tampa Compact,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Incorrect Shipment,9.1
+RET-000222,2025-10-02,INV-0028732,Philadelphia Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,3.98
+RET-000223,2026-08-27,INV-0051635,Tampa Compact,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,3,Customer Return,6.27
+RET-000224,2026-03-22,INV-0043911,Columbus Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Customer Return,4.11
+RET-000225,2026-01-06,INV-0023264,Denver Standard,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,1,Damaged,5.75
+RET-000226,2025-07-26,INV-0048800,Tampa Compact,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,4,Quality Issue,8.04
+RET-000227,2025-07-25,INV-0043703,Columbus Standard,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,2,Expired,2.56
+RET-000228,2026-12-04,INV-0025386,Denver Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,2,Quality Issue,8.6
+RET-000229,2026-07-24,INV-0075962,Raleigh Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Damaged,2.66
+RET-000230,2026-07-02,INV-0063843,Indianapolis Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,2,Damaged,9.58
+RET-000231,2026-06-24,INV-0017232,Chicago Flagship,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,6,Expired,20.31
+RET-000232,2025-09-25,INV-0043238,Columbus Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,3,Customer Return,8.19
+RET-000233,2025-09-27,INV-0032539,Philadelphia Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,2,Customer Return,14.67
+RET-000234,2026-04-29,INV-0021496,Chicago Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,3.01
+RET-000235,2026-09-28,INV-0048411,Columbus Standard,PRD-0155,QuickServe Cleaning Products Original,Household,2,Incorrect Shipment,6.8
+RET-000236,2026-01-03,INV-0025854,Denver Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Customer Return,16.85
+RET-000237,2025-09-29,INV-0001247,Boston Flagship,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,4,Incorrect Shipment,3.09
+RET-000238,2026-06-30,INV-0066938,Indianapolis Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,4,Customer Return,41.53
+RET-000239,2026-07-02,INV-0074883,Detroit Compact,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Customer Return,3.14
+RET-000240,2026-11-23,INV-0054351,Phoenix Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,4,Incorrect Shipment,18.63
+RET-000241,2026-06-21,INV-0027963,Philadelphia Standard,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,1,Quality Issue,2.2
+RET-000242,2024-10-31,INV-0032735,Philadelphia Standard,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,3,Customer Return,20.94
+RET-000243,2026-06-30,INV-0039050,Charlotte Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,1,Expired,2.7
+RET-000244,2026-12-06,INV-0014482,Atlanta Flagship,PRD-0159,ElitePro Cleaning Products Lite,Household,1,Damaged,11.25
+RET-000245,2026-08-08,INV-0058459,Providence Express,PRD-0016,FreshFirst Juices Deluxe,Beverages,2,Customer Return,8.81
+RET-000246,2024-12-13,INV-0028569,Philadelphia Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,3,Damaged,8.98
+RET-000247,2024-11-20,INV-0014370,Atlanta Flagship,PRD-0158,ElitePro Cleaning Products Deluxe,Household,3,Quality Issue,14.1
+RET-000248,2026-04-04,INV-0037747,Charlotte Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,4,Expired,18.81
+RET-000249,2024-11-29,INV-0010622,Atlanta Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,1,Expired,12.77
+RET-000250,2026-03-07,INV-0037096,Charlotte Standard,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,4,Customer Return,6.49
+RET-000251,2026-06-09,INV-0073391,Detroit Compact,PRD-0014,OptimaFood Juices Select,Beverages,2,Expired,5.42
+RET-000252,2026-06-09,INV-0076558,Raleigh Standard,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,3,Expired,21.28
+RET-000253,2026-12-20,INV-0074766,Detroit Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,8,Quality Issue,60.71
+RET-000254,2025-05-15,INV-0057324,Phoenix Compact,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Customer Return,3.94
+RET-000255,2025-10-04,INV-0071500,Salt Lake City Express,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,5,Expired,53.3
+RET-000256,2026-04-05,INV-0045371,Columbus Standard,PRD-0072,FreshFirst Cheese Select,Dairy,5,Damaged,25.82
+RET-000257,2026-10-27,INV-0034732,Philadelphia Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,2,Customer Return,45.75
+RET-000258,2026-08-19,INV-0067613,Nashville Compact,PRD-0018,CoastalSelect Juices Plus,Beverages,3,Damaged,5.87
+RET-000259,2025-06-30,INV-0044719,Columbus Standard,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,6,Incorrect Shipment,34.91
+RET-000260,2025-10-11,INV-0033565,Philadelphia Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Customer Return,8.95
+RET-000261,2025-08-01,INV-0007593,Boston Flagship,PRD-0161,PureChoice Cleaning Products Pro,Household,7,Incorrect Shipment,54.04
+RET-000262,2026-10-07,INV-0056848,Phoenix Compact,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Expired,7.13
+RET-000263,2026-08-18,INV-0034003,Philadelphia Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,4,Customer Return,29.15
+RET-000264,2025-01-25,INV-0007666,Boston Flagship,PRD-0163,SunRise Paper Products Premium,Household,1,Quality Issue,6.54
+RET-000265,2026-10-14,INV-0004087,Boston Flagship,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,5,Quality Issue,7.13
+RET-000266,2026-09-17,INV-0080115,Milwaukee Compact,PRD-0091,EverGreen Canned Goods Lite 200g,Grocery,4,Damaged,11.22
+RET-000267,2026-12-31,INV-0076398,Raleigh Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Customer Return,2.02
+RET-000268,2025-11-29,INV-0051685,Tampa Compact,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,5,Expired,18.3
+RET-000269,2025-04-18,INV-0034108,Philadelphia Standard,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,2,Incorrect Shipment,12.82
+RET-000270,2026-12-30,INV-0022314,Denver Standard,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,3,Customer Return,8.04
+RET-000271,2025-09-26,INV-0017172,Chicago Flagship,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,1,Customer Return,3.7
+RET-000272,2026-11-12,INV-0016535,Chicago Flagship,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,2,Quality Issue,6.87
+RET-000273,2026-11-15,INV-0051475,Tampa Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,2,Damaged,17.48
+RET-000274,2026-12-15,INV-0079689,Milwaukee Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,4,Incorrect Shipment,17.08
+RET-000275,2026-06-28,INV-0031243,Philadelphia Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,5,Damaged,61.44
+RET-000276,2026-08-30,INV-0008732,Atlanta Flagship,PRD-0018,CoastalSelect Juices Plus,Beverages,3,Quality Issue,5.53
+RET-000277,2025-09-25,INV-0044855,Columbus Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Customer Return,2.74
+RET-000278,2026-05-03,INV-0054065,Phoenix Compact,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,1,Quality Issue,2.45
+RET-000279,2026-01-08,INV-0060285,Providence Express,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Customer Return,8.54
+RET-000280,2026-06-22,INV-0070111,Nashville Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,6,Incorrect Shipment,50.23
+RET-000281,2026-07-09,INV-0016137,Chicago Flagship,PRD-0033,NaturePath Energy Drinks Plus,Beverages,1,Damaged,3.53
+RET-000282,2026-12-29,INV-0025910,Denver Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,4,Expired,47.4
+RET-000283,2026-12-31,INV-0068480,Nashville Compact,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,5,Quality Issue,55.46
+RET-000284,2026-12-31,INV-0065982,Indianapolis Standard,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,2,Customer Return,13.52
+RET-000285,2026-08-25,INV-0060874,Providence Express,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Expired,6.67
+RET-000286,2026-10-14,INV-0075410,Detroit Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,5,Expired,43.99
+RET-000287,2025-06-14,INV-0048541,Columbus Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,1,Customer Return,10.2
+RET-000288,2024-10-26,INV-0031844,Philadelphia Standard,PRD-0084,HomeComfort Butter & Spreads Classic,Dairy,1,Customer Return,6.74
+RET-000289,2026-12-04,INV-0077519,Raleigh Standard,PRD-0135,BluePeak Vitamins Select,Health & Beauty,1,Customer Return,9.13
+RET-000290,2026-02-03,INV-0011106,Atlanta Flagship,PRD-0076,ClearSpring Yogurt Plus,Dairy,5,Damaged,14.37
+RET-000291,2026-07-12,INV-0059274,Providence Express,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,1,Damaged,2.84
+RET-000292,2026-04-26,INV-0032096,Philadelphia Standard,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,2,Quality Issue,5.58
+RET-000293,2025-04-07,INV-0049970,Tampa Compact,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,6,Damaged,35.78
+RET-000294,2025-01-25,INV-0023125,Denver Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Customer Return,1.89
+RET-000295,2025-07-13,INV-0018021,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Quality Issue,4.2
+RET-000296,2026-01-17,INV-0022396,Denver Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Damaged,2.31
+RET-000297,2024-11-22,INV-0024344,Denver Standard,PRD-0067,EverGreen Cheese Classic,Dairy,5,Customer Return,68.85
+RET-000298,2026-10-20,INV-0067851,Nashville Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Quality Issue,1.56
+RET-000299,2026-05-25,INV-0066521,Indianapolis Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,84,Expired,1682.37
+RET-000300,2026-02-18,INV-0063700,Indianapolis Standard,PRD-0033,NaturePath Energy Drinks Plus,Beverages,1,Expired,3.43
+RET-000301,2026-12-31,INV-0034339,Philadelphia Standard,PRD-0135,BluePeak Vitamins Select,Health & Beauty,1,Quality Issue,9.74
+RET-000302,2025-04-04,INV-0003671,Boston Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Customer Return,4.05
+RET-000303,2026-02-19,INV-0054021,Phoenix Compact,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.8
+RET-000304,2025-03-15,INV-0047338,Columbus Standard,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Expired,5.07
+RET-000305,2026-07-04,INV-0077036,Raleigh Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,1,Quality Issue,2.02
+RET-000306,2026-01-15,INV-0054859,Phoenix Compact,PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,5,Customer Return,15.39
+RET-000307,2026-09-24,INV-0048825,Tampa Compact,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,4,Customer Return,8.89
+RET-000308,2026-01-23,INV-0042861,Columbus Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Quality Issue,1.31
+RET-000309,2026-02-13,INV-0017370,Chicago Flagship,PRD-0066,OptimaFood Cheese Lite,Dairy,1,Incorrect Shipment,14.92
+RET-000310,2026-07-06,INV-0074928,Detroit Compact,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,4,Quality Issue,43.05
+RET-000311,2026-12-26,INV-0052888,Tampa Compact,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,1,Customer Return,2.97
+RET-000312,2026-06-03,INV-0032808,Philadelphia Standard,PRD-0102,ClearSpring Condiments Lite 750g,Grocery,9,Quality Issue,26.61
+RET-000313,2026-07-26,INV-0044877,Columbus Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,Damaged,5.64
+RET-000314,2026-09-17,INV-0059182,Providence Express,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,5,Customer Return,22.88
+RET-000315,2026-11-05,INV-0078235,Hartford Express,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Damaged,10.29
+RET-000316,2026-12-01,INV-0046526,Columbus Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Quality Issue,6.43
+RET-000317,2025-08-07,INV-0043049,Columbus Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,5,Customer Return,8.4
+RET-000318,2026-04-11,INV-0070567,Nashville Compact,PRD-0160,BluePeak Cleaning Products Plus,Household,1,Customer Return,9.02
+RET-000319,2026-08-19,INV-0046046,Columbus Standard,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,2,Customer Return,4.54
+RET-000320,2026-08-07,INV-0076347,Raleigh Standard,PRD-0034,ClearSpring Energy Drinks Premium,Beverages,1,Damaged,3.71
+RET-000321,2026-11-03,INV-0079508,Hartford Express,PRD-0159,ElitePro Cleaning Products Lite,Household,4,Customer Return,45.65
+RET-000322,2026-06-02,INV-0029982,Philadelphia Standard,PRD-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,9,Customer Return,19.96
+RET-000323,2025-02-05,INV-0014060,Atlanta Flagship,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Incorrect Shipment,16.42
+RET-000324,2026-07-17,INV-0028532,Philadelphia Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Damaged,2.78
+RET-000325,2025-09-06,INV-0030146,Philadelphia Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Customer Return,1.27
+RET-000326,2026-10-18,INV-0054481,Phoenix Compact,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,2,Damaged,3.66
+RET-000327,2026-09-14,INV-0069368,Nashville Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,2,Customer Return,15.51
+RET-000328,2026-02-05,INV-0012036,Atlanta Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,3,Customer Return,23.72
+RET-000329,2024-11-10,INV-0026117,Denver Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Expired,8.39
+RET-000330,2026-11-30,INV-0077607,Raleigh Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Damaged,21.88
+RET-000331,2025-10-11,INV-0041404,Charlotte Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Quality Issue,7.16
+RET-000332,2026-04-05,INV-0027661,Denver Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,1,Expired,10.83
+RET-000333,2026-10-30,INV-0038617,Charlotte Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,1,Customer Return,4.0
+RET-000334,2025-10-07,INV-0024626,Denver Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,4,Customer Return,11.73
+RET-000335,2025-04-20,INV-0009679,Atlanta Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,3,Damaged,12.3
+RET-000336,2025-05-23,INV-0055076,Phoenix Compact,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,7,Quality Issue,52.25
+RET-000337,2025-11-25,INV-0071638,Salt Lake City Express,PRD-0067,EverGreen Cheese Classic,Dairy,4,Customer Return,59.14
+RET-000338,2026-05-24,INV-0043084,Columbus Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,2,Customer Return,3.66
+RET-000339,2025-11-15,INV-0029702,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Damaged,2.21
+RET-000340,2026-07-15,INV-0007448,Boston Flagship,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Customer Return,9.36
+RET-000341,2025-04-03,INV-0038055,Charlotte Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,2,Expired,13.09
+RET-000342,2026-08-15,INV-0022687,Denver Standard,PRD-0015,QuickServe Juices Premium,Beverages,10,Damaged,43.06
+RET-000343,2025-11-05,INV-0012972,Atlanta Flagship,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Customer Return,7.05
+RET-000344,2025-12-27,INV-0026083,Denver Standard,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Damaged,12.25
+RET-000345,2026-12-06,INV-0035571,Philadelphia Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,2,Expired,21.67
+RET-000346,2026-07-27,INV-0068314,Nashville Compact,PRD-0048,ElitePro Nuts & Seeds Premium 750g,Snacks,2,Customer Return,16.16
+RET-000347,2026-11-30,INV-0016926,Chicago Flagship,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,9,Quality Issue,80.16
+RET-000348,2026-04-01,INV-0072027,Salt Lake City Express,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,1,Quality Issue,1.97
+RET-000349,2026-04-03,INV-0023718,Denver Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,5,Incorrect Shipment,6.73
+RET-000350,2025-09-04,INV-0049060,Tampa Compact,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Incorrect Shipment,2.51
+RET-000351,2026-07-14,INV-0040369,Charlotte Standard,PRD-0102,ClearSpring Condiments Lite 750g,Grocery,3,Customer Return,10.09
+RET-000352,2026-12-03,INV-0020150,Chicago Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,6,Expired,29.07
+RET-000353,2026-11-02,INV-0074756,Detroit Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,3,Incorrect Shipment,24.58
+RET-000354,2025-04-26,INV-0046343,Columbus Standard,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,1,Quality Issue,7.05
+RET-000355,2025-12-11,INV-0002530,Boston Flagship,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,3,Expired,21.1
+RET-000356,2026-03-24,INV-0067704,Nashville Compact,PRD-0024,SunRise Water & Sparkling Premium,Beverages,1,Expired,1.43
+RET-000357,2026-08-31,INV-0019546,Chicago Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,50,Damaged,555.33
+RET-000358,2025-09-14,INV-0064078,Indianapolis Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,3,Damaged,21.1
+RET-000359,2026-03-01,INV-0019514,Chicago Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,4,Expired,48.01
+RET-000360,2025-01-20,INV-0023477,Denver Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,6,Customer Return,27.07
+RET-000361,2026-11-07,INV-0073355,Detroit Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Quality Issue,2.67
+RET-000362,2026-12-31,INV-0056887,Phoenix Compact,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,3,Damaged,9.58
+RET-000363,2025-11-14,INV-0005738,Boston Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Customer Return,5.0
+RET-000364,2025-02-06,INV-0042532,Charlotte Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Quality Issue,5.08
+RET-000365,2026-08-18,INV-0079486,Hartford Express,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Customer Return,9.59
+RET-000366,2026-04-21,INV-0074141,Detroit Compact,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,1,Incorrect Shipment,3.7
+RET-000367,2026-03-13,INV-0010112,Atlanta Flagship,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,2,Customer Return,13.63
+RET-000368,2026-09-05,INV-0070356,Nashville Compact,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Quality Issue,15.89
+RET-000369,2026-02-04,INV-0063945,Indianapolis Standard,PRD-0043,NaturePath Chips & Crisps Plus 750g,Snacks,3,Quality Issue,3.4
+RET-000370,2025-08-12,INV-0057951,Providence Express,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,1,Expired,1.77
+RET-000371,2025-06-08,INV-0043041,Columbus Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.71
+RET-000372,2026-12-09,INV-0051590,Tampa Compact,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,3,Damaged,4.42
+RET-000373,2025-08-14,INV-0037971,Charlotte Standard,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,5,Expired,6.8
+RET-000374,2026-12-31,INV-0076553,Raleigh Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,4,Damaged,30.34
+RET-000375,2026-03-14,INV-0046752,Columbus Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Expired,2.94
+RET-000376,2026-04-26,INV-0053423,Tampa Compact,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,2,Quality Issue,30.34
+RET-000377,2025-05-02,INV-0008179,Atlanta Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,2,Expired,5.04
+RET-000378,2025-12-11,INV-0044568,Columbus Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,1,Expired,7.17
+RET-000379,2024-10-31,INV-0022813,Denver Standard,PRD-0020,HomeComfort Juices Value,Beverages,3,Expired,14.18
+RET-000380,2026-04-19,INV-0041103,Charlotte Standard,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,3,Incorrect Shipment,19.5
+RET-000381,2026-01-18,INV-0066577,Indianapolis Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,1,Expired,6.57
+RET-000382,2026-02-22,INV-0076334,Raleigh Standard,PRD-0033,NaturePath Energy Drinks Plus,Beverages,7,Damaged,23.32
+RET-000383,2026-09-08,INV-0044139,Columbus Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,5,Quality Issue,10.6
+RET-000384,2026-10-02,INV-0013601,Atlanta Flagship,PRD-0134,PureChoice Vitamins Deluxe,Health & Beauty,4,Customer Return,74.98
+RET-000385,2025-12-22,INV-0025849,Denver Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Customer Return,10.35
+RET-000386,2025-08-06,INV-0040222,Charlotte Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,10,Customer Return,60.65
+RET-000387,2026-12-09,INV-0043443,Columbus Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,4.34
+RET-000388,2026-07-27,INV-0045800,Columbus Standard,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Incorrect Shipment,8.8
+RET-000389,2025-04-27,INV-0008235,Atlanta Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,4,Incorrect Shipment,9.13
+RET-000390,2026-12-31,INV-0080534,Milwaukee Compact,PRD-0161,PureChoice Cleaning Products Pro,Household,1,Damaged,7.5
+RET-000391,2026-12-31,INV-0049206,Tampa Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,4,Customer Return,11.64
+RET-000392,2025-02-05,INV-0035153,Philadelphia Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,2,Incorrect Shipment,45.14
+RET-000393,2025-05-25,INV-0000564,Boston Flagship,PRD0011,ElitePro Carbonated Drinks Pro,Beverages,2,Expired,5.63
+RET-000394,2025-07-26,INV-0059983,Providence Express,PRD-0072,FreshFirst Cheese Select,Dairy,1,Quality Issue,5.83
+RET-000395,2025-06-10,INV-0053499,Tampa Compact,PRD-0154,GoldCrest OTC Medicine Pro,Health & Beauty,4,Damaged,64.45
+RET-000396,2026-04-20,INV-0060390,Providence Express,PRD 0086,BluePeak Canned Goods Select 1000g,Grocery,5,Customer Return,7.43
+RET-000397,2026-07-17,INV-0072470,Salt Lake City Express,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Expired,5.2
+RET-000398,2026-03-14,INV-0004631,Boston Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Expired,8.1
+RET-000399,2025-12-29,INV-0035084,Philadelphia Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Customer Return,16.83
+RET-000400,2026-08-30,INV-0004940,Boston Flagship,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,1,Expired,2.26
+RET-000401,2026-12-03,INV-0047852,Columbus Standard,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Damaged,8.81
+RET-000402,2026-06-03,INV-0016354,Chicago Flagship,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,4,Customer Return,17.59
+RET-000403,2026-10-18,INV-0034971,Philadelphia Standard,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Quality Issue,4.12
+RET-000404,2026-10-07,INV-0079465,Hartford Express,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,3.01
+RET-000405,2026-02-15,INV-0007931,Atlanta Flagship,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,2,Damaged,3.01
+RET-000406,2025-09-12,INV-0028085,Philadelphia Standard,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,1,Damaged,1.05
+RET-000407,2026-03-06,INV-0009596,Atlanta Flagship,PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,9,Customer Return,28.23
+RET-000408,2025-11-06,INV-0044922,Columbus Standard,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,1,Damaged,3.64
+RET-000409,2026-07-05,INV-0007864,Atlanta Flagship,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,1,Customer Return,2.05
+RET-000410,2026-02-22,INV-0049151,Tampa Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Incorrect Shipment,2.89
+RET-000411,2024-12-24,INV-0030537,Philadelphia Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,1,Quality Issue,9.44
+RET-000412,2025-08-04,INV-0027273,Denver Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,5,Damaged,79.66
+RET-000413,2026-06-10,INV-0078124,Hartford Express,PRD-0022,ElitePro Juices Lite,Beverages,3,Expired,11.0
+RET-000414,2026-08-08,INV-0023181,Denver Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,4,Expired,8.54
+RET-000415,2026-07-01,INV-0016249,Chicago Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,8,Quality Issue,16.99
+RET-000416,2025-11-12,INV-0051246,Tampa Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,7,Incorrect Shipment,18.41
+RET-000417,2025-11-03,INV-0018446,Chicago Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Expired,2.21
+RET-000418,2024-12-02,INV-0036207,Charlotte Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,9,Expired,21.68
+RET-000419,2025-03-25,INV-0037185,Charlotte Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Expired,10.26
+RET-000420,2026-06-12,INV-0029741,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Incorrect Shipment,2.21
+RET-000421,2025-12-27,INV-0011543,Atlanta Flagship,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,1,Customer Return,1.45
+RET-000422,2024-12-27,INV-0006907,Boston Flagship,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Incorrect Shipment,3.94
+RET-000423,2026-02-11,INV-0035289,Philadelphia Standard,PRD-0155,QuickServe Cleaning Products Original,Household,5,Incorrect Shipment,16.0
+RET-000424,2026-05-09,INV-0058659,Providence Express,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,1,Customer Return,0.74
+RET-000425,2025-05-15,INV-0048508,Columbus Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Customer Return,4.52
+RET-000426,2026-10-16,INV-0039911,Charlotte Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,4,Quality Issue,11.4
+RET-000427,2026-08-06,INV-0074787,Detroit Compact,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,5,Incorrect Shipment,30.0
+RET-000428,2026-07-31,INV-0070602,Nashville Compact,PRD-0162,NaturePath Cleaning Products Plus,Household,1,Expired,3.55
+RET-000429,2026-12-13,INV-0014170,Atlanta Flagship,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,4,Quality Issue,93.53
+RET-000430,2026-11-30,INV-0074764,Detroit Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Customer Return,45.15
+RET-000431,2025-10-22,INV-0023104,Denver Standard,PRD-0029,SunRise Water & Sparkling Classic,Beverages,4,Customer Return,3.4
+RET-000432,2026-07-26,INV-0072906,Salt Lake City Express,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,3,Expired,51.58
+RET-000433,2025-11-05,INV-0025267,Denver Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,4,Quality Issue,11.48
+RET-000434,2025-11-30,INV-0056082,Phoenix Compact,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Incorrect Shipment,3.77
+RET-000435,2026-04-27,INV-0079304,Hartford Express,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Damaged,7.99
+RET-000436,2025-11-11,INV-0007037,Boston Flagship,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,3,Incorrect Shipment,48.95
+RET-000437,2026-05-18,INV-0002339,Boston Flagship,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,4,Damaged,5.5
+RET-000438,2026-12-31,INV-0013066,Atlanta Flagship,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,3,Quality Issue,17.19
+RET-000439,2026-10-14,INV-0000536,Boston Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,4,Customer Return,9.63
+RET-000440,2024-12-29,INV-0002993,Boston Flagship,PRD-0065,NaturePath Cheese Classic,Dairy,8,Expired,48.54
+RET-000441,2025-11-18,INV-0005674,Boston Flagship,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Incorrect Shipment,4.91
+RET-000442,2026-11-13,INV-0072812,Salt Lake City Express,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,2,Incorrect Shipment,45.72
+RET-000443,2026-01-31,INV-0053246,Tampa Compact,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Customer Return,22.63
+RET-000444,2026-11-20,INV-0058720,Providence Express,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,1,Damaged,1.51
+RET-000445,2025-08-30,INV-0015260,Chicago Flagship,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,1,Damaged,2.92
+RET-000446,2026-09-05,INV-0007523,Boston Flagship,PRD-0159,ElitePro Cleaning Products Lite,Household,4,Expired,46.15
+RET-000447,2026-03-11,INV-0027656,Denver Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,4,Customer Return,39.14
+RET-000448,2026-11-17,INV-0075648,Detroit Compact,PRD-0155,QuickServe Cleaning Products Original,Household,2,Customer Return,6.47
+RET-000449,2025-05-29,INV-0039248,Charlotte Standard,PRD 0078,ValuBrand Yogurt Classic,Dairy,2,Customer Return,7.94
+RET-000450,2025-06-29,INV-0020160,Chicago Flagship,PRD-0123,NaturePath Frozen Vegetables Original,Frozen Foods,5,Customer Return,42.48
+RET-000451,2026-12-09,INV-0028450,Philadelphia Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,2,Damaged,4.8
+RET-000452,2025-04-13,INV-0004581,Boston Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,4,Customer Return,32.56
+RET-000453,2026-06-03,INV-0026097,Denver Standard,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,2,Expired,22.98
+RET-000454,2026-09-13,INV-0045691,Columbus Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,5,Incorrect Shipment,20.09
+RET-000455,2026-11-25,INV-0001942,Boston Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Damaged,2.21
+RET-000456,2026-06-07,INV-0009812,Atlanta Flagship,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,5,Expired,17.59
+RET-000457,2026-07-08,INV-0045739,Columbus Standard,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,6,Customer Return,49.73
+RET-000458,2025-03-02,INV-0012185,Atlanta Flagship,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,2,Customer Return,13.51
+RET-000459,2026-06-18,INV-0037269,Charlotte Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Expired,2.09
+RET-000460,2025-12-05,INV-0068535,Nashville Compact,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Damaged,2.55
+RET-000461,2026-10-29,INV-0075793,Detroit Compact,PRD-0163,SunRise Paper Products Premium,Household,1,Damaged,7.86
+RET-000462,2026-07-10,INV-0022684,Denver Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Quality Issue,4.52
+RET-000463,2026-09-10,INV-0075124,Detroit Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Damaged,6.88
+RET-000464,2025-12-11,INV-0065671,Indianapolis Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Quality Issue,11.82
+RET-000465,2026-05-21,INV-0063025,Indianapolis Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,2,Customer Return,4.94
+RET-000466,2025-10-30,INV-0066353,Indianapolis Standard,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Customer Return,7.63
+RET-000467,2026-02-21,INV-0014967,Chicago Flagship,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.73
+RET-000468,2025-05-31,INV-0045010,Columbus Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,1,Damaged,4.07
+RET-000469,2026-12-31,INV-0074139,Detroit Compact,PRD-0062,PureChoice Cookies & Bars Deluxe 300g,Snacks,2,Damaged,6.07
+RET-000470,2025-12-20,INV-0045733,Columbus Standard,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,1,Customer Return,8.67
+RET-000471,2026-12-19,INV-0076818,Raleigh Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Incorrect Shipment,2.76
+RET-000472,2025-06-10,INV-0020517,Chicago Flagship,PRD-0130,PureChoice Ice Cream Deluxe,Frozen Foods,3,Customer Return,25.86
+RET-000473,2025-01-03,INV-0028317,Philadelphia Standard,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Quality Issue,2.17
+RET-000474,2025-04-25,INV-0050973,Tampa Compact,PRD-0067,EverGreen Cheese Classic,Dairy,4,Expired,57.45
+RET-000475,2025-02-23,INV-0001374,Boston Flagship,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,3,Expired,5.02
+RET-000476,2026-01-15,INV-0031073,Philadelphia Standard,PRD-0067,EverGreen Cheese Classic,Dairy,3,Customer Return,43.03
+RET-000477,2025-09-28,INV-0027237,Denver Standard,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,1,Quality Issue,10.33
+RET-000478,2026-12-14,INV-0070495,Nashville Compact,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Quality Issue,7.84
+RET-000479,2025-10-27,INV-0034554,Philadelphia Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,4,Quality Issue,30.15
+RET-000480,2026-05-13,INV-0073594,Detroit Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Customer Return,1.84
+RET-000481,2026-11-10,INV-0077908,Hartford Express,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,2,Damaged,3.67
+RET-000482,2026-04-06,INV-0069741,Nashville Compact,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,4,Customer Return,51.23
+RET-000483,2025-06-14,INV-0026796,Denver Standard,PRD-0137,FreshFirst Vitamins Plus,Health & Beauty,4,Expired,35.69
+RET-000484,2025-08-30,INV-0023362,Denver Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,4,Expired,8.71
+RET-000485,2026-06-04,INV-0037264,Charlotte Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Quality Issue,2.22
+RET-000486,2026-04-21,INV-0069855,Nashville Compact,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,10,Expired,48.14
+RET-000487,2025-10-27,INV-0024018,Denver Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,2,Expired,20.16
+RET-000488,2024-11-04,INV-0027509,Denver Standard,PRD-0156,NaturePath Cleaning Products Lite,Household,1,Damaged,6.91
+RET-000489,2026-08-22,INV-0079885,Milwaukee Compact,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,4,Customer Return,22.35
+RET-000490,2026-12-31,INV-0006706,Boston Flagship,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Expired,21.36
+RET-000491,2025-09-09,INV-0037898,Charlotte Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,1,Damaged,2.89
+RET-000492,2026-08-27,INV-0025403,Denver Standard,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,2,Customer Return,14.56
+RET-000493,2026-09-27,INV-0074250,Detroit Compact,PRD-0071,CoastalSelect Cheese Lite,Dairy,2,Expired,23.95
+RET-000494,2025-07-28,INV-0040116,Charlotte Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Quality Issue,8.32
+RET-000495,2026-12-16,INV-0031812,Philadelphia Standard,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,3,Customer Return,26.76
+RET-000496,2025-02-06,INV-0002777,Boston Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,Customer Return,5.56
+RET-000497,2025-07-07,INV-0006299,Boston Flagship,PRD-0135,BluePeak Vitamins Select,Health & Beauty,77,Quality Issue,696.64
+RET-000498,2026-01-21,INV-0062713,Providence Express,PRD-0163,SunRise Paper Products Premium,Household,4,Damaged,29.49
+RET-000499,2025-06-22,INV-0042044,Charlotte Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,1,Incorrect Shipment,6.54
+RET-000500,2026-04-09,INV-0045548,Columbus Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Damaged,2.85
+RET-000501,2025-10-14,INV-0057137,Phoenix Compact,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Customer Return,6.95
+RET-000502,2026-03-12,INV-0064441,Indianapolis Standard,PRD-0065,NaturePath Cheese Classic,Dairy,1,Incorrect Shipment,6.28
+RET-000503,2026-04-06,INV-0045437,Columbus Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,1,,2.58
+RET-000504,2026-02-04,INV-0058693,Providence Express,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,1,Damaged,1.7
+RET-000505,2026-11-24,INV-0072278,Salt Lake City Express,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Incorrect Shipment,23.74
+RET-000506,2025-11-08,INV-0011592,Atlanta Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Damaged,2.34
+RET-000507,2026-11-23,INV-0056885,Phoenix Compact,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,2,Incorrect Shipment,5.54
+RET-000508,2026-10-25,INV-0047174,Columbus Standard,PRD0116,CoastalSelect Frozen Meals Select,Frozen Foods,6,Customer Return,70.39
+RET-000509,2026-08-06,INV-0028609,Philadelphia Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,2,Expired,6.21
+RET-000510,2025-02-08,INV-0025349,Denver Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Quality Issue,3.79
+RET-000511,2026-12-31,INV-0076594,Raleigh Standard,PRD-0053,UrbanHarvest Nots & Seeds Original 400g,Snacks,1,Customer Return,9.3
+RET-000512,2025-09-27,INV-0037593,Charlotte Standard,PRD-0038 ,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,3,Quality Issue,9.39
+RET-000513,2025-08-02,INV-0040118,Charlotte Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Damaged,45.03
+RET-000514,2026-06-28,INV-0059054,Providence Express,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Expired,2.07
+RET-000515,2025-11-03,INV-0025602,Denver Standard,PRD-0101,SunRise Condiments Original 400g,Grocery,6,Incorrect Shipment,18.24
+RET-000516,2025-12-01,INV-0039038,Charlotte Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,2,Customer Return,5.43
+RET-000517,2026-12-17,INV-0030222,Philadelphia Standard,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,1,Quality Issue,1.44
+RET-000518,2025-04-01,INV-0030949,Philadelphia Standard,PRD-0066,OptimaFood Cheese Lite,Dairy,4,Damaged,63.97
+RET-000519,2026-01-27,INV-0068969,Nashville Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,5,Expired,37.6
+RET-000520,2026-11-15,INV-0055435,Phoenix Compact,PRD-0066,OptimaFood Cheese Lite,Dairy,12,Incorrect Shipment,185.24
+RET-000521,2026-11-04,INV-0067689,Nashville Compact,PRD-0022,ElitePro Juices Lite,Beverages,4,Customer Return,13.85
+RET-000522,2025-11-10,INV-0058843,Providence Express,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Expired,10.39
+RET-000523,2026-06-23,INV-0000361,Boston Flagship,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,4,Customer Return,6.72
+RET-000524,2026-05-04,INV-0061889,Providence Express,PRD-0135,BluePeak Vitamins Select,Health & Beauty,2,Quality Issue,17.83
+RET-000525,2026-12-26,INV-0063858,Indianapolis Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,1,Customer Return,4.94
+RET-000526,2024-12-29,INV-0036927,Charlotte Standard,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,4,Damaged,2.8
+RET-000527,2026-02-13,INV-0034261,Philadelphia Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Damaged,8.83
+RET-000528,2026-08-21,INV-0069569,Nashville Compact,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,6,Quality Issue,30.9
+RET-000529,2025-10-31,INV-0030929,Philadelphia Standard,PRD-0065,NaturePath Cheese Classic,Dairy,2,Quality Issue,12.62
+RET-000530,2026-06-02,INV-0068910,Nashville Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,6,Incorrect Shipment,24.66
+RET-000531,2025-12-24,INV-0031868,Philadelphia Standard,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,1,Damaged,1.67
+RET-000532,2025-12-19,INV-0016501,Chicago Flagship,PRD-0043,naturepath chips & crisps plus 750g,Snacks,8,Expired,9.72
+RET-000533,2025-03-07,INV-0044032,Columbus Standard,PRD-0033,NaturePath Energy Drinks Plus,Beverages,1,Customer Return,3.35
+RET-000534,2025-11-18,INV-0046535,Columbus Standard,PRD-0099,EverGreen Condiments Original 400g,Grocery,3,Quality Issue,13.78
+RET-000535,2026-04-06,INV-0007282,Boston Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,2,Customer Return,6.58
+RET-000536,2026-04-04,INV-0021744,Chicago Flagship,PRD-0159,ElitePro Cleaning Products Lite,Household,6,Quality Issue,63.67
+RET-000537,2025-05-10,INV-0004703,Boston Flagship,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,3,Customer Return,19.32
+RET-000538,2025-05-23,INV-0041943,Charlotte Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,2,Damaged,44.06
+RET-000539,2026-01-03,INV-0064726,Indianapolis Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,9,Customer Return,25.53
+RET-000540,2025-08-16,INV-0068843,Nashville Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,3,Expired,8.31
+RET-000541,2025-07-30,INV-0000439,Boston Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Incorrect Shipment,2.34
+RET-000542,2026-09-18,INV-0073552,Detroit Compact,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,6,Incorrect Shipment,10.48
+RET-000543,2026-02-11,INV-0073587,Detroit Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,5,Damaged,8.76
+RET-000544,2026-09-10,INV-0054404,Phoenix Compact,PRD-0019,CoastalSelect Juices Deluxe,Beverages,2,Damaged,8.24
+RET-000545,2025-06-17,INV-0040553,Charlotte Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,2,Incorrect Shipment,8.79
+RET-000546,2026-12-27,INV-0071385,Salt Lake City Express,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Expired,1.32
+RET-000547,2026-08-22,INV-0016256,Chicago Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,2,Customer Return,4.53
+RET-000548,2025-04-29,INV-0021024,Chicago Flagship,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,1,Damaged,6.51
+RET-000549,2026-08-13,INV-0022559,Denver Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,1,Damaged,3.23
+RET-000550,2026-09-12,INV-0051938,Tampa Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Expired,46.12
+RET-000551,2026-03-01,INV-0065550,Indianapolis Standard,PRD-0104,GoldCrest Pasta & Grains Classic 750g,Grocery,1,Customer Return,2.06
+RET-000552,2026-06-30,INV-0058493,Providence Express,PRD-0018,CoastalSelect Juices Plus,Beverages,1,,1.89
+RET-000553,2026-07-09,INV-0042296,Charlotte Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Expired,22.16
+RET-000554,2024-12-05,INV-0015438,Chicago Flagship,PRD-0016,FreshFirst Juices Deluxe,Beverages,3,Expired,12.48
+RET-000555,2026-06-18,INV-0041896,Charlotte Standard,prd-0139,FreshFirst Vitamins Original,Health & Beauty,6,Customer Return,33.39
+RET-000556,2025-10-15,INV-0068958,Nashville Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,4,Customer Return,33.84
+RET-000557,2026-12-23,INV-0052491,Tampa Compact,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Expired,15.25
+RET-000558,2025-05-23,INV-0042481,Charlotte Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,5,Damaged,48.82
+RET-000559,2025-06-24,INV-0052557,Tampa Compact,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Damaged,8.21
+RET-000560,2026-01-07,INV-0005745,Boston Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Incorrect Shipment,5.41
+RET-000561,2026-11-18,INV-0033226,Philadelphia Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,3,Damaged,35.16
+RET-000562,2026-04-07,INV-0004849,Boston Flagship,PRD-0102,ClearSpring Condiments Lite 750g,Grocery,1,Damaged,2.94
+RET-000563,2026-06-17,INV-0002810,Boston Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Damaged,2.73
+RET-000564,2025-03-09,INV-0051429,Tampa Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,2,Customer Return,16.31
+RET-000565,2026-09-04,INV-0006935,Boston Flagship,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Customer Return,3.84
+RET-000566,2026-06-03,INV-0032434,Philadelphia Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Damaged,4.12
+RET-000567,2025-11-04,INV-0043494,Columbus Standard,PRD-0018,CoastalSelect Juices Plus,Beverages,2,Damaged,3.92
+RET-000568,2025-11-02,INV-0017582,Chicago Flagship,PRD-0070,EverGreen Cheese Lite,Dairy,1,Customer Return,6.81
+RET-000569,2026-12-15,INV-0064344,Indianapolis Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,9,Customer Return,24.2
+RET-000570,2026-08-23,INV-0042014,Charlotte Standard,PRD-0142,GoldCrest Personal Care Pro,Health & Beauty,1,Expired,8.34
+RET-000571,2026-04-28,INV-0079451,Hartford Express,PRD-0155,QuickServe Cleaning Products Original,Household,1,Expired,3.16
+RET-000572,2026-02-08,INV-0061027,Providence Express,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,2,Damaged,7.8
+RET-000573,2025-12-24,INV-0014111,Atlanta Flagship,PRD-0151,HomeComfort OTC Medicine Deluxe,Health & Beauty,1,Customer Return,19.54
+RET-000574,2026-10-06,INV-0049371,Tampa Compact,PRD-0015,QuickServe Juices Premium,Beverages,3,Quality Issue,11.55
+RET-000575,2025-08-31,INV-0064026,Indianapolis Standard,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,1,Quality Issue,1.35
+RET-000576,2026-02-12,INV-0061913,Providence Express,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,2,Customer Return,18.9
+RET-000577,2026-09-25,INV-0019012,Chicago Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Damaged,7.77
+RET-000578,2026-09-29,INV-0079273,Hartford Express,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Customer Return,9.68
+RET-000579,2026-05-07,INV-0058389,Providence Express,PRD-0015,QuickServe Juices Premium,Beverages,5,Damaged,21.93
+RET-000580,2026-11-20,INV-0028266,Philadelphia Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Expired,1.86
+RET-000581,2026-08-19,INV-0005380,Boston Flagship,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Expired,13.93
+RET-000582,2025-08-03,INV-0062324,Providence Express,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,2,Damaged,30.81
+RET-000583,2026-04-09,INV-0013777,Atlanta Flagship,PRD-0139 ,FreshFirst Vitamins Original,Health & Beauty,2,Damaged,14.91
+RET-000584,2026-07-26,INV-0035553,Philadelphia Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,3,Customer Return,31.34
+RET-000585,2026-05-23,INV-0036531,Charlotte Standard,PRD-0014,OptimaFood Juices Select,Beverages,3,Customer Return,8.04
+RET-000586,2026-01-21,INV-0051011,Tampa Compact,PRD-0067,EverGreen Cheese Classic,Dairy,3,Damaged,42.1
+RET-000587,2025-03-17,INV-0016176,Chicago Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,2,Damaged,3.55
+RET-000588,2026-08-11,INV-0039338,Charlotte Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Damaged,3.83
+RET-000589,2025-12-01,INV-0023713,Denver Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Damaged,1.21
+RET-000590,2026-08-04,INV-0012927,Atlanta Flagship,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,4,Customer Return,35.95
+RET-000591,2025-11-16,INV-0063212,Indianapolis Standard,PRD-0015,QuickServe Juices Premium,Beverages,12,Damaged,48.93
+RET-000592,2026-12-31,INV-0055931,Phoenix Compact,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Customer Return,2.29
+RET-000593,2026-04-02,INV-0034955,Philadelphia Standard,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Incorrect Shipment,4.01
+RET-000594,2026-07-19,INV-0006248,Boston Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,5,Incorrect Shipment,38.7
+RET-000595,2026-12-17,INV-0080313,Milwaukee Compact,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,3,Incorrect Shipment,19.91
+RET-000596,2025-08-09,INV-0013264,Atlanta Flagship,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,3,Expired,21.95
+RET-000597,2026-02-04,INV-0013056,Atlanta Flagship,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Quality Issue,5.53
+RET-000598,2026-12-22,INV-0063198,Indianapolis Standard,PRD-0014,OptimaFood Juices Select,Beverages,7,Customer Return,19.52
+RET-000599,2025-08-25,INV-0019173,Chicago Flagship,PRD-0101,SunRise Condiments Original 400g,Grocery,4,Quality Issue,11.83
+RET-000600,2025-12-11,INV-0049982,Tampa Compact,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,9,Expired,55.12
+RET-000601,2025-11-18,INV-0018451,Chicago Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Expired,2.08
+RET-000602,2025-10-04,INV-0072045,Salt Lake City Express,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Quality Issue,4.07
+RET-000603,2026-06-07,INV-0054031,Phoenix Compact,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,8,Damaged,13.35
+RET-000604,2026-12-15,INV-0054604,Phoenix Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Damaged,1.8
+RET-000605,2026-01-29,INV-0052567,Tampa Compact,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Expired,8.49
+RET-000606,2025-10-30,INV-0059468,Providence Express,PRD-0053,UrbanUarvest Nuts & Seeds Original 400g,Snacks,3,Damaged,26.97
+RET-000607,2026-08-10,INV-0013232,Atlanta Flagship,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,1,Expired,6.37
+RET-000608,2026-10-02,INV-0021967,Chicago Flagship,PRD-0163,SunRise Paper Products Premium,Household,5,Expired,41.27
+RET-000609,2026-12-12,INV-0046364,Columbus Standard,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,1,Damaged,8.01
+RET-000610,2026-04-13,INV-0045079,Columbus Standard,PRD-0065,NaturePath Cheese Classic,Dairy,3,Quality Issue,18.49
+RET-000611,2026-08-16,INV-0071557,Salt Lake City Express,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,Incorrect Shipment,4.78
+RET-000612,2025-11-24,INV-0043718,Columbus Standard,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,11,Customer Return,18.71
+RET-000613,2025-10-09,INV-0071620,Salt Lake City Express,PRD-0065,NaturePath Cheese Classic,Dairy,9,Expired,55.46
+RET-000614,2025-08-21,INV-0035167,Philadelphia Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Expired,21.99
+RET-000615,2025-07-20,INV-0038690,Charlotte Standard,PRD-0066,OptimaFood Cheese Lite,Dairy,2,Incorrect Shipment,33.44
+RET-000616,2025-06-20,INV-0037069,Charlotte Standard, PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,4,Customer Return,6.81
+RET-000617,2025-12-09,INV-0005438,Boston Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Expired,11.16
+RET-000618,2026-09-10,INV-0073286,Detroit Compact,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Customer Return,2.31
+RET-000619,2026-05-21,INV-0073593,Detroit Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,7,Expired,12.67
+RET-000620,2026-09-19,INV-0023842,Denver Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,4,Damaged,28.31
+RET-000621,2026-03-18,INV-0025947,Denver Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Customer Return,15.1
+RET-000622,2026-04-24,INV-0003187,Boston Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,1,Damaged,11.39
+RET-000623,2025-12-28,INV-0068536,Nashville Compact,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,7,Damaged,19.05
+RET-000624,2026-04-09,INV-0055536,Phoenix Compact,PRD-0071,CoastalSelect Cheese Lite,Dairy,3,Customer Return,32.16
+RET-000625,2026-06-15,INV-0006246,Boston Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,9,Customer Return,80.26
+RET-000626,2026-08-12,INV-0079874,Milwaukee Compact,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,2,Customer Return,18.32
+RET-000627,2025-02-07,INV-0011693,Atlanta Flagship,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,3,Damaged,11.46
+RET-000628,2026-12-31,INV-0055990,Phoenix Compact,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Expired,3.75
+RET-000629,2026-10-13,INV-0008403,Atlanta Flagship,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,4,Quality Issue,11.26
+RET-000630,2025-10-10,INV-0049022,Tampa Compact,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,3,Damaged,7.51
+RET-000631,2026-07-02,INV-0031883,Philadelphia Standard,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,1,Damaged,1.58
+RET-000632,2025-08-14,INV-0031337,Philadelphia Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,1,Customer Return,2.93
+RET-000633,2025-10-25,INV-0067113,Nashville Compact,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,1,Expired,1.88
+RET-000634,2025-12-19,INV-0019499,Chicago Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,3,Quality Issue,35.41
+RET-000635,2025-11-16,INV-0025838,Denver Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Damaged,11.11
+RET-000636,2026-05-16,INV-0073238,Detroit Compact,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Quality Issue,1.7
+RET-000637,2025-09-29,INV-0034309,Philadelphia Standard,PRD-0134,PureChoice Vitamins Deluxe,Health & Beauty,1,Damaged,18.59
+RET-000638,2025-11-25,INV-0034256,Philadelphia Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,4,Damaged,33.72
+RET-000639,2026-07-31,INV-0019185,Chicago Flagship,PRD-0101,SunRise Condiments Original 400g,Grocery,6,Customer Return,18.04
+RET-000640,2026-12-23,INV-0018806,Chicago Flagship,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,2,Damaged,4.36
+RET-000641,2025-11-15,INV-0035797,Charlotte Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Quality Issue,1.5
+RET-000642,2025-08-29,INV-0053277,Tampa Compact,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,1,Damaged,7.17
+RET-000643,2026-03-05,INV-0034705,Philadelphia Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Expired,22.19
+RET-000644,2026-02-28,INV-0077400,Raleigh Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,4,Quality Issue,23.41
+RET-000645,2026-12-09,INV-0060536,Providence Express,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,1,Customer Return,2.68
+RET-000646,2025-07-08,INV-0022298,Denver Standard,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,3,Incorrect Shipment,7.1
+RET-000647,2026-08-28,INV-0072631,Salt Lake City Express,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,5,Damaged,38.56
+RET-000648,2026-03-30,INV-0018084,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,2,Damaged,7.73
+RET-000649,2026-06-06,INV-0018108,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,4.16
+RET-000650,2026-12-31,INV-0056562,Phoenix Compact,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,2,Damaged,28.65
+RET-000651,2025-10-09,INV-0067962,Nashville Compact,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Expired,4.56
+RET-000652,2026-10-02,INV-0014092,Atlanta Flagship,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Quality Issue,16.5
+RET-000653,2025-07-24,INV-0012564,Atlanta Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Customer Return,23.09
+RET-000654,2026-03-17,INV-0000184,Boston Flagship,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,9,Expired,14.22
+RET-000655,2026-12-10,INV-0021542,Chicago Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,3.34
+RET-000656,2025-12-03,INV-0045626,Columbus Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,2,Damaged,7.01
+RET-000657,2025-10-04,INV-0013107,Atlanta Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Incorrect Shipment,4.86
+RET-000658,2025-12-31,INV-0025366,Denver Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,7,Customer Return,26.98
+RET-000659,2025-10-03,INV-0045423,Columbus Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,6,Quality Issue,16.84
+RET-000660,2024-11-30,INV-0006495,Boston Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Expired,7.04
+RET-000661,2025-12-28,INV-0058751,Providence Express,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,7,Expired,11.97
+RET-000662,2025-03-30,INV-0038752,Charlotte Standard,PRD-0067,EverGreen Cheese Classic,Dairy,15,Incorrect Shipment,187.83
+RET-000663,2026-02-08,INV-0071136,Salt Lake City Express,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,3,Damaged,6.11
+RET-000664,2025-05-11,INV-0031017,Philadelphia Standard,PRD-0067,EverGreen Cheese Classic,Dairy,1,Quality Issue,14.07
+RET-000665,2026-04-09,INV-0049949,Tampa Compact,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Expired,4.61
+RET-000666,2026-01-16,INV-0039169,Charlotte Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,4,Quality Issue,11.24
+RET-000667,2026-12-31,INV-0032003,Philadelphia Standard,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,5,Expired,7.81
+RET-000668,2025-11-17,INV-0066505,Indianapolis Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Customer Return,21.24
+RET-000669,2026-05-11,INV-0072310,Salt Lake City Express,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Customer Return,15.22
+RET-000670,2026-06-15,INV-0017231,Chicago Flagship,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Customer Return,3.77
+RET-000671,2026-07-25,INV-0064384,Indianapolis Standard,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Quality Issue,3.38
+RET-000672,2025-09-16,INV-0060077,Providence Express,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Incorrect Shipment,2.98
+RET-000673,2026-12-09,INV-0007315,Boston Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,1,Customer Return,3.18
+RET-000674,2025-09-11,INV-0001179,Boston Flagship,PRD-0024,SunRise Water & Sparkling Premium,Beverages,1,Damaged,1.24
+RET-000675,2025-07-10,INV-0058314,Providence Express,PRD-0014,OptimaFood Juices Select,Beverages,1,Quality Issue,2.74
+RET-000676,2026-12-02,INV-0066388,Indianapolis Standard,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Quality Issue,9.82
+RET-000677,2026-07-23,INV-0000527,Boston Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Customer Return,2.64
+RET-000678,2025-06-04,INV-0023486,Denver Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,7,Customer Return,34.14
+RET-000679,2024-11-20,INV-0016383,Chicago Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,7,Damaged,28.02
+RET-000680,2025-04-25,INV-0007899,Atlanta Flagship,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Incorrect Shipment,1.67
+RET-000681,2024-11-09,INV-0003407,Boston Flagship,PRD-0073,QuickServe Yogurt Pro,Dairy,2,Expired,4.98
+RET-000682,2024-11-17,INV-0040837,Charlotte Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,5,Damaged,65.25
+RET-000683,2026-08-16,INV-0063083,Indianapolis Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,2,Damaged,5.09
+RET-000684,2025-10-02,INV-0072610,Salt Lake City Express,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Customer Return,8.49
+RET-000685,2026-01-23,INV-0031416,Philadelphia Standard,PRD-0074,BluePeak Yogurt Deluxe,Dairy,1,Quality Issue,5.22
+RET-000686,2026-02-04,INV-0068970,Nashville Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,4,Expired,35.1
+RET-000687,2026-12-28,INV-0033952,Philadelphia Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,4,Customer Return,27.63
+RET-000688,2025-12-30,INV-0054333,Phoenix Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Customer Return,3.59
+RET-000689,2026-02-26,INV-0012981,Atlanta Flagship,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,3,Incorrect Shipment,21.81
+RET-000690,2026-07-16,INV-0038678,Charlotte Standard,PRD-0065,NaturePath Cheese Classic,Dairy,14,Expired,84.81
+RET-000691,2026-10-02,INV-0031538,Philadelphia Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,7,Customer Return,17.6
+RET-000692,2026-11-10,INV-0052339,Tampa Compact,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Customer Return,23.22
+RET-000693,2026-06-30,INV-0044640,Columbus Standard,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,7,Damaged,48.68
+RET-000694,2026-02-02,INV-0001560,Boston Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Damaged,4.29
+RET-000695,2026-10-08,INV-0033417,Philadelphia Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Expired,14.58
+RET-000696,2026-12-16,INV-0062977,Indianapolis Standard,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,1,Damaged,2.3
+RET-000697,2025-04-27,INV-0045460,Columbus Standard,PRD-0074,BluePeak Yogurt Deluxe,Dairy,1,Incorrect Shipment,5.43
+RET-000698,2025-12-21,INV-0028857,Philadelphia Standard,PRD-0018,CoastalSelect Juices Plus,Beverages,4,Incorrect Shipment,8.29
+RET-000699,2026-12-13,INV-0071723,Salt Lake City Express,PRD-0072,FreshFirst Cheese Select,Dairy,1,Expired,5.88
+RET-000700,2026-04-21,INV-0068690,Nashville Compact,PRD-0067,EverGreen Cheese Classic,Dairy,1,Customer Return,12.85
+RET-000701,2026-11-04,INV-0070270,Nashville Compact,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,3,Expired,21.74
+RET-000702,2026-08-17,INV-0059202,Providence Express,prd-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,2,Damaged,4.67
+RET-000703,2026-04-18,INV-0017640,Chicago Flagship,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,Damaged,11.39
+RET-000704,2026-11-15,INV-0068243,Nashville Compact,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,2,Expired,7.05
+RET-000705,2026-01-15,INV-0068014,Nashville Compact,PRD-0034,ClearSpring Energy Drinks Premium,Beverages,1,Expired,3.66
+RET-000706,2026-05-17,INV-0073506,Detroit Compact,PRD-0020,HomeComfort Juices Value,Beverages,4,Customer Return,18.44
+RET-000707,2025-12-23,INV-0067207,Nashville Compact,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Damaged,1.66
+RET-000708,2025-06-08,INV-0027868,Philadelphia Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,2,Incorrect Shipment,2.74
+RET-000709,2026-12-31,INV-0068619,Nashville Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Damaged,3.65
+RET-000710,2026-04-18,INV-0041694,Charlotte Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,3,,23.36
+RET-000711,2026-03-18,INV-0067812,Nashville Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,5,Damaged,8.92
+RET-000712,2026-07-30,INV-0001589,Boston Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Damaged,11.36
+RET-000713,2025-11-09,INV-0046885,Columbus Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,3,Damaged,34.29
+RET-000714,2026-09-12,INV-0053342,Tampa Compact,PRD-0145,QuickServe Personal Care Pro,Health & Beauty,5,Incorrect Shipment,57.55
+RET-000715,2026-04-01,INV-0003517,Boston Flagship,PRD-0074,BluePeak Yogurt Deluxe,Dairy,4,Expired,21.75
+RET-000716,2025-06-27,INV-0056335,Phoenix Compact,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Expired,2.87
+RET-000717,2025-06-16,INV-0040552,Charlotte Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,2,Quality Issue,9.33
+RET-000718,2026-08-04,INV-0073825,Detroit Compact,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,3,Quality Issue,13.77
+RET-000719,2025-10-29,INV-0004712,Boston Flagship,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Customer Return,5.78
+RET-000720,2026-12-31,INV-0022569,Denver Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,7,Customer Return,20.17
+RET-000721,2026-12-14,INV-0078373,Hartford Express,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,2,Expired,2.64
+RET-000722,2026-11-10,INV-0002963,Boston Flagship,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,3,Damaged,11.37
+RET-000723,2024-11-29,INV-0007551,Boston Flagship,PRD-0160,BluePeak Cleaning Products Plus,Household,3,Customer Return,26.33
+RET-000724,2026-12-31,INV-0047554,Columbus Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Incorrect Shipment,7.47
+RET-000725,2025-10-29,INV-0049400,Tampa Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,2,Quality Issue,8.19
+RET-000726,2025-12-23,INV-0074420,Detroit Compact,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,3,Customer Return,26.32
+RET-000727,2025-04-20,INV-0007128,Boston Flagship,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,2,Expired,42.54
+RET-000728,2026-08-23,INV-0006590,Boston Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,2,Customer Return,14.13
+RET-000729,2026-08-02,INV-0011287,Atlanta Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,4.11
+RET-000730,2026-11-08,INV-0043288,Columbus Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,3,Expired,7.9
+RET-000731,2025-05-04,INV-0004587,Boston Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,3,Customer Return,22.66
+RET-000732,2025-12-14,INV-0065272,Indianapolis Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Incorrect Shipment,3.76
+RET-000733,2025-07-04,INV-0035410,Philadelphia Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,1,,9.56
+RET-000734,2026-12-02,INV-0075363,Detroit Compact,prd-0132,ClearSpring Ice Cream Classic,Frozen Foods,2,Damaged,17.68
+RET-000735,2026-01-06,INV-0035482,Philadelphia Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Customer Return,5.29
+RET-000736,2026-04-25,INV-0041815,Charlotte Standard,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,4,Customer Return,90.87
+RET-000737,2026-05-10,INV-0072573,Salt Lake City Express,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,5,Damaged,31.35
+RET-000738,2026-10-04,INV-0052060,Tampa Compact,PRD-0101,SunRise Condiments Original 400g,Grocery,3,Damaged,9.82
+RET-000739,2026-12-07,INV-0049382,Tampa Compact,PRD-0015,quickserve juices premium,Beverages,1,Customer Return,3.99
+RET-000740,2025-03-12,INV-0057657,Phoenix Compact,PRD-0160,BluePeak Cleaning Products Plus,Household,1,Customer Return,8.92
+RET-000741,2026-10-03,INV-0060908,Providence Express,PRD-0099,EverGreen Condiments Original 400g,Grocery,2,Customer Return,8.09
+RET-000742,2026-11-09,INV-0080034,Milwaukee Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Damaged,4.13
+RET-000743,2026-04-21,INV-0008521,Atlanta Flagship,PRD-0014,OptimaFood Juices Select,Beverages,2,Damaged,5.1
+RET-000744,2026-04-05,INV-0061927,Providence Express,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Incorrect Shipment,9.3
+RET-000745,2026-03-20,INV-0071800,Salt Lake City Express,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Incorrect Shipment,3.78
+RET-000746,2026-08-13,INV-0072533,Salt Lake City Express,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,2,Incorrect Shipment,14.23
+RET-000747,2025-12-24,INV-0006547,Boston Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,4,Damaged,29.93
+RET-000748,2026-12-31,INV-0021017,Chicago Flagship,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Customer Return,22.96
+RET-000749,2025-07-24,INV-0049482,Tampa Compact,PRD-0019,CoastalSelect Juices Deluxe,Beverages,4,Quality Issue,15.69
+RET-000750,2026-10-11,INV-0054689,Phoenix Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,9,Expired,17.9
+RET-000751,2026-08-27,INV-0002099,Boston Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,4,Customer Return,16.93
+RET-000752,2025-10-19,INV-0020822,Chicago Flagship,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,2,Damaged,36.43
+RET-000753,2026-07-19,INV-0071126,Salt Lake City Express,PRD-0029,SunRise Water & Sparkling Classic,Beverages,2,Damaged,1.62
+RET-000754,2026-08-09,INV-0080477,Milwaukee Compact,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,2.37
+RET-000755,2026-11-24,INV-0069130,Nashville Compact,prd-0088,UrbanHarvest Canned Goods Original 500g,Grocery,3,Customer Return,6.29
+RET-000756,2026-08-09,INV-0033298,Philadelphia Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Customer Return,15.61
+RET-000757,2026-03-25,INV-0029928,Philadelphia Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,1,Expired,4.58
+RET-000758,2026-07-22,INV-0053135,Tampa Compact,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,7,Expired,154.55
+RET-000759,2026-12-07,INV-0001274,Boston Flagship,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,1,Expired,0.77
+RET-000760,2026-04-08,INV-0005614,Boston Flagship,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,2,Customer Return,14.52
+RET-000761,2024-10-18,INV-0025674,Denver Standard,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,3,Quality Issue,11.31
+RET-000762,2026-06-05,INV-0077490,Raleigh Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,3,Expired,24.91
+RET-000763,2026-04-16,INV-0016352,Chicago Flagship,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,3,Incorrect Shipment,14.37
+RET-000764,2026-01-12,INV-0057041,Phoenix Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,6,Damaged,53.11
+RET-000765,2025-03-19,INV-0053986,Phoenix Compact,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,1,Incorrect Shipment,1.81
+RET-000766,2026-07-16,INV-0042247,Charlotte Standard,PRD-0151,HomeComfort OTC Medicine Deluxe,Health & Beauty,1,Customer Return,21.87
+RET-000767,2026-04-07,INV-0026922,Denver Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,6,Quality Issue,47.13
+RET-000768,2026-12-31,INV-0013654,Atlanta Flagship,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,9,Quality Issue,77.18
+RET-000769,2026-03-30,INV-0005448,Boston Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,2,Damaged,24.07
+RET-000770,2026-01-06,INV-0002800,Boston Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,6,Expired,17.58
+RET-000771,2026-07-23,INV-0066150,Indianapolis Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,3,Incorrect Shipment,20.62
+RET-000772,2026-01-17,INV-0039376,Charlotte Standard,PRD-0080,PureChoice Butter & Spreads Select,Dairy,2,Expired,15.05
+RET-000773,2025-05-29,INV-0025508,Denver Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Damaged,6.61
+RET-000774,2026-02-01,INV-0006669,Boston Flagship,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,5,Customer Return,104.28
+RET-000775,2026-07-23,INV-0058889,Providence Express,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Expired,2.19
+RET-000776,2025-07-18,INV-0035974,Charlotte Standard,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,3,Quality Issue,3.23
+RET-000777,2024-11-17,INV-0010076,Atlanta Flagship,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,1,Quality Issue,6.94
+RET-000778,2025-10-01,INV-0026311,Denver Standard, PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Customer Return,5.13
+RET-000779,2026-11-19,INV-0008215,Atlanta Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,5,Customer Return,12.19
+RET-000780,2026-11-08,INV-0011628,Atlanta Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,5,Customer Return,10.88
+RET-000781,2025-07-28,INV-0008328,Atlanta Flagship,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Customer Return,2.77
+RET-000782,2025-12-15,INV-0042272,Charlotte Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,3,Damaged,62.31
+RET-000783,2026-01-08,INV-0031069,Philadelphia Standard,PRD-0067,EverGreen Cheese Classic,Dairy,5,Damaged,73.28
+RET-000784,2026-12-29,INV-0053345,Tampa Compact,PRD-0145,QuickServe Personal Care Pro,Health & Beauty,7,Quality Issue,82.99
+RET-000785,2026-08-15,INV-0000708,Boston Flagship,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,3,Customer Return,9.87
+RET-000786,2026-03-27,INV-0058145,Providence Express,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,8,Incorrect Shipment,20.14
+RET-000787,2026-03-09,INV-0049414,Tampa Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Quality Issue,4.03
+RET-000788,2026-07-31,INV-0075691,Detroit Compact,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Customer Return,5.19
+RET-000789,2025-07-30,INV-0028481,Philadelphia Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Expired,2.63
+RET-000790,2025-06-11,INV-0035402,Philadelphia Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,3,Damaged,25.51
+RET-000791,2026-05-13,INV-0040050,Charlotte Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Incorrect Shipment,3.73
+RET-000792,2026-11-15,INV-0050690,Tampa Compact,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,1,Quality Issue,10.59
+RET-000793,2025-11-14,INV-0032342,Philadelphia Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,3,Customer Return,5.25
+RET-000794,2026-12-13,INV-0005398,Boston Flagship,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,7,Customer Return,101.28
+RET-000795,2026-05-04,INV-0058017,Providence Express,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,2,Expired,3.6
+RET-000796,2026-07-03,INV-0028606,Philadelphia Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,1,Expired,3.01
+RET-000797,2025-09-01,INV-0034945,Philadelphia Standard,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,2,Customer Return,7.87
+RET-000798,2026-07-29,INV-0028308,Philadelphia Standard,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,1,Damaged,2.37
+RET-000799,2024-12-16,INV-0006713,Boston Flagship,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,3,Expired,21.91
+RET-000800,2025-08-09,INV-0065570,Indianapolis Standard,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,2,Damaged,7.28
+RET-000801,2024-11-14,INV-0003637,Boston Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Damaged,3.97
+RET-000802,2025-06-24,INV-0047197,Columbus Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,5,Damaged,44.87
+RET-000803,2026-06-18,INV-0050080,Tampa Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Customer Return,1.97
+RET-000804,2024-10-25,INV-0009284,Atlanta Flagship,PRD-0031,FRESHFIRST ENERGY DRINKS PRO,Beverages,2,Customer Return,8.69
+RET-000805,2026-10-26,INV-0071260,Salt Lake City Express,PRD-0035,ElitePro Energy Drinks Select,Beverages,3,Quality Issue,6.59
+RET-000806,2026-11-11,INV-0073464,Detroit Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,3,Customer Return,12.63
+RET-000807,2026-03-06,INV-0039082,Charlotte Standard,PRD-0074,BluePeak Yogurt Deluxe,Dairy,2,Customer Return,11.08
+RET-000808,2026-12-23,INV-0004530,Boston Flagship,PRD-0094,SunRise Canned Goods Value 200g,Grocery,4,Expired,17.56
+RET-000809,2026-12-27,INV-0061068,Providence Express,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,9,Customer Return,24.61
+RET-000810,2026-01-08,INV-0052814,Tampa Compact,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,2,Damaged,13.5
+RET-000811,2026-07-10,INV-0065605,Indianapolis Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,7,Customer Return,21.59
+RET-000812,2025-09-11,INV-0017926,Chicago Flagship,PRD-0076,ClearSpring Yogurt Plus,Dairy,2,Customer Return,5.49
+RET-000813,2025-07-27,INV-0065591,Indianapolis Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Damaged,2.76
+RET-000814,2026-11-10,INV-0066559,Indianapolis Standard,PRD-0142,GoldCrest Personal Care Pro,Health & Beauty,4,Incorrect Shipment,34.5
+RET-000815,2026-07-12,INV-0027584,Denver Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,2,Damaged,18.42
+RET-000816,2026-10-01,INV-0073658,Detroit Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Expired,4.41
+RET-000817,2025-11-21,INV-0047964,Columbus Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Customer Return,7.77
+RET-000818,2025-09-06,INV-0031627,Philadelphia Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Quality Issue,4.31
+RET-000819,2026-05-05,INV-0072978,Salt Lake City Express,PRD-0155,QuickServe Cleaning Products Original,Household,1,Quality Issue,3.08
+RET-000820,2026-01-24,INV-0006225,Boston Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Quality Issue,8.4
+RET-000821,2026-01-24,INV-0031076,Philadelphia Standard,PRD-0067,EverGreen Cheese Classic,Dairy,2,Customer Return,26.66
+RET-000822,2026-11-18,INV-0014052,Atlanta Flagship,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,3,Customer Return,31.16
+RET-000823,2026-06-13,INV-0029016,Philadelphia Standard,PRD-0022,ElitePro Juices Lite,Beverages,1,Incorrect Shipment,3.59
+RET-000824,2025-06-15,INV-0049518,Tampa Compact,PRD-0020,HomeComfort Juices Value,Beverages,6,Damaged,26.13
+RET-000825,2024-12-17,INV-0025300,Denver Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,3,Customer Return,6.22
+RET-000826,2024-11-29,INV-0038207,Charlotte Standard,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,1,Damaged,6.9
+RET-000827,2026-05-16,INV-0066895,Indianapolis Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,2,Damaged,10.06
+RET-000828,2025-09-19,INV-0054384,Phoenix Compact,PRD-0019,CoastalSelect Juices Deluxe,Beverages,2,Quality Issue,8.42
+RET-000829,2026-10-10,INV-0056673,Phoenix Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Quality Issue,7.25
+RET-000830,2026-10-07,INV-0056441,Phoenix Compact,PRD-0113 ,SunRise Frozen Meals Plus,Frozen Foods,2,Expired,23.92
+RET-000831,2025-07-16,INV-0018019,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Quality Issue,4.14
+RET-000832,2025-05-29,INV-0013686,Atlanta Flagship,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,1,Damaged,20.83
+RET-000833,2026-03-31,INV-0027296,Denver Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Incorrect Shipment,15.34
+RET-000834,2025-12-01,INV-0072065,Salt Lake City Express,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,1,Customer Return,7.01
+RET-000835,2026-01-10,INV-0063873,Indianapolis Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,2,Customer Return,9.11
+RET-000836,2026-04-26,INV-0048777,Tampa Compact,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Damaged,1.45
+RET-000837,2026-10-08,INV-0008298,Atlanta Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Customer Return,2.4
+RET-000838,2026-12-18,INV-0030777,Philadelphia Standard,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,6,Damaged,24.52
+RET-000839,2026-01-24,INV-0074187,Detroit Compact,PRD-0067,EverGreen Cheese Classic,Dairy,1,Damaged,14.08
+RET-000840,2026-10-05,INV-0054724,Phoenix Compact,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Expired,4.69
+RET-000841,2026-12-31,INV-0060243,Providence Express,PRD-0078,ValuBrand Yogurt Classic,Dairy,4,Quality Issue,15.97
+RET-000842,2026-02-17,INV-0029925,Philadelphia Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,5,Damaged,21.39
+RET-000843,2025-04-21,INV-0039951,Charlotte Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,3,Quality Issue,6.28
+RET-000844,2026-12-13,INV-0042424,Charlotte Standard,PRD-0155,QuickServe Cleaning Products Original,Household,2,Damaged,5.95
+RET-000845,2025-05-18,INV-0023674,Denver Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,1,Incorrect Shipment,2.73
+RET-000846,2026-11-29,INV-0068189,Nashville Compact,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,5,Quality Issue,21.78
+RET-000847,2026-03-31,INV-0071586,Salt Lake City Express,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Quality Issue,3.64
+RET-000848,2026-12-13,INV-0014166,Atlanta Flagship,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,5,Incorrect Shipment,117.52
+RET-000849,2026-12-01,INV-0078904,Hartford Express,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,2,Customer Return,12.26
+RET-000850,2025-11-19,INV-0040435,Charlotte Standard,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,2,Customer Return,4.47
+RET-000851,2026-08-09,INV-0018349,Chicago Flagship,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,1,Damaged,1.38
+RET-000852,2026-12-12,INV-0078300,Hartford Express,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Damaged,2.21
+RET-000853,2024-11-29,INV-0023526,Denver Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,2,Customer Return,8.44
+RET-000854,2025-12-18,INV-0038297,Charlotte Standard,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,2,Expired,10.52
+RET-000855,2026-11-19,INV-0025594,Denver Standard,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,2,Expired,14.64
+RET-000856,2026-01-02,INV-0073933,Detroit Compact,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,2,Customer Return,15.23
+RET-000857,2025-10-18,INV-0051165,Tampa Compact,PRD-0073,QuickServe Yogurt Pro,Dairy,2,Damaged,3.87
+RET-000858,2026-01-13,INV-0006328,Boston Flagship,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,2,Expired,17.23
+RET-000859,2024-12-16,INV-0039526,Charlotte Standard,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,1,Expired,1.26
+RET-000860,2026-08-10,INV-0033301,Philadelphia Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Incorrect Shipment,13.84
+RET-000861,2025-08-12,INV-0038778,Charlotte Standard,PRD-0067,EverGreen Cheese Classic,Dairy,4,Customer Return,57.46
+RET-000862,2025-05-06,INV-0020086,Chicago Flagship,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,2,Customer Return,8.64
+RET-000863,2026-05-25,INV-0055626,Phoenix Compact,PRD-0074,BluePeak Yogurt Deluxe,Dairy,1,Customer Return,5.18
+RET-000864,2025-09-10,INV-0052195,Tampa Compact,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,2,Customer Return,10.12
+RET-000865,2026-06-30,INV-0059244,Providence Express,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,3,Damaged,10.52
+RET-000866,2026-04-30,INV-0031672,Philadelphia Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Quality Issue,4.16
+RET-000867,2025-04-21,INV-0000240,Boston Flagship,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,1,Damaged,1.8
+RET-000868,2025-07-05,INV-0037436,Charlotte Standard,PRD-0034,ClearSpring Energy Drinks Premium,Beverages,11,Expired,38.97
+RET-000869,2026-05-13,INV-0068260,Nashville Compact,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,4,Customer Return,12.41
+RET-000870,2025-09-30,INV-0024520,Denver Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,3,Expired,37.79
+RET-000871,2025-05-26,INV-0030518,Philadelphia Standard,PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,1,Customer Return,5.31
+RET-000872,2026-08-27,INV-0001923,Boston Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Expired,2.19
+RET-000873,2026-02-22,INV-0051762,Tampa Compact,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,5,Damaged,14.74
+RET-000874,2026-10-14,INV-0076135,Raleigh Standard,PRD-0020,HomeComfort Juices Value,Beverages,8,Expired,35.01
+RET-000875,2025-08-24,INV-0027877,Philadelphia Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Customer Return,1.36
+RET-000876,2025-08-05,INV-0034772,Philadelphia Standard,PRD-0142,GoldCrest Personal Care Pro,Health & Beauty,4,Expired,32.98
+RET-000877,2026-05-09,INV-0001432,Boston Flagship,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Damaged,1.73
+RET-000878,2026-06-18,INV-0057818,Providence Express,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,4,Expired,6.15
+RET-000879,2026-07-12,INV-0047222,Columbus Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Damaged,9.29
+RET-000880,2026-01-05,INV-0009522,Atlanta Flagship,prd-0035,ElitePro Energy Drinks Select,Beverages,2,Expired,4.12
+RET-000881,2026-04-12,INV-0057056,Phoenix Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Damaged,8.71
+RET-000882,2026-04-21,INV-0075846,Raleigh Standard,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Damaged,1.59
+RET-000883,2025-08-27,INV-0027437,Denver Standard,PRD-0155,QuickServe Cleaning Products Original,Household,1,Damaged,3.19
+RET-000884,2026-12-31,INV-0025539,Denver Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,6,Damaged,40.05
+RET-000885,2026-02-19,INV-0053634,Tampa Compact,PRD-0157,EverGreen Cleaning Products Lite,Household,1,Incorrect Shipment,9.74
+RET-000886,2025-04-01,INV-0017992,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Damaged,11.87
+RET-000887,2026-06-09,INV-0034279,Philadelphia Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,9,Damaged,76.44
+RET-000888,2026-05-10,INV-0001336,Boston Flagship,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,9,Customer Return,14.21
+RET-000889,2026-12-11,INV-0055986,Phoenix Compact,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,6,Damaged,23.16
+RET-000890,2026-12-05,INV-0002216,Boston Flagship,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,4,Customer Return,15.48
+RET-000891,2026-08-13,INV-0018920,Chicago Flagship,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,1,Customer Return,7.79
+RET-000892,2025-09-11,INV-0038630,Charlotte Standard,PRD-0064,NaturePath Cookies & Bars Premium 200g,Snacks,2,Expired,7.21
+RET-000893,2026-10-31,INV-0061477,Providence Express,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Damaged,6.91
+RET-000894,2024-11-10,INV-0011468,Atlanta Flagship,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,2,Expired,2.84
+RET-000895,2025-12-05,INV-0068211,Nashville Compact,PRD-0042,OptimaFood Chips & Crisps Value 300g,Snacks,3,Customer Return,9.17
+RET-000896,2026-12-31,INV-0067164,Nashville Compact,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Expired,1.57
+RET-000897,2026-07-04,INV-0013359,Atlanta Flagship,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,3,Damaged,9.79
+RET-000898,2025-09-21,INV-0054613,Phoenix Compact,PRD-0029,SunRise Water & Sparkling Classic,Beverages,1,Incorrect Shipment,0.92
+RET-000899,2025-12-02,INV-0020308,Chicago Flagship,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,8,Damaged,55.13
+RET-000900,2025-08-17,INV-0036175,Charlotte Standard,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,2,Quality Issue,4.88
+RET-000901,2025-11-21,INV-0019292,Chicago Flagship,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,4,Quality Issue,15.53
+RET-000902,2025-08-01,INV-0039263,Charlotte Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Quality Issue,11.98
+RET-000903,2025-08-12,INV-0027612,Denver Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Expired,4.89
+RET-000904,2025-11-13,INV-0041164,Charlotte Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Damaged,5.31
+RET-000905,2026-06-02,INV-0068506,Nashville Compact,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Customer Return,2.64
+RET-000906,2026-12-31,INV-0078697,Hartford Express,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,1,Customer Return,8.15
+RET-000907,2024-12-25,INV-0048505,Columbus Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,1,Incorrect Shipment,4.88
+RET-000908,2025-12-03,INV-0002912,Boston Flagship,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Customer Return,3.45
+RET-000909,2026-09-10,INV-0059247,Providence Express,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,9,Quality Issue,32.62
+RET-000910,2026-10-14,INV-0002623,Boston Flagship,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,3,Quality Issue,28.61
+RET-000911,2024-12-06,INV-0028698,Philadelphia Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,4.37
+RET-000912,2026-02-24,INV-0013629,Atlanta Flagship,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Quality Issue,8.4
+RET-000913,2026-05-28,INV-0060922,Providence Express,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,1,Damaged,6.51
+RET-000914,2025-08-19,INV-0033460,Philadelphia Standard,PRD-0116,coastalselect frozen meals select,Frozen Foods,4,Damaged,45.7
+RET-000915,2024-10-28,INV-0035766,Charlotte Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,2,Expired,2.53
+RET-000916,2026-09-07,INV-0015925,Chicago Flagship,PRD-0029,SunRise Water & Sparkling Classic,Beverages,2,Customer Return,1.89
+RET-000917,2025-08-10,INV-0008155,Atlanta Flagship,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,2,Quality Issue,5.14
+RET-000918,2025-10-06,INV-0060506,Providence Express,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,2,Expired,4.94
+RET-000919,2026-04-30,INV-0026729,Denver Standard,PRD-0135,BluePeak Vitamins Select,Health & Beauty,3,Expired,27.32
+RET-000920,2026-01-20,INV-0001192,Boston Flagship,PRD-0024,SunRise Water & Sparkling Premium,Beverages,1,Expired,1.46
+RET-000921,2026-08-04,INV-0076118,Raleigh Standard,PRD-0019,CoastalSelect Juices Deluxe,Beverages,2,Damaged,7.88
+RET-000922,2024-10-15,INV-0030411,Philadelphia Standard,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,2,Customer Return,12.52
+RET-000923,2026-02-12,INV-0069607,Nashville Compact,PRD 0113,SunRise Frozen Meals Plus,Frozen Foods,1,Quality Issue,11.02
+RET-000924,2025-04-10,INV-0045589,Columbus Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,3.68
+RET-000925,2026-12-31,INV-0058541,Providence Express,PRD-0019,CoastalSelect Juices Deluxe,Beverages,1,Customer Return,4.45
+RET-000926,2026-11-28,INV-0006479,Boston Flagship,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,2,Customer Return,44.67
+RET-000927,2026-07-19,INV-0010389,Atlanta Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Expired,2.79
+RET-000928,2025-01-09,INV-0029888,Philadelphia Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,9,Customer Return,36.58
+RET-000929,2026-08-10,INV-0071107,Salt Lake City Express,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Customer Return,1.7
+RET-000930,2026-09-04,INV-0028769,Philadelphia Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,4.28
+RET-000931,2026-11-09,INV-0056164,Phoenix Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Quality Issue,7.92
+RET-000932,2026-02-08,INV-0060706,Providence Express,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Customer Return,3.69
+RET-000933,2025-05-03,INV-0027233,Denver Standard,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,1,Quality Issue,10.1
+RET-000934,2026-07-30,INV-0022508,Denver Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,6,Customer Return,15.07
+RET-000935,2026-02-17,INV-0036347,Charlotte Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Customer Return,2.76
+RET-000936,2026-12-31,INV-0032929,Philadelphia Standard,PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,1,Expired,4.18
+RET-000937,2026-12-15,INV-0074406,Detroit Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Incorrect Shipment,3.92
+RET-000938,2026-12-21,INV-0073320,Detroit Compact,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Customer Return,2.53
+RET-000939,2026-08-20,INV-0075092,Detroit Compact,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,2,Expired,17.95
+RET-000940,2025-09-28,INV-0010684,Atlanta Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,1,,13.92
+RET-000941,2026-01-29,INV-0009637,Atlanta Flagship,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,1,Customer Return,4.79
+RET-000942,2025-01-02,INV-0016038,Chicago Flagship,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,8,Damaged,33.5
+RET-000943,2026-10-27,INV-0009020,Atlanta Flagship,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,7,Incorrect Shipment,10.88
+RET-000944,2025-04-29,INV-0061436,Providence Express,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Customer Return,6.18
+RET-000945,2025-11-13,INV-0070641,Salt Lake City Express,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Expired,1.48
+RET-000946,2024-12-15,INV-0030077,Philadelphia Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,5,Customer Return,14.74
+RET-000947,2025-10-02,INV-0068679,Nashville Compact,PRD-0067,EverGreen Cheese Classic,Dairy,1,Customer Return,13.12
+RET-000948,2026-04-06,INV-0014150,Atlanta Flagship,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Quality Issue,20.66
+RET-000949,2024-12-31,INV-0045578,Columbus Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,4,Quality Issue,16.7
+RET-000950,2025-09-24,INV-0041671,Charlotte Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,5,Expired,40.24
+RET-000951,2026-10-31,INV-0018881,Chicago Flagship,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Quality Issue,4.32
+RET-000952,2025-12-21,INV-0017337,Chicago Flagship,PRD-0065,NaturePath Cheese Classic,Dairy,2,Expired,12.82
+RET-000953,2026-12-13,INV-0078545,Hartford Express,PRD-0066,OptimaFood Cheese Lite,Dairy,6,Customer Return,98.64
+RET-000954,2025-09-14,INV-0015319,Chicago Flagship,PRD-0014,OptimaFood Juices Select,Beverages,1,Customer Return,2.68
+RET-000955,2026-09-03,INV-0049909,Tampa Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,4,Damaged,8.6
+RET-000956,2026-03-16,INV-0034421,Philadelphia Standard,PRD-0137,FreshFirst Vitamins Plus,Health & Beauty,2,Damaged,18.43
+RET-000957,2026-11-12,INV-0008633,Atlanta Flagship,PRD-0015,QuickServe Juices Premium,Beverages,1,Expired,4.0
+RET-000958,2026-07-16,INV-0030167,Philadelphia Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,11,Incorrect Shipment,15.21
+RET-000959,2024-12-06,INV-0030075,Philadelphia Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,4,Customer Return,11.08
+RET-000960,2025-10-02,INV-0046610,Columbus Standard,PRD-0101,SunRise Condiments Original 400g,Grocery,5,Damaged,16.59
+RET-000961,2026-11-14,INV-0064424,Indianapolis Standard,PRD-0064,NaturePath Cookies & Bars Premium 200g,Snacks,1,Damaged,4.04
+RET-000962,2026-05-10,INV-0014396,Atlanta Flagship,PRD-0158,ElitePro Cleaning Products Deluxe,Household,7,Quality Issue,36.19
+RET-000963,2026-12-07,INV-0005020,Boston Flagship,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Customer Return,2.86
+RET-000964,2026-10-21,INV-0070769,Salt Lake City Express,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Expired,2.36
+RET-000965,2025-07-03,INV-0037927,Charlotte Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Damaged,1.27
+RET-000966,2026-12-18,INV-0067753,Nashville Compact,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,5,Damaged,3.72
+RET-000967,2026-01-12,INV-0072146,Salt Lake City Express,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,1,Customer Return,7.03
+RET-000968,2025-11-12,INV-0042795,Charlotte Standard,PRD-0163,SunRise Paper Products Premium,Household,1,Customer Return,7.72
+RET-000969,2026-07-17,INV-0026567,Denver Standard,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,1,Customer Return,7.2
+RET-000970,2025-10-24,INV-0015710,Chicago Flagship,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,2,Customer Return,3.48
+RET-000971,2025-06-30,INV-0030679,Philadelphia Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,3,Customer Return,8.32
+RET-000972,2026-09-20,INV-0001454,Boston Flagship,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Expired,1.75
+RET-000973,2025-09-24,INV-0053111,Tampa Compact,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,3,Damaged,62.53
+RET-000974,2026-12-12,INV-0044171,Columbus Standard,PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,2,Damaged,6.31
+RET-000975,2026-05-17,INV-0027821,Denver Standard,PRD-0163,SunRise Paper Products Premium,Household,5,Customer Return,37.0
+RET-000976,2026-04-26,INV-0050483,Tampa Compact,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,5,Damaged,33.7
+RET-000977,2026-07-31,INV-0077691,Raleigh Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Incorrect Shipment,18.44
+RET-000978,2025-09-05,INV-0042718,Charlotte Standard,PRD-0161,PureChoice Cleaning Products Pro,Household,2,Customer Return,15.82
+RET-000979,2024-10-23,INV-0009379,Atlanta Flagship,PRD-0033,NaturePath Energy Drinks Plus,Beverages,6,Incorrect Shipment,18.09
+RET-000980,2025-08-20,INV-0051964,Tampa Compact,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Expired,6.52
+RET-000981,2025-03-04,INV-0022367,Denver Standard,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,8,Customer Return,17.82
+RET-000982,2025-05-25,INV-0008238,Atlanta Flagship,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Customer Return,2.24
+RET-000983,2026-05-28,INV-0030569,Philadelphia Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,5,Damaged,50.02
+RET-000984,2025-02-10,INV-0018163,Chicago Flagship,PRD-0081,PureChoice Butter & Spreads Lite,Dairy,2,Expired,15.92
+RET-000985,2025-10-05,INV-0047955,Columbus Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Expired,7.02
+RET-000986,2025-03-19,INV-0046600,Columbus Standard,PRD-0101,SunRise Condiments Original 400g,Grocery,1,Customer Return,3.03
+RET-000987,2026-01-05,INV-0064764,Indianapolis Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,4,Damaged,15.87
+RET-000988,2024-10-29,INV-0039131,Charlotte Standard,PRD-0076,ClearSpring Yogurt Plus,Dairy,2,Damaged,5.36
+RET-000989,2026-07-15,INV-0075120,Detroit Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,9,Quality Issue,63.62
+RET-000990,2026-10-13,INV-0036963,Charlotte Standard,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,3,Customer Return,2.28
+RET-000991,2026-05-01,INV-0043469,Columbus Standard,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Quality Issue,3.99
+RET-000992,2025-07-03,INV-0033129,Philadelphia Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,7,Customer Return,74.16
+RET-000993,2025-11-30,INV-0064222,Indianapolis Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,1,Damaged,10.05
+RET-000994,2025-05-21,INV-0014804,Chicago Flagship,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,8,Expired,12.03
+RET-000995,2025-06-13,INV-0000404,Boston Flagship,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,7,Incorrect Shipment,14.05
+RET-000996,2025-04-09,INV-0019847,Chicago Flagship,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,2,Customer Return,15.86
+RET-000997,2025-08-29,INV-0036321,Charlotte Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Customer Return,2.58
+RET-000998,2025-10-26,INV-0048921,Tampa Compact,PRD-0006,SunRise Carbonated Drinks Deluxe,Beverages,2,Quality Issue,5.67
+RET-000999,2026-08-21,INV-0050091,Tampa Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Damaged,2.22
+RET-001000,2025-12-17,INV-0037841,Charlotte Standard,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,9,Expired,31.25
+RET-001001,2024-12-02,INV-0048452,Columbus Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,3,Customer Return,27.7
+RET-001002,2026-06-12,INV-0040345,Charlotte Standard,PRD-0101,SunRise Condiments Original 400g,Grocery,3,Expired,8.74
+RET-001003,2025-02-20,INV-0014744,Chicago Flagship,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,8,Expired,16.25
+RET-001004,2026-08-18,INV-0051152,Tampa Compact,PRD-0072,FreshFirst Cheese Select,Dairy,3,Damaged,15.75
+RET-001005,2026-10-31,INV-0063643,Indianapolis Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,4,Damaged,9.06
+RET-001006,2025-03-04,INV-0033701,Philadelphia Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,5,Quality Issue,26.89
+RET-001007,2026-02-28,INV-0048520,Columbus Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,7,Damaged,36.21
+RET-001008,2025-03-22,INV-0046260,Columbus Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,1,Expired,2.08
+RET-001009,2025-09-21,INV-0000032,Boston Flagship,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,11,Damaged,14.5
+RET-001010,2026-01-08,INV-0000214,Boston Flagship,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,1,Customer Return,0.78
+RET-001011,2026-11-25,INV-0053586,Tampa Compact,PRD-0155,QuickServe Cleaning Products Original,Household,1,Expired,3.26
+RET-001012,2025-05-17,INV-0000307,Boston Flagship,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,3,Damaged,5.08
+RET-001013,2025-02-13,INV-0035699,Philadelphia Standard,PRD-0163,SunRise Paper Products Premium,Household,4,Quality Issue,29.2
+RET-001014,2026-03-04,INV-0077667,Raleigh Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Expired,16.07
+RET-001015,2026-01-12,INV-0033802,Philadelphia Standard,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,6,Customer Return,28.39
+RET-001016,2026-11-22,INV-0006617,Boston Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Incorrect Shipment,7.62
+RET-001017,2026-07-22,INV-0052933,Tampa Compact,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,2,Incorrect Shipment,13.89
+RET-001018,2025-01-08,INV-0047384,Columbus Standard,PRD-0123,NaturePath Frozen Vegetables Original,Frozen Foods,2,Quality Issue,16.44
+RET-001019,2024-10-15,INV-0024338,Denver Standard,PRD-0067,EverGreen Cheese Classic,Dairy,3,Damaged,41.55
+RET-001020,2026-07-18,INV-0020334,Chicago Flagship,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Customer Return,6.5
+RET-001021,2026-04-20,INV-0041890,Charlotte Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,2,Customer Return,15.35
+RET-001022,2026-07-01,INV-0062786,Indianapolis Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,5,Damaged,6.81
+RET-001023,2025-05-13,INV-0020515,Chicago Flagship,PRD-0130,PureChoice Ice Cream Deluxe,Frozen Foods,10,Customer Return,74.49
+RET-001024,2025-11-12,INV-0061821,Providence Express,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,9,Customer Return,70.88
+RET-001025,2026-01-09,INV-0011363,Atlanta Flagship,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,2,Quality Issue,17.48
+RET-001026,2026-06-14,INV-0024198,Denver Standard,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,6,Expired,18.74
+RET-001027,2026-10-05,INV-0003907,Boston Flagship,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,2,Customer Return,16.52
+RET-001028,2025-01-30,INV-0035581,Philadelphia Standard,PRD-0160,BluePeak Cleaning Products Plus,Household,7,Customer Return,67.9
+RET-001029,2025-02-21,INV-0012182,Atlanta Flagship,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,3,Customer Return,21.11
+RET-001030,2026-07-30,INV-0021694,Chicago Flagship,PRD-0158,ELITEPRO CLEANING PRODUCTS DELUXE,Household,2,Incorrect Shipment,9.7
+RET-001031,2026-04-08,INV-0068855,Nashville Compact,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Customer Return,2.7
+RET-001032,2026-06-12,INV-0069348,Nashville Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Customer Return,45.1
+RET-001033,2026-11-17,INV-0076856,Raleigh Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Damaged,4.1
+RET-001034,2026-12-22,INV-0052915,Tampa Compact,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,1,Customer Return,6.81
+RET-001035,2025-12-23,INV-0037663,Charlotte Standard,PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,1,Damaged,4.5
+RET-001036,2026-06-02,INV-0009712,Atlanta Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,2,Quality Issue,8.02
+RET-001037,2024-10-16,INV-0012514,Atlanta Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,1,Customer Return,11.14
+RET-001038,2025-05-30,INV-0057265,Phoenix Compact,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,7,Expired,44.0
+RET-001039,2026-01-04,INV-0012597,Atlanta Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,12,Damaged,113.96
+RET-001040,2026-11-22,INV-0071877,Salt Lake City Express,PRD-0084,HomeComfort Butter & Spreads Classic,Dairy,6,Damaged,40.75
+RET-001041,2026-05-26,INV-0038520,Charlotte Standard,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,1,Customer Return,3.75
+RET-001042,2026-08-21,INV-0013581,Atlanta Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Incorrect Shipment,8.71
+RET-001043,2026-11-23,INV-0064019,Indianapolis Standard,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Expired,1.3
+RET-001044,2025-03-28,INV-0036055,Charlotte Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Expired,1.78
+RET-001045,2026-06-24,INV-0060098,Providence Express,PRD-0076,ClearSpring Yogurt Plus,Dairy,1,Customer Return,3.08
+RET-001046,2026-02-12,INV-0071524,Salt Lake City Express,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Customer Return,2.83
+RET-001047,2026-12-19,INV-0001624,Boston Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,6,Damaged,13.48
+RET-001048,2025-05-08,INV-0008317,Atlanta Flagship,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Quality Issue,2.54
+RET-001049,2026-09-15,INV-0020687,Chicago Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Damaged,8.19
+RET-001050,2026-04-08,INV-0043733,Columbus Standard,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,7,Expired,10.24
+RET-001051,2026-01-07,INV-0020032,Chicago Flagship,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Incorrect Shipment,5.45
+RET-001052,2026-09-27,INV-0063528,Indianapolis Standard,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Quality Issue,1.87
+RET-001053,2025-10-06,INV-0017465,Chicago Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,2,Incorrect Shipment,29.25
+RET-001054,2026-10-07,INV-0049369,Tampa Compact,PRD-0015,QuickServe Juices Premium,Beverages,3,Customer Return,11.69
+RET-001055,2026-07-21,INV-0037553,Charlotte Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,4,Customer Return,8.56
+RET-001056,2026-06-17,INV-0043507,Columbus Standard,PRD-0018,CoastalSelect Juices Plus,Beverages,1,Customer Return,1.9
+RET-001057,2025-09-30,INV-0006975,Boston Flagship,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,5,Expired,52.06
+RET-001058,2025-07-26,INV-0046871,Columbus Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Customer Return,21.72
+RET-001059,2026-11-09,INV-0039358,Charlotte Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,4.26
+RET-001060,2026-06-22,INV-0000875,Boston Flagship,PRD-0015,QuickServe Juices Premium,Beverages,4,Expired,16.3
+RET-001061,2026-11-27,INV-0003572,Boston Flagship,PRD-0075,HomeComfort Yogurt Classic,Dairy,1,Customer Return,4.8
+RET-001062,2024-11-10,INV-0044840,Columbus Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,3,Customer Return,8.7
+RET-001063,2026-06-24,INV-0049891,Tampa Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Damaged,2.21
+RET-001064,2024-10-09,INV-0027082,Denver Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,1,Expired,6.33
+RET-001065,2025-07-15,INV-0032943,Philadelphia Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Damaged,2.91
+RET-001066,2026-05-25,INV-0071427,Salt Lake City Express,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,3,Customer Return,22.3
+RET-001067,2025-05-27,INV-0046158,Columbus Standard,PRD-0091,EverGreen Canned Goods Lite 200g,Grocery,1,Damaged,2.43
+RET-001068,2026-11-26,INV-0025968,Denver Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Expired,13.54
+RET-001069,2025-11-11,INV-0011653,Atlanta Flagship,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,6,Quality Issue,16.15
+RET-001070,2026-08-08,INV-0055738,Phoenix Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Quality Issue,12.58
+RET-001071,2026-12-16,INV-0076305,Raleigh Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,7,Quality Issue,14.26
+RET-001072,2025-10-28,INV-0056649,Phoenix Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,2,Customer Return,14.59
+RET-001073,2026-04-07,INV-0013290,Atlanta Flagship,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Customer Return,7.36
+RET-001074,2025-07-15,INV-0026831,Denver Standard,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,1,Incorrect Shipment,20.15
+RET-001075,2026-06-30,INV-0029626,Philadelphia Standard,PRD-0034,ClearSpring Energy Drinks Premium,Beverages,8,Customer Return,29.02
+RET-001076,2026-12-09,INV-0078715,Hartford Express,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Damaged,8.42
+RET-001077,2025-03-08,INV-0033442,Philadelphia Standard,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,3,Damaged,34.93
+RET-001078,2026-07-23,INV-0045928,Columbus Standard,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,1,Customer Return,1.31
+RET-001079,2025-07-26,INV-0007773,Atlanta Flagship,P-0001,BluePeak Carbonated Drinks Plus,Beverages,7,Customer Return,9.45
+RET-001080,2026-12-26,INV-0029787,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,7,Customer Return,14.92
+RET-001081,2026-08-16,INV-0006056,Boston Flagship,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,1,Quality Issue,6.95
+RET-001082,2025-05-09,INV-0029662,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,3,Customer Return,5.95
+RET-001083,2026-12-14,INV-0015746,Chicago Flagship,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,5,Customer Return,3.51
+RET-001084,2025-02-15,INV-0007833,Atlanta Flagship,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,2,Customer Return,3.82
+RET-001085,2025-07-11,INV-0041235,Charlotte Standard,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,1,Quality Issue,5.42
+RET-001086,2026-07-22,INV-0075834,Raleigh Standard,PRD-0002 ,PureChoice Carbonated Drinks Plus,Beverages,3,Quality Issue,6.57
+RET-001087,2026-12-05,INV-0048267,Columbus Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,5,Customer Return,89.85
+RET-001088,2026-12-08,INV-0064342,Indianapolis Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,2,,5.26
+RET-001089,2026-12-23,INV-0047183,Columbus Standard,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Damaged,12.76
+RET-001090,2025-07-13,INV-0029908,Philadelphia Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,5,Quality Issue,20.08
+RET-001091,2026-12-31,INV-0043975,Columbus Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Expired,1.97
+RET-001092,2026-06-06,INV-0025149,Denver Standard,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,3,Expired,6.39
+RET-001093,2025-08-25,INV-0054782,Phoenix Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,2,Expired,4.18
+RET-001094,2024-10-07,INV-0014368,Atlanta Flagship,PRD-0158,ElitePro Cleaning Products Deluxe,Household,5,Damaged,22.04
+RET-001095,2026-09-27,INV-0051704,Tampa Compact,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Incorrect Shipment,3.73
+RET-001096,2026-05-12,INV-0008674,Atlanta Flagship,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Customer Return,4.15
+RET-001097,2025-12-25,INV-0041872,Charlotte Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,3,Expired,22.73
+RET-001098,2026-12-31,INV-0000462,Boston Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Damaged,2.29
+RET-001099,2025-12-16,INV-0062883,Indianapolis Standard,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,4,Expired,8.06
+RET-001100,2025-12-19,INV-0060369,Providence Express,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,3,,4.66
+RET-001101,2025-05-01,INV-0007013,Boston Flagship,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,2,Quality Issue,34.49
+RET-001102,2026-09-03,INV-0051934,Tampa Compact,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Damaged,45.65
+RET-001103,2026-07-25,INV-0024641,Denver Standard,PRD-0073,QuickServe Yogurt Pro,Dairy,4,Expired,11.49
+RET-001104,2024-11-19,INV-0015436,Chicago Flagship,PRD-0016,FreshFirst Juices Deluxe,Beverages,5,Damaged,20.54
+RET-001105,2024-12-22,INV-0010629,Atlanta Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,5,Quality Issue,62.98
+RET-001106,2025-07-01,INV-0016046,Chicago Flagship,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Quality Issue,4.55
+RET-001107,2026-06-06,INV-0078370,Hartford Express,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Quality Issue,1.32
+RET-001108,2026-04-30,INV-0062613,Providence Express,PRD-0159,ElitePro Cleaning Products Lite,Household,3,Damaged,31.16
+RET-001109,2026-02-09,INV-0065929,Indianapolis Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,2,Customer Return,17.52
+RET-001110,2026-03-11,INV-0071997,Salt Lake City Express,PRD-0091,EverGreen Canned Goods Lite 200g,Grocery,2,Quality Issue,5.39
+RET-001111,2026-03-19,INV-0028507,Philadelphia Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Expired,2.61
+RET-001112,2026-09-15,INV-0073856,Detroit Compact,PRD-0042,OptimaFood Chips & Crisps Value 300g,Snacks,1,Expired,3.19
+RET-001113,2025-09-27,INV-0004792,Boston Flagship,PRD-0100,FreshFirst Condiments Pro 250g,Grocery,1,Expired,7.0
+RET-001114,2026-05-29,INV-0051112,Tampa Compact,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,Quality Issue,11.06
+RET-001115,2025-06-30,INV-0024513,Denver Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,3,Customer Return,34.14
+RET-001116,2026-05-24,INV-0028824,Philadelphia Standard,PRD-0016,FreshFirst Juices Deluxe,Beverages,5,Expired,20.18
+RET-001117,2025-09-28,INV-0009391,Atlanta Flagship,PRD-0033,NaturePath Energy Drinks Plus,Beverages,1,Customer Return,3.41
+RET-001118,2026-09-22,INV-0069413,Nashville Compact,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,5,Customer Return,34.01
+RET-001119,2026-04-07,INV-0023900,Denver Standard,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,6,Expired,40.59
+RET-001120,2026-01-23,INV-0020898,Chicago Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,2,Expired,14.7
+RET-001121,2026-02-17,INV-0046322,Columbus Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,6,Customer Return,25.89
+RET-001122,2026-12-31,INV-0070967,Salt Lake City Express,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Damaged,4.45
+RET-001123,2025-11-08,INV-0048640,Columbus Standard,PRD-0161,PureChoice Cleaning Products Pro,Household,1,Expired,7.28
+RET-001124,2026-09-24,INV-0031186,Philadelphia Standard,PRD-0070,EverGreen Cheese Lite,Dairy,7,Customer Return,45.57
+RET-001125,2025-10-24,INV-0063153,Indianapolis Standard,PRD-0014,OptimaFood Juices Select,Beverages,2,Customer Return,5.4
+RET-001126,2026-04-28,INV-0068975,Nashville Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Quality Issue,8.85
+RET-001127,2026-12-15,INV-0016274,Chicago Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Quality Issue,2.19
+RET-001128,2025-11-23,INV-0048214,Columbus Standard,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,2,Customer Return,20.25
+RET-001129,2026-09-09,INV-0066634,Indianapolis Standard,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,5,Customer Return,20.02
+RET-001130,2026-11-24,INV-0046948,Columbus Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Customer Return,23.48
+RET-001131,2026-09-01,INV-0063628,Indianapolis Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Customer Return,2.14
+RET-001132,2026-01-07,INV-0065998,Indianapolis Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Damaged,5.09
+RET-001133,2026-04-23,INV-0066287,Indianapolis Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,4,Damaged,35.7
+RET-001134,2025-03-30,INV-0005505,Boston Flagship,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,3,Quality Issue,26.0
+RET-001135,2026-12-31,INV-0048024,Columbus Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,4,Damaged,31.57
+RET-001136,2026-08-27,INV-0047098,Columbus Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Customer Return,14.23
+RET-001137,2026-05-27,INV-0029576,Philadelphia Standard,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,6,Expired,35.24
+RET-001138,2026-06-24,INV-0060786,Providence Express,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Expired,7.5
+RET-001139,2026-07-04,INV-0002454,Boston Flagship,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,9,Expired,67.93
+RET-001140,2026-03-05,INV-0053840,Tampa Compact,PRD-0163,SunRise Paper Products Premium,Household,3,Damaged,22.16
+RET-001141,2026-04-28,INV-0007288,Boston Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,1,Customer Return,3.09
+RET-001142,2026-12-31,INV-0040616,Charlotte Standard,PRD-0111, CoastalSelect Frozen Meals Select,Frozen Foods,3,Customer Return,40.38
+RET-001143,2026-07-03,INV-0023113,Denver Standard,PRD-0029,SunRise Water & Sparkling Classic,Beverages,1,Quality Issue,0.8
+RET-001144,2026-02-27,INV-0023231,Denver Standard,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,6,Damaged,25.95
+RET-001145,2025-10-03,INV-0046265,Columbus Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,2,Customer Return,4.02
+RET-001146,2026-09-10,INV-0065386,Indianapolis Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,4,Quality Issue,34.04
+RET-001147,2026-05-16,INV-0029015,Philadelphia Standard,PRD-0022,ElitePro Juices Lite,Beverages,2,Expired,7.31
+RET-001148,2026-11-17,INV-0008216,Atlanta Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,3,Customer Return,7.84
+RET-001149,2024-10-28,INV-0008795,Atlanta Flagship,PRD-0020,HomeComfort Juices Value,Beverages,1,Damaged,4.77
+RET-001150,2026-02-20,INV-0061916,Providence Express,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,3,Damaged,28.55
+RET-001151,2025-04-15,INV-0061435,Providence Express,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Expired,6.3
+RET-001152,2026-09-28,INV-0058563,Providence Express,PRD-0020,HomeComfort Juices Value,Beverages,4,Expired,18.99
+RET-001153,2026-03-05,INV-0050774,Tampa Compact,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,1,Incorrect Shipment,2.87
+RET-001154,2026-03-12,INV-0040145,Charlotte Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,6,Incorrect Shipment,50.83
+RET-001155,2025-12-10,INV-0046123,Columbus Standard,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Customer Return,4.16
+RET-001156,2026-12-31,INV-0074667,Detroit Compact,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,5,Quality Issue,10.14
+RET-001157,2026-12-16,INV-0080472,Milwaukee Compact,PRD-0152,coastalselect otc medicine original,Health & Beauty,6,Expired,131.42
+RET-001158,2024-12-03,INV-0006785,Boston Flagship,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,2,Incorrect Shipment,11.11
+RET-001159,2026-05-01,INV-0063222,Indianapolis Standard,PRD-0015,QuickServe Juices Premium,Beverages,3,Expired,12.1
+RET-001160,2026-01-28,INV-0072935,Salt Lake City Express,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Damaged,22.22
+RET-001161,2025-08-04,INV-0055163,Phoenix Compact,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,1,Customer Return,6.64
+RET-001162,2026-11-28,INV-0073089,Salt Lake City Express,PRD-0159,ElitePro Cleaning Products Lite,Household,3,Customer Return,31.25
+RET-001163,2026-06-26,INV-0063232,Indianapolis Standard,PRD-0015,QuickServe Juices Premium,Beverages,1,Customer Return,4.49
+RET-001164,2026-07-15,INV-0018116,Chicago Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,8,Damaged,31.3
+RET-001165,2026-07-01,INV-0045799,Columbus Standard,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Quality Issue,8.37
+RET-001166,2025-02-06,INV-0001805,Boston Flagship,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Damaged,1.81
+RET-001167,2026-04-01,INV-0009307,Atlanta Flagship,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Customer Return,4.44
+RET-001168,2025-10-27,INV-0007695,Boston Flagship,PRD-0163,SunRise Paper Products Premium,Household,1,Expired,8.31
+RET-001169,2025-10-19,INV-0061213,Providence Express,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,4,Expired,54.18
+RET-001170,2025-03-14,INV-0013404,Atlanta Flagship,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,1,Damaged,7.24
+RET-001171,2026-12-31,INV-0016931,Chicago Flagship,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,2,Customer Return,18.0
+RET-001172,2025-06-06,INV-0011700,Atlanta Flagship,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,6,Expired,22.98
+RET-001173,2026-05-10,INV-0046539,Columbus Standard,PRD-0099,EverGreen Condiments Original 400g,Grocery,1,Incorrect Shipment,4.74
+RET-001174,2026-05-11,INV-0069668,Nashville Compact,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Damaged,14.52
+RET-001175,2026-01-02,INV-0050851,Tampa Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,3,Expired,10.31
+RET-001176,2026-05-24,INV-0058873,Providence Express,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Customer Return,10.1
+RET-001177,2025-10-18,INV-0051045,Tampa Compact,PRD-0068,OptimaFood Cheese Deluxe,Dairy,3,Damaged,53.9
+RET-001178,2026-10-01,INV-0067785,Nashville Compact,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,1,Damaged,1.41
+RET-001179,2026-03-25,INV-0040805,Charlotte Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1026,Expired,15442.03
+RET-001180,2026-08-02,INV-0013423,Atlanta Flagship,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,1,Customer Return,7.51
+RET-001181,2026-07-14,INV-0079286,Hartford Express,PRD-0137,FreshFirst Vitamins Plus,Health & Beauty,1,Expired,8.6
+RET-001182,2026-07-31,INV-0054171,Phoenix Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Damaged,2.56
+RET-001183,2026-08-27,INV-0031101,Philadelphia Standard,PRD-0067,EverGreen Cheese Classic,Dairy,1,Damaged,13.76
+RET-001184,2026-04-04,INV-0056781,Phoenix Compact,PRD0124,SunRise Frozen Vegetables Value,Frozen Foods,1,Expired,6.39
+RET-001185,2026-12-06,INV-0065003,Indianapolis Standard,PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,1,Quality Issue,1.33
+RET-001186,2025-06-25,INV-0016397,Chicago Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,4,Incorrect Shipment,17.73
+RET-001187,2026-08-27,INV-0062246,Providence Express,PRD-0145,QuickServe Personal Care Pro,Health & Beauty,2,Expired,21.89
+RET-001188,2025-08-23,INV-0010135,Atlanta Flagship,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,3,Expired,20.41
+RET-001189,2026-09-23,INV-0073519,Detroit Compact,PRD-0022,ElitePro Juices Lite,Beverages,2,Quality Issue,5.73
+RET-001190,2025-09-27,INV-0032082,Philadelphia Standard,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,1,Quality Issue,2.1
+RET-001191,2024-11-06,INV-0027521,Denver Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,8,Quality Issue,74.77
+RET-001192,2025-05-13,INV-0025741,Denver Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,1,Quality Issue,4.98
+RET-001193,2025-01-30,INV-0028285,Philadelphia Standard,PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,1,Expired,2.51
+RET-001194,2024-12-25,INV-0038900,Charlotte Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,Customer Return,11.08
+RET-001195,2025-03-31,INV-0007222,Boston Flagship,PRD-0155,QuickServe Cleaning Products Original,Household,8,Expired,25.29
+RET-001196,2024-11-24,INV-0045282,Columbus Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,2,Expired,23.71
+RET-001197,2026-12-22,INV-0069519,Nashville Compact,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,1,Expired,2.23
+RET-001198,2025-03-08,INV-0009335,Atlanta Flagship,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,11,Damaged,57.11
+RET-001199,2026-03-15,INV-0070042,Nashville Compact,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Damaged,8.26
+RET-001200,2025-07-03,INV-0038981,Charlotte Standard,PRD-0072,FreshFirst Cheese Select,Dairy,1,Expired,5.0
+RET-001201,2026-08-02,INV-0079181,Hartford Express,PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,8,Damaged,25.3
+RET-001202,2026-02-16,INV-0055831,Phoenix Compact,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,5,Damaged,8.28
+RET-001203,2026-06-13,INV-0018548,Chicago Flagship,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,3,Quality Issue,9.08
+RET-001204,2026-04-30,INV-0042633,Charlotte Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,2,Quality Issue,23.12
+RET-001205,2026-01-31,INV-0017488,Chicago Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,4,Expired,54.58
+RET-001206,2026-05-04,INV-0078698,Hartford Express,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Damaged,8.53
+RET-001207,2026-12-29,INV-0059980,Providence Express,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,Expired,12.18
+RET-001208,2025-10-27,INV-0057662,Phoenix Compact,PRD-0160,BluePeak Cleaning Products Plus,Household,10,Customer Return,96.87
+RET-001209,2026-01-24,INV-0003890,Boston Flagship,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Customer Return,7.49
+RET-001210,2026-02-14,INV-0003895,Boston Flagship,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,1,Quality Issue,7.53
+RET-001211,2026-05-15,INV-0007860,Atlanta Flagship,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,1,Damaged,2.12
+RET-001212,2025-04-30,INV-0025998,Denver Standard,PRD0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,Damaged,13.44
+RET-001213,2026-10-29,INV-0046287,Columbus Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,2,Incorrect Shipment,2.89
+RET-001214,2024-10-17,INV-0035897,Charlotte Standard,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,8,Customer Return,12.45
+RET-001215,2025-11-07,INV-0017043,Chicago Flagship,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,7,Quality Issue,16.86
+RET-001216,2025-11-14,INV-0053305,Tampa Compact,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,1,Expired,6.46
+RET-001217,2025-11-19,INV-0017115,Chicago Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,9,Damaged,25.71
+RET-001218,2026-02-18,INV-0042144,Charlotte Standard,PRD-0147,SunRise Personal Care Value,Health & Beauty,1,Incorrect Shipment,14.35
+RET-001219,2025-11-29,INV-0058975,Providence Express,PRD-0033,NaturePath Energy Drinks Plus,Beverages,2,Customer Return,6.45
+RET-001220,2026-05-10,INV-0076529,Raleigh Standard,PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,1,Damaged,7.01
+RET-001221,2026-07-16,INV-0044429,Columbus Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,6,Quality Issue,17.25
+RET-001222,2025-04-28,INV-0047609,Columbus Standard,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,5,Customer Return,30.95
+RET-001223,2025-08-12,INV-0043231,Columbus Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,2,Expired,5.22
+RET-001224,2026-10-24,INV-0016534,Chicago Flagship,PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,3,Damaged,11.55
+RET-001225,2026-05-10,INV-0078777,Hartford Express,PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,1,Quality Issue,3.0
+RET-001226,2026-11-08,INV-0064301,Indianapolis Standard,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,3,Incorrect Shipment,8.06
+RET-001227,2026-05-23,INV-0047086,Columbus Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,2,Quality Issue,25.03
+RET-001228,2026-05-09,INV-0046754,Columbus Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Customer Return,2.71
+RET-001229,2026-05-19,INV-0013391,Atlanta Flagship,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,4,Customer Return,28.53
+RET-001230,2026-01-07,INV-0003323,Boston Flagship,PRD-0071,CoastalSelect Cheese Lite,Dairy,4,Customer Return,44.98
+RET-001231,2026-04-14,INV-0015869,Chicago Flagship,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,1,Expired,1.61
+RET-001232,2024-11-27,INV-0019990,Chicago Flagship,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,4,Customer Return,21.83
+RET-001233,2026-11-21,INV-0080384,Milwaukee Compact,PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,1,Quality Issue,8.64
+RET-001234,2026-05-27,INV-0063067,Indianapolis Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Expired,2.9
+RET-001235,2025-06-15,INV-0016087,Chicago Flagship,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,1,Expired,5.82
+RET-001236,2025-10-24,INV-0021182,Chicago Flagship,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,4,Quality Issue,16.19
+RET-001237,2026-12-28,INV-0077124,Raleigh Standard,PRD-0099,EverGreen Condiments Original 400g,Grocery,1,Damaged,4.87
+RET-001238,2025-12-06,INV-0056694,Phoenix Compact,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,7,Customer Return,36.21
+RET-001239,2026-07-21,INV-0079634,Milwaukee Compact,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Customer Return,2.68
+RET-001240,2026-02-05,INV-0054391,Phoenix Compact,PRD-0019,CoastalSelect Juices Deluxe,Beverages,1,Customer Return,4.13
+RET-001241,2026-12-31,INV-0066759,Indianapolis Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,2,Damaged,42.84
+RET-001242,2026-07-29,INV-0033299,Philadelphia Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,,14.36
+RET-001243,2026-12-19,INV-0069005,Nashville Compact,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,2,Incorrect Shipment,16.1
+RET-001244,2025-07-27,INV-0015908,Chicago Flagship,PRD-0029,SunRise Water & Sparkling Classic,Beverages,1,Damaged,0.9
+RET-001245,2025-10-13,INV-0001220,Boston Flagship,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,5,Expired,8.95
+RET-001246,2026-04-26,INV-0042909,Columbus Standard,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,6,Customer Return,11.88
+RET-001247,2026-01-09,INV-0028213,Philadelphia Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,2,Incorrect Shipment,3.67
+RET-001248,2026-12-31,INV-0038622,Charlotte Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,2,,7.59
+RET-001249,2026-12-31,INV-0067319,Nashville Compact,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,3,Damaged,7.31
+RET-001250,2026-06-16,INV-0071853,Salt Lake City Express,PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,3,Customer Return,24.51
+RET-001251,2026-04-21,INV-0002129,Boston Flagship,PRD-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,3,Damaged,6.71
+RET-001252,2024-11-25,INV-0039865,Charlotte Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,3,Customer Return,8.76
+RET-001253,2026-02-08,INV-0062908,Indianapolis Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,7,Customer Return,11.37
+RET-001254,2026-03-12,INV-0071232,Salt Lake City Express,PRD-0035,ElitePro Energy Drinks Select,Beverages,3,Damaged,6.57
+RET-001255,2026-11-13,INV-0015002,Chicago Flagship,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Damaged,1.65
+RET-001256,2025-07-27,INV-0032655,Philadelphia Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Customer Return,6.44
+RET-001257,2025-09-09,INV-0032254,Philadelphia Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,2,Damaged,5.99
+RET-001258,2026-10-21,INV-0005885,Boston Flagship,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,2,Damaged,12.35
+RET-001259,2026-06-30,INV-0049034,Tampa Compact,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,6,Customer Return,15.24
+RET-001260,2025-02-14,INV-0043845,Columbus Standard,PRD-0029,SunRise Water & Sparkling Classic,Beverages,2,Customer Return,1.64
+RET-001261,2025-12-15,INV-0045883,Columbus Standard,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,3,Customer Return,4.68
+RET-001262,2025-01-05,INV-0025596,Denver Standard,PRD-0101,SunRise Condiments Original 400g,Grocery,2,Quality Issue,5.98
+RET-001263,2026-03-08,INV-0014639,Atlanta Flagship,PRD-0163,SunRise Paper Products Premium,Household,5,Customer Return,40.35
+RET-001264,2025-12-07,INV-0064404,Indianapolis Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,4,Expired,14.68
+RET-001265,2026-08-28,INV-0011421,Atlanta Flagship,PRD-0083,OptimaFood Butter & Spreads Lite,Dairy,1,Damaged,3.82
+RET-001266,2024-11-24,INV-0021982,Denver Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Customer Return,1.35
+RET-001267,2026-07-04,INV-0013565,Atlanta Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Quality Issue,6.71
+RET-001268,2026-11-08,INV-0019337,Chicago Flagship,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,1,Customer Return,3.05
+RET-001269,2026-04-20,INV-0071713,Salt Lake City Express,PRD-0072,FreshFirst Cheese Select,Dairy,2,Quality Issue,10.94
+RET-001270,2025-09-16,INV-0011704,Atlanta Flagship,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Customer Return,3.98
+RET-001271,2025-08-27,INV-0014524,Atlanta Flagship,PRD-0161,PureChoice Cleaning Products Pro,Household,2,Customer Return,14.92
+RET-001272,2026-06-18,INV-0077375,Raleigh Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,4,Customer Return,20.34
+RET-001273,2024-12-27,INV-0035223,Philadelphia Standard,PRD-0155,QuickServe Cleaning Products Original,Household,5,Damaged,15.55
+RET-001274,2024-10-28,INV-0026809,Denver Standard,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,1,Expired,22.06
+RET-001275,2026-06-20,INV-0073551,Detroit Compact,PRD-0025,ElitePro Water & Sparkling Plus,Beverages,3,Damaged,5.28
+RET-001276,2026-12-24,INV-0032695,Philadelphia Standard,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Incorrect Shipment,6.49
+RET-001277,2025-06-12,INV-0062698,Providence Express,PRD-0163,SunRise Paper Products Premium,Household,2,Incorrect Shipment,15.8
+RET-001278,2026-07-29,INV-0050863,Tampa Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,11,Customer Return,41.78
+RET-001279,2025-11-12,INV-0002557,Boston Flagship,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,3,Expired,19.5
+RET-001280,2025-05-17,INV-0053512,Tampa Compact,PRD-0155,QuickServe Cleaning Products Original,Household,1,Customer Return,2.89
+RET-001281,2026-09-17,INV-0013867,Atlanta Flagship,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,1,Damaged,22.55
+RET-001282,2026-12-14,INV-0048136,Columbus Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,1,Customer Return,6.31
+RET-001283,2026-10-30,INV-0067942,Nashville Compact,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,5,Damaged,10.75
+RET-001284,2025-04-20,INV-0033114,Philadelphia Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,7,Quality Issue,77.69
+RET-001285,2026-01-24,INV-0025371,Denver Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,2,Damaged,8.43
+RET-001286,2025-09-02,INV-0047256,Columbus Standard,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,2,Customer Return,13.99
+RET-001287,2026-10-03,INV-0008211,Atlanta Flagship,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,1,Customer Return,2.64
+RET-001288,2026-02-15,INV-0018470,Chicago Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Expired,2.3
+RET-001289,2025-06-20,INV-0011186,Atlanta Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,6,Damaged,25.32
+RET-001290,2026-03-24,INV-0024677,Denver Standard,PRD-0074,BluePeak Yogurt Deluxe,Dairy,1,Quality Issue,4.91
+RET-001291,2024-12-22,INV-0029536,Philadelphia Standard,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,6,Damaged,33.11
+RET-001292,2026-07-04,INV-0039333,Charlotte Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Quality Issue,12.15
+RET-001293,2025-11-02,INV-0067080,Nashville Compact,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Customer Return,1.37
+RET-001294,2025-12-11,INV-0066783,Indianapolis Standard,PRD-0155,QuickServe Cleaning Products Original,Household,1,Customer Return,2.88
+RET-001295,2025-03-30,INV-0043037,Columbus Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,3,Incorrect Shipment,4.12
+RET-001296,2026-01-15,INV-0029718,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,5,Customer Return,10.75
+RET-001297,2025-08-10,INV-0066570,Indianapolis Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,2,Quality Issue,12.53
+RET-001298,2025-01-04,INV-0022093,Denver Standard,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,7,Damaged,11.06
+RET-001299,2026-01-13,INV-0024025,Denver Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,3,Expired,32.78
+RET-001300,2025-07-31,INV-0019777,Chicago Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,3,Damaged,38.14
+RET-001301,2025-11-07,INV-0027278,Denver Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,2,Damaged,35.46
+RET-001302,2025-08-28,INV-0033884,Philadelphia Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,7,Incorrect Shipment,40.74
+RET-001303,2026-08-21,INV-0079553,Hartford Express,PRD-0163,SunRise Paper Products Premium,Household,1,Damaged,7.68
+RET-001304,2026-02-10,INV-0039890,Charlotte Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,9,Damaged,26.35
+RET-001305,2026-03-22,INV-0067337,Nashville Compact,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Expired,2.45
+RET-001306,2026-12-10,INV-0050267,Tampa Compact,PRD-0042,OptimaFood Chips & Crisps Value 300g,Snacks,2,Damaged,7.02
+RET-001307,2025-01-23,INV-0041841,Charlotte Standard,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,6,Customer Return,46.56
+RET-001308,2025-09-09,INV-0038510,Charlotte Standard,PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,1,Incorrect Shipment,3.8
+RET-001309,2025-08-27,INV-0040863,Charlotte Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,5,Customer Return,70.75
+RET-001310,2026-01-06,INV-0034874,Philadelphia Standard,PRD-0144,OptimaFood Personal Care Value,Health & Beauty,3,Customer Return,19.83
+RET-001311,2026-11-02,INV-0022917,Denver Standard,PRD-0024,SunRise Water & Sparkling Premium,Beverages,2,Customer Return,2.91
+RET-001312,2024-12-28,INV-0009327,Atlanta Flagship,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,7,Expired,36.46
+RET-001313,2026-06-08,INV-0028825,Philadelphia Standard,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Incorrect Shipment,4.13
+RET-001314,2026-11-25,INV-0038566,Charlotte Standard,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,3,Damaged,10.27
+RET-001315,2026-05-19,INV-0055835,Phoenix Compact,PRD-0085,BluePeak Canned Goods Value 500g,Grocery,3,Expired,3.49
+RET-001316,2025-10-11,INV-0027639,Denver Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,6,Quality Issue,65.0
+RET-001317,2026-10-02,INV-0012630,Atlanta Flagship,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,10,Expired,115.76
+RET-001318,2026-01-01,INV-0033385,Philadelphia Standard,PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,1,,13.87
+RET-001319,2026-11-15,INV-0077258,Raleigh Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,2,Incorrect Shipment,22.83
+RET-001320,2025-07-22,INV-0064923,Indianapolis Standard,PRD-0083,optimafood butter & spreads lite,Dairy,1,Incorrect Shipment,3.51
+RET-001321,2025-02-22,INV-0017095,Chicago Flagship,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,6,Customer Return,15.84
+RET-001322,2026-05-19,INV-0029739,Philadelphia Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Customer Return,2.22
+RET-001323,2024-10-10,INV-0040538,Charlotte Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,1,Damaged,4.58
+RET-001324,2026-06-18,INV-0063606,Indianapolis Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Incorrect Shipment,4.14
+RET-001325,2025-09-10,INV-0032535,Philadelphia Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Customer Return,7.42
+RET-001326,2025-12-01,INV-0050042,Tampa Compact,PRD-0035,ElitePro Energy Drinks Select,Beverages,1,Expired,2.0
+RET-001327,2025-02-19,INV-0010590,Atlanta Flagship,PRD-0066,OptimaFood Cheese Lite,Dairy,2,Damaged,28.75
+RET-001328,2024-12-08,INV-0041284,Charlotte Standard,PRD-0123,NaturePath Frozen Vegetables Original,Frozen Foods,1,Expired,9.15
+RET-001329,2025-06-12,INV-0036817,Charlotte Standard,PRD-0022,ElitePro Juices Lite,Beverages,5,Damaged,18.87
+RET-001330,2025-08-27,INV-0015765,Chicago Flagship,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,1,Expired,1.51
+RET-001331,2025-03-02,INV-0029891,Philadelphia Standard,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,6,Quality Issue,27.78
+RET-001332,2026-10-06,INV-0016366,Chicago Flagship,PRD 0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,1,Customer Return,4.91
+RET-001333,2026-03-03,INV-0032884,Philadelphia Standard,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,5,Damaged,11.05
+RET-001334,2026-01-09,INV-0013540,Atlanta Flagship,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Customer Return,8.19
+RET-001335,2025-09-29,INV-0028088,Philadelphia Standard,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,2,Damaged,2.35
+RET-001336,2026-12-31,INV-0033948,Philadelphia Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,5,,30.37
+RET-001337,2025-03-18,INV-0019844,Chicago Flagship,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Damaged,9.25
+RET-001338,2024-10-22,INV-0011131,Atlanta Flagship,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Damaged,10.54
+RET-001339,2026-11-08,INV-0055559,Phoenix Compact,PRD-0071,CoastalSelect Cheese Lite,Dairy,2,Incorrect Shipment,22.93
+RET-001340,2025-06-21,INV-0017756,Chicago Flagship,PRD-0073,QuickServe Yogurt Pro,Dairy,5,Expired,13.64
+RET-001341,2026-12-11,INV-0055280,Phoenix Compact,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Customer Return,2.74
+RET-001342,2026-01-15,INV-0050711,Tampa Compact,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Customer Return,2.9
+RET-001343,2025-12-02,INV-0064546,Indianapolis Standard,PRD-0069,SunRise Cheese Premium,Dairy,3,Customer Return,48.76
+RET-001344,2025-10-07,INV-0049667,Tampa Compact,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,1,Quality Issue,1.51
+RET-001345,2025-12-15,INV-0037785,Charlotte Standard,PRD-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,2,,4.39
+RET-001346,2026-10-23,INV-0070607,Nashville Compact,PRD-0162,NaturePath Cleaning Products Plus,Household,3,Incorrect Shipment,10.72
+RET-001347,2026-08-05,INV-0075142,Detroit Compact,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Damaged,5.15
+RET-001348,2025-11-28,INV-0033798,Philadelphia Standard,PRD 0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,3,Damaged,14.41
+RET-001349,2025-10-18,INV-0054556,Phoenix Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,2,Customer Return,3.6
+RET-001350,2026-06-18,INV-0071812,Salt Lake City Express,PRD-0078,ValuBrand Yogurt Classic,Dairy,10,Quality Issue,39.54
+RET-001351,2025-10-18,INV-0064221,Indianapolis Standard,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,8,Expired,84.25
+RET-001352,2025-07-26,INV-0050524,Tampa Compact,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,5,Customer Return,32.67
+RET-001353,2026-12-31,INV-0049308,Tampa Compact,PRD-0014,OptimaFood Juices Select,Beverages,1,Damaged,2.51
+RET-001354,2025-04-20,INV-0001480,Boston Flagship,PRD-0029,SunRise Water & Sparkling Classic,Beverages,1,Customer Return,0.81
+RET-001355,2025-05-07,INV-0040111,Charlotte Standard,PRD-0096,EverGreen Condiments Premium 500g,Grocery,1,Quality Issue,8.07
+RET-001356,2026-01-08,INV-0031649,Philadelphia Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Customer Return,12.59
+RET-001357,2025-11-14,INV-0043356,Columbus Standard,PRD-0014,OptimaFood Juices Select,Beverages,1,Damaged,2.34
+RET-001358,2026-05-24,INV-0064504,Indianapolis Standard,PRD-0067,EverGreen Cheese Classic,Dairy,1,Damaged,15.01
+RET-001359,2026-04-01,INV-0021948,Chicago Flagship,PRD-0163,SunRise Paper Products Premium,Household,3,Expired,24.92
+RET-001360,2025-02-14,INV-0030422,Philadelphia Standard,PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,5,Quality Issue,31.23
+RET-001361,2026-12-31,INV-0012098,Atlanta Flagship,PRD-0096,EverGreen Condiments Premium 500g,Grocery,3,Expired,22.75
+RET-001362,2026-02-18,INV-0024246,Denver Standard,PRD-0062,PureChoice Cookies & Bars Deluxe 300g,Snacks,3,Expired,9.62
+RET-001363,2026-07-10,INV-0004149,Boston Flagship,PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,1,Incorrect Shipment,2.1
+RET-001364,2026-05-25,INV-0048967,Tampa Compact,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,3,Customer Return,5.44
+RET-001365,2025-12-04,INV-0021940,Chicago Flagship,PRD-0163,SunRise Paper Products Premium,Household,2,,16.79
+RET-001366,2026-06-29,INV-0070004,Nashville Compact,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,5,Expired,35.13
+RET-001367,2025-04-30,INV-0048838,Tampa Compact,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Damaged,1.48
+RET-001368,2026-08-02,INV-0047532,Columbus Standard,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,2,Quality Issue,13.98
+RET-001369,2026-07-05,INV-0070655,Salt Lake City Express,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,1,Expired,1.32
+RET-001370,2025-12-27,INV-0037523,Charlotte Standard,PRD-0035,ElitePro Energy Drinks Select,Beverages,5,Quality Issue,9.61
+RET-001371,2026-05-21,INV-0059772,Providence Express,PRD-0065,NaturePath Cheese Classic,Dairy,1,Customer Return,5.02
+RET-001372,2026-07-25,INV-0002097,Boston Flagship,PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,1,Quality Issue,4.71
+RET-001373,2026-06-17,INV-0045022,Columbus Standard,PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,1,Customer Return,4.3
+RET-001374,2026-12-25,INV-0002349,Boston Flagship,PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,6,Expired,8.49
+RET-001375,2026-12-31,INV-0019817,Chicago Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Damaged,13.17
+RET-001376,2026-07-04,INV-0063613,Indianapolis Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,2,Quality Issue,3.9
+RET-001377,2025-10-18,INV-0044856,Columbus Standard,PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,5,Customer Return,13.41
+RET-001378,2025-10-14,INV-0057492,Phoenix Compact,PRD-0155,QuickServe Cleaning Products Original,Household,4,Customer Return,13.44
+RET-001379,2026-10-29,INV-0044531,Columbus Standard,PRD-0048,ElitePro Nuts & Seeds Premium 750g,Snacks,1,Expired,7.4
+RET-001380,2026-04-07,INV-0064838,Indianapolis Standard,PRD-0079,CoastalSelect Yogurt Pro,Dairy,5,Customer Return,11.88
+RET-001381,2026-06-29,INV-0012265,Atlanta Flagship,PRD-0102,ClearSpring Condiments Lite 750g,Grocery,2,Damaged,6.7
+RET-001382,2026-08-16,INV-0013718,Atlanta Flagship,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,3,Damaged,59.82
+RET-001383,2025-06-29,INV-0055685,Phoenix Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,2,Damaged,7.49
+RET-001384,2026-06-09,INV-0067061,Indianapolis Standard,PRD-0163,SunRise Paper Products Premium,Household,5,Damaged,39.88
+RET-001385,2026-07-29,INV-0040450,Charlotte Standard,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,1,Damaged,2.13
+RET-001386,2026-11-07,INV-0073463,Detroit Compact,PRD-0016,FreshFirst Juices Deluxe,Beverages,1,Incorrect Shipment,4.29
+RET-001387,2026-12-24,INV-0012272,Atlanta Flagship,PRD-0102,ClearSpring Condiments Lite 750g,Grocery,7,Customer Return,22.51
+RET-001388,2025-01-01,INV-0028625,Philadelphia Standard,PRD-0013,EverGreen Juices Plus,Beverages,4,Customer Return,13.37
+RET-001389,2025-10-03,INV-0004826,Boston Flagship,PRD-0101,SunRise Condiments Original 400g,Grocery,7,Expired,22.45
+RET-001390,2026-10-19,INV-0005016,Boston Flagship,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,2,Expired,6.14
+RET-001391,2026-09-18,INV-0059694,Providence Express,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,4,Customer Return,14.58
+RET-001392,2024-12-15,INV-0026277,Denver Standard,PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,5,Expired,25.72
+RET-001393,2026-02-22,INV-0022760,Denver Standard,PRD-0018,CoastalSelect Juices Plus,Beverages,1,Expired,1.89
+RET-001394,2026-03-15,INV-0027011,Denver Standard,PRD-0140,PureChoice Vitamins Classic,Health & Beauty,3,Customer Return,69.0
+RET-001395,2025-11-17,INV-0025363,Denver Standard,PRD-0094,SunRise Canned Goods Value 200g,Grocery,4,Quality Issue,16.89
+RET-001396,2025-09-11,INV-0050846,Tampa Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,5,Quality Issue,17.34
+RET-001397,2025-07-17,INV-0057729,Phoenix Compact,PRD-0163,SunRise Paper Products Premium,Household,1,Damaged,7.21
+RET-001398,2025-05-25,INV-0022442,Denver Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,6,Quality Issue,16.64
+RET-001399,2026-04-17,INV-0068502,Nashville Compact,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Quality Issue,2.95
+RET-001400,2026-11-04,INV-0062947,Indianapolis Standard,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,1,Customer Return,1.81
+RET-001401,2025-09-02,INV-0044409,Columbus Standard,PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,6,Incorrect Shipment,17.57
+RET-001402,2025-02-18,INV-0010934,Atlanta Flagship,PRD-0073,QuickServe Yogurt Pro,Dairy,3,Damaged,8.35
+RET-001403,2025-03-24,INV-0022176,Denver Standard,PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,4,Damaged,7.5
+RET-001404,2026-12-31,INV-0079587,Milwaukee Compact,PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,1,Incorrect Shipment,1.68
+RET-001405,2025-10-29,INV-0072478,Salt Lake City Express,PRD-0123,NaturePath Frozen Vegetables Original,Frozen Foods,2,Customer Return,16.28
+RET-001406,2026-09-09,INV-0050731,Tampa Compact,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Quality Issue,2.68
+RET-001407,2026-08-13,INV-0022036,Denver Standard,PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,4,Quality Issue,6.05
+RET-001408,2025-08-22,INV-0041034,Charlotte Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,1,Customer Return,9.14
+RET-001409,2025-11-08,INV-0003453,Boston Flagship,PRD-0073,QuickServe Yogurt Pro,Dairy,1,Expired,2.79
+RET-001410,2026-06-09,INV-0055729,Phoenix Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,3,Customer Return,12.36
+RET-001411,2026-07-05,INV-0006400,Boston Flagship,PRD-0137,FreshFirst Vitamins Plus,Health & Beauty,1,Damaged,8.55
+RET-001412,2026-03-28,INV-0062312,Providence Express,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,2,Customer Return,21.39
+RET-001413,2026-04-27,INV-0067818,Nashville Compact,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,2,Damaged,3.63
+RET-001414,2025-10-14,INV-0023223,Denver Standard,PRD-0031,FreshFirst Energy Drinks Pro,Beverages,1,Damaged,4.71
+RET-001415,2026-01-20,INV-0020899,Chicago Flagship,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Damaged,7.95
+RET-001416,2025-08-02,INV-0048510,Columbus Standard,PRD-0158,ElitePro Cleaning Products Deluxe,Household,4,Damaged,20.08
+RET-001417,2026-04-15,INV-0040572,Charlotte Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,1,Expired,4.87
+RET-001418,2025-01-06,INV-0001088,Boston Flagship,PRD-0020,HomeComfort Juices Value,Beverages,2,Customer Return,8.43
+RET-001419,2026-12-12,INV-0036406,Charlotte Standard,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,1,Customer Return,2.69
+RET-001420,2024-10-14,INV-0041002,Charlotte Standard,PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,2,Expired,17.37
+RET-001421,2025-08-28,INV-0001489,Boston Flagship,PRD-0029,SunRise Water & Sparkling Classic,Beverages,1,Damaged,0.88
+RET-001422,2026-05-24,INV-0075469,Detroit Compact,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,7,,55.78
+RET-001423,2026-06-01,INV-0067118,Nashville Compact,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,3,Expired,6.34
+RET-001424,2026-01-10,INV-0005443,Boston Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,6,Incorrect Shipment,74.59
+RET-001425,2024-11-13,INV-0023242,Denver Standard,PRD-0032,FreshFirst Energy Drinks Plus,Beverages,1,Quality Issue,5.18
+RET-001426,2025-08-04,INV-0048689,Columbus Standard,PRD-0163,SunRise Paper Products Premium,Household,22,Customer Return,177.45
+RET-001427,2026-07-22,INV-0080023,Milwaukee Compact,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Damaged,4.03
+RET-001428,2026-04-13,INV-0077422,Raleigh Standard,PRD-0125 ,CoastalSelect Frozen Vegetables Premium,Frozen Foods,1,Customer Return,6.93
+RET-001429,2025-11-29,INV-0030810,Philadelphia Standard,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,1,Customer Return,3.68
+RET-001430,2026-09-22,INV-0033305,Philadelphia Standard,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,14,Customer Return,204.27
+RET-001431,2026-01-06,INV-0052746,Tampa Compact,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,1,Customer Return,6.0
+RET-001432,2026-01-15,INV-0074969,Detroit Compact,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Quality Issue,11.49
+RET-001433,2025-11-21,INV-0020445,Chicago Flagship,PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,8,Customer Return,47.67
+RET-001434,2025-05-30,INV-0006722,Boston Flagship,PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,2,Customer Return,13.72
+RET-001435,2025-04-17,INV-0050563,Tampa Compact,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,1,Incorrect Shipment,9.57
+RET-001436,2025-01-14,INV-0001126,Boston Flagship,PRD-0022,ElitePro Juices Lite,Beverages,2,Damaged,7.44
+RET-001437,2025-12-11,INV-0053001,Tampa Compact,PRD0132,ClearSpring Ice Cream Classic,Frozen Foods,8,Quality Issue,62.13
+RET-001438,2026-02-27,INV-0013215,Atlanta Flagship,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,7,Customer Return,45.84
+RET-001439,2026-07-17,INV-0062375,Providence Express,PRD-0151,HomeComfort OTC Medicine Deluxe,Health & Beauty,4,Quality Issue,76.15
+RET-001440,2026-01-25,INV-0033476,Philadelphia Standard,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,4,Quality Issue,44.52
+RET-001441,2026-06-09,INV-0058662,Providence Express,PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,1,Damaged,0.77
+RET-001442,2025-01-07,INV-0035380,Philadelphia Standard,PRD-0157,EverGreen Cleaning Products Lite,Household,1,Customer Return,9.46
+RET-001443,2026-04-27,INV-0042206,Charlotte Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,1,Damaged,13.98
+RET-001444,2026-10-27,INV-0073712,Detroit Compact,PRD-0033,NaturePath Energy Drinks Plus,Beverages,3,Customer Return,9.82
+RET-001445,2026-09-26,INV-0041115,Charlotte Standard,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,6,Expired,41.22
+RET-001446,2026-11-14,INV-0078723,Hartford Express,PRD-0084,HomeComfort Butter & Spreads Classic,Dairy,1,Expired,7.01
+RET-001447,2026-03-10,INV-0003247,Boston Flagship,PRD-0069,SunRise Cheese Premium,Dairy,5,Expired,77.77
+RET-001448,2026-07-21,INV-0048673,Columbus Standard,PRD-0162,NaturePath Cleaning Products Plus,Household,1,Damaged,3.82
+RET-001449,2024-12-09,INV-0042254,Charlotte Standard,PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,1,Customer Return,21.74
+RET-001450,2026-09-07,INV-0030886,Philadelphia Standard,PRD-0064,NaturePath Cookies & Bars Premium 200g,Snacks,1,Customer Return,3.9
+RET-001451,2026-09-13,INV-0048262,Columbus Standard,PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,6,Damaged,99.67
+RET-001452,2026-07-27,INV-0051990,Tampa Compact,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Customer Return,6.6
+RET-001453,2026-04-09,INV-0072308,Salt Lake City Express,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,3,Customer Return,44.19
+RET-001454,2026-04-21,INV-0060863,Providence Express,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,4,Damaged,24.8
+RET-001455,2026-09-29,INV-0079482,Hartford Express,PRD-0157,EverGreen Cleaning Products Lite,Household,2,Damaged,17.57
+RET-001456,2026-11-01,INV-0028843,Philadelphia Standard,PRD-0016,FreshFirst Juices Deluxe,Beverages,4,Customer Return,16.53
+RET-001457,2026-01-02,INV-0019956,Chicago Flagship,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,2,Customer Return,14.14
+RET-001458,2026-07-08,INV-0070148,Nashville Compact,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,3,Incorrect Shipment,59.81
+RET-001459,2026-09-16,INV-0013424,Atlanta Flagship,PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,6,Customer Return,44.67
+RET-001460,2026-08-14,INV-0044830,Columbus Standard,PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,1,Quality Issue,3.09
+RET-001461,2025-03-18,INV-0039223,Charlotte Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,2,Customer Return,8.56
+RET-001462,2025-05-22,INV-0053618,Tampa Compact,PRD-0157,EverGreen Cleaning Products Lite,Household,9,Customer Return,83.38
+RET-001463,2026-03-28,INV-0058211,Providence Express,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,8,Damaged,22.67
+RET-001464,2026-03-30,INV-0072253,Salt Lake City Express,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,6,Damaged,64.03
+RET-001465,2026-02-20,INV-0061355,Providence Express,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Customer Return,12.75
+RET-001466,2026-08-07,INV-0008391,Atlanta Flagship,PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,4,Expired,10.81
+RET-001467,2025-11-10,INV-0024840,Denver Standard,PRD-0078,ValuBrand Yogurt Classic,Dairy,1,Expired,4.18
+RET-001468,2025-11-10,INV-0048211,Columbus Standard,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,3,Expired,33.39
+RET-001469,2026-11-15,INV-0025112,Denver Standard,PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,2,Expired,2.91
+RET-001470,2025-10-22,INV-0068268,Nashville Compact,PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,1,Incorrect Shipment,1.26
+RET-001471,2026-11-24,INV-0072239,Salt Lake City Express,PRD-0111,CoastalSelect Frozen Meals Select,Frozen Foods,1,Damaged,12.01
+RET-001472,2025-12-16,INV-0033160,Philadelphia Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,3,Expired,34.36
+RET-001473,2025-02-27,INV-0016875,Chicago Flagship,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,2,Damaged,17.37
+RET-001474,2025-10-22,INV-0003165,Boston Flagship, PRD-0067,EverGreen Cheese Classic,Dairy,2,Quality Issue,28.27
+RET-001475,2024-10-17,INV-0042080,Charlotte Standard,PRD-0145,QuickServe Personal Care Pro,Health & Beauty,4,Customer Return,40.07
+RET-001476,2024-11-11,INV-0034936,Philadelphia Standard,PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,1,Quality Issue,3.97
+RET-001477,2025-04-02,INV-0044622,Columbus Standard,PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,4,Quality Issue,26.89
+RET-001478,2026-09-29,INV-0001455,Boston Flagship,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,4,Customer Return,6.79
+RET-001479,2026-07-19,INV-0071814,Salt Lake City Express,PRD-0078,ValuBrand Yogurt Classic,Dairy,8,Customer Return,32.87
+RET-001480,2026-01-14,INV-0041172,Charlotte Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,7,Expired,36.58
+RET-001481,2026-03-28,INV-0066929,Indianapolis Standard,PRD-0159,ElitePro Cleaning Products Lite,Household,1,Quality Issue,11.26
+RET-001482,2026-10-01,INV-0008687,Atlanta Flagship,PRD-0016,FreshFirst Juices Deluxe,Beverages,5,Customer Return,21.98
+RET-001483,2026-03-30,INV-0051874,Tampa Compact,PRD-0095,CoastalSelect Condiments Select 500g,Grocery,1,Expired,7.54
+RET-001484,2026-10-17,INV-0077040,Raleigh Standard,PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,1,Customer Return,2.06
+RET-001485,2026-05-25,INV-0022340,Denver Standard,PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,8,Damaged,20.44
+RET-001486,2026-04-02,INV-0052393,Tampa Compact,PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,1,Customer Return,13.76
+RET-001487,2026-02-26,INV-0022577,Denver Standard,PRD-0013,EverGreen Juices Plus,Beverages,1,Damaged,3.48
+RET-001488,2026-12-20,INV-0050694,Tampa Compact,PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,3,Customer Return,33.15
+RET-001489,2026-12-03,INV-0049108,Tampa Compact,prd-0010,NaturePath Carbonated Drinks Plus,Beverages,8,Quality Issue,18.4
+RET-001490,2026-11-25,INV-0065738,Indianapolis Standard,PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,7,Damaged,74.57
+RET-001491,2025-11-15,INV-0057992,Providence Express,PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,7,Customer Return,12.09
+RET-001492,2026-11-04,INV-0044705,Columbus Standard,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,10,Expired,96.07
+RET-001493,2026-02-15,INV-0013284,Atlanta Flagship,PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,3,Customer Return,20.05
+RET-001494,2026-10-04,INV-0009265,Atlanta Flagship,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Expired,2.27
+RET-001495,2025-12-12,INV-0043721,Columbus Standard,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,3,Damaged,4.67
+RET-001496,2026-12-31,INV-0021977,Chicago Flagship,PRD-0163,SunRise Paper Products Premium,Household,2,Expired,14.99
+RET-001497,2025-05-31,INV-0063485,Indianapolis Standard,PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,4,Expired,6.28
+RET-001498,2024-12-29,INV-0047702,Columbus Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,1,Damaged,6.73
+RET-001499,2026-11-19,INV-0043319,Columbus Standard,PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,4,Expired,11.81
+RET-001500,2026-01-14,INV-0015504,Chicago Flagship,PRD-0018,CoastalSelect Juices Plus,Beverages,1,Expired,1.99
+RET-001501,2026-12-08,INV-0031255,Philadelphia Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,1,,12.39
+RET-001502,2025-03-24,INV-0033702,Philadelphia Standard,PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,1,Quality Issue,5.35
+RET-001503,2026-11-06,INV-0032302,Philadelphia Standard,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,5,Damaged,15.35
+RET-001504,2026-10-18,INV-0004522,Boston Flagship,PRD-0094,SunRise Canned Goods Value 200g,Grocery,1,Quality Issue,4.01
+RET-001505,2026-07-25,INV-0077407,Raleigh Standard,PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,4,Customer Return,23.63
+RET-001506,2026-08-15,INV-0077881,Hartford Express,PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,7,Damaged,14.12
+RET-001507,2026-11-16,INV-0078563,Hartford Express,PRD-0068,OptimaFood Cheese Deluxe,Dairy,1,Customer Return,18.55
+RET-001508,2025-11-03,INV-0022893,Denver Standard,PRD-0024,SunRise Water & Sparkling Premium,Beverages,1,Damaged,1.34
+RET-001509,2026-06-05,INV-0036837,Charlotte Standard,PRD-0022,ElitePro Juices Lite,Beverages,4,Expired,13.87
+RET-001510,2026-03-21,INV-0059196,Providence Express,PRD-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,4,Quality Issue,8.68
+RET-001511,2026-05-09,INV-0070330,Nashville Compact,PRD-0148,EverGreen Personal Care Classic,Health & Beauty,5,Damaged,51.27
+RET-001512,2026-11-19,INV-0080285,Milwaukee Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,1,Customer Return,7.24
+RET-001513,2025-07-23,INV-0012813,Atlanta Flagship,PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,1,Expired,12.09
+RET-001514,2026-09-11,INV-0043951,Columbus Standard,PRD-0030,BluePeak Water & Sparkling Plus,Beverages,1,Incorrect Shipment,2.28
+RET-001515,2026-11-28,INV-0070211,Nashville Compact,PRD-0139,FreshFirst Vitamins Original,Health & Beauty,1,Damaged,7.14
+RET-001516,2026-10-15,INV-0040526,Charlotte Standard,PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,6,Incorrect Shipment,18.33
+RET-001517,2026-01-09,INV-0023957,Denver Standard,PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,1,Damaged,9.05
+RET-001518,2026-03-18,INV-0045000,Columbus Standard,PRD-0062,PureChoice Cookies & Bars Deluxe 300g,Snacks,5,Expired,15.12
+RET-001519,2025-07-18,INV-0048889,Tampa Compact,PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,1,Expired,1.11
+RET-001520,2025-02-10,INV-0017413,Chicago Flagship,PRD-0067,EverGreen Cheese Classic,Dairy,5,Expired,67.82
+RET-001521,2026-12-10,INV-0056677,Phoenix Compact,PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,5,Customer Return,35.24
+RET-001522,2025-10-13,INV-0054507,Phoenix Compact,PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,8,Expired,12.4
+RET-001523,2025-07-04,INV-0038917,Charlotte Standard,PRD-0071,CoastalSelect Cheese Lite,Dairy,2,Damaged,23.32
+RET-001524,2025-11-06,INV-0019051,Chicago Flagship,PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,1,Customer Return,6.42
+RET-001525,2025-12-19,INV-0006447,Boston Flagship,PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,1,Customer Return,22.44
+RET-001526,2026-02-08,INV-0049072,Tampa Compact,PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,1,Quality Issue,2.38
+RET-001527,2026-09-09,INV-0047775,Columbus Standard,PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,3,Customer Return,24.14
+RET-001528,2026-03-07,INV-0011819,Atlanta Flagship,PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,6,Incorrect Shipment,16.39
+RET-001529,2025-10-07,INV-0042721,Charlotte Standard,PRD-0161,PureChoice Cleaning Products Pro,Household,4,Incorrect Shipment,24.68
+RET-001530,2025-12-17,INV-0033015,Philadelphia Standard,PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,7,Damaged,33.42
+RET-001531,2025-08-18,INV-0004923,Boston Flagship,PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,4,Customer Return,9.27
+RET-001532,2026-12-31,INV-0042427,Charlotte Standard,PRD-0155,QuickServe Cleaning Products Original,Household,5,Expired,16.94
+RET-001533,2025-08-24,INV-0054427,Phoenix Compact,PRD-0022,ElitePro Juices Lite,Beverages,6,Customer Return,19.51
+RET-001534,2026-04-17,INV-0055358,Phoenix Compact,PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,2,Quality Issue,7.3
+RET-001535,2026-09-25,INV-0080102,Milwaukee Compact,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,5,Damaged,20.81
+RET-001536,2026-01-06,INV-0060548,Providence Express,PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,1,Quality Issue,3.75

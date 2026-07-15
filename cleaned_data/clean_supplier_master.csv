@@ -1,0 +1,24 @@
+supplierid,suppliername,country,leadtimedays,reliabilityscore,contractstartdate,paymentterms,suppliercategory
+SUP-001,NexGen Wholesale,USA,4,0.97,2021-01-15,Net 30,Grocery
+SUP-002,PrimePack Industries,USA,5,0.94,2021-03-22,Net 30,Packaging
+SUP-003,SunCoast Distributors,USA,6,0.91,2021-06-10,Net 45,Beverages
+SUP-004,Atlantic Foods Co.,Canada,8,0.88,2021-09-01,Net 30,Grocery
+SUP-005,Pinnacle Supply Group,USA,3,0.96,2022-02-14,Net 15,Electronics
+SUP-006,Meridian Logistics,Mexico,10,0.83,2022-04-05,Net 45,General
+SUP-007,BlueStar Trading,China,21,0.78,2022-07-18,Net 60,General
+SUP-008,EastBridge Imports,China,25,0.72,2022-10-30,Net 60,Electronics
+SUP-009,Harvest Fields LLC,USA,5,0.93,2022-12-01,Net 30,Perishables
+SUP-010,Cascade Natural Foods,USA,4,0.95,2023-03-07,Net 30,Organic
+SUP-011,Delta Procurement,Canada,9,0.85,2023-05-19,Net 45,General
+SUP-012,Vanguard Supplies,USA,6,0.9,2023-08-11,Net 30,Grocery
+SUP-013,TrueNorth Exports,Canada,12,0.8,2023-11-22,Net 45,Seasonal
+SUP-014,Pacific Rim Trading,Taiwan,18,0.76,2024-01-08,Net 60,Electronics
+SUP-015,Sterling Wholesale,USA,4,0.92,2024-03-15,Net 30,Grocery
+SUP-016,Brightway Products,USA,7,0.87,2024-05-20,Net 30,General
+SUP-017,Continental Foods,Germany,14,0.86,2024-07-01,Net 45,Specialty
+SUP-018,Apex Distribution,USA,5,0.94,2024-09-10,Net 30,Beverages
+SUP-019,GreenLeaf Organics,USA,3,0.96,2024-10-01,Net 15,Organic
+SUP-020,Solaris Trading Co.,UAE,16,0.74,2024-11-15,Net 60,Specialty
+SUP-021,Redwood Suppliers,USA,6,0.89,2025-01-20,Net 30,General
+SUP-022,Titan Food Brokers,USA,5,0.91,2025-04-08,Net 30,Grocery
+SUP-023,OmniSource Global,China,28,0.69,2025-07-01,Net 60,General

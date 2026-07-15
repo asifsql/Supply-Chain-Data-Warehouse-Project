@@ -1,0 +1,164 @@
+sku,productname,category,subcategory,brand,standardcost,standardprice,launchdate,discontinuationdate,status,preferredsupplier,unitofmeasure
+PRD-0001,BluePeak Carbonated Drinks Plus,Beverages,Carbonated Drinks,BluePeak,0.99,1.48,2022-09-04,,Active,EastBridge Imports,Each
+PRD-0002,PureChoice Carbonated Drinks Plus,Beverages,Carbonated Drinks,PureChoice,1.8,2.15,2019-02-22,,Active,BlueStar Trading,Each
+PRD-0003,EverGreen Carbonated Drinks Deluxe,Beverages,Carbonated Drinks,EverGreen,1.17,1.67,2020-07-31,,Active,Meridian Logistics,Each
+PRD-0004,PureChoice Carbonated Drinks Classic,Beverages,Carbonated Drinks,PureChoice,0.96,1.17,2020-04-13,,Active,Solaris Trading Co.,Case/12
+PRD-0005,UrbanHarvest Carbonated Drinks Classic,Beverages,Carbonated Drinks,UrbanHarvest,1.44,2.03,2023-03-26,,Active,Solaris Trading Co.,Case/24
+PRD-0006,SunRise Carbonated Drinks Deluxe,Beverages,Carbonated Drinks,SunRise,1.92,2.89,2022-11-21,,Active,EastBridge Imports,Each
+PRD-0007,ValuBrand Carbonated Drinks Premium,Beverages,Carbonated Drinks,ValuBrand,1.43,1.81,2024-02-16,,Active,OmniSource Global,Case/12
+PRD-0008,QuickServe Carbonated Drinks Deluxe,Beverages,Carbonated Drinks,QuickServe,2.04,2.55,2019-07-02,,Active,Harvest Fields LLC,Case/12
+PRD-0009,CoastalSelect Carbonated Drinks Deluxe,Beverages,Carbonated Drinks,CoastalSelect,2.11,2.54,2021-06-04,,Active,Delta Procurement,Each
+PRD-0010,NaturePath Carbonated Drinks Plus,Beverages,Carbonated Drinks,NaturePath,1.91,2.57,2019-03-04,,Active,Sterling Wholesale,Case/24
+PRD-0011,ElitePro Carbonated Drinks Pro,Beverages,Carbonated Drinks,ElitePro,2.07,2.82,2025-02-01,,New Launch,TrueNorth Exports,Case/24
+PRD-0012,PureChoice Carbonated Drinks Lite,Beverages,Carbonated Drinks,PureChoice,2.08,3.21,2021-11-26,,Active,Redwood Suppliers,Each
+PRD-0013,EverGreen Juices Plus,Beverages,Juices,EverGreen,2.75,3.79,2019-02-25,,Active,Apex Distribution,Case/12
+PRD-0014,OptimaFood Juices Select,Beverages,Juices,OptimaFood,1.89,2.74,2020-02-22,,Active,Cascade Natural Foods,Each
+PRD-0015,QuickServe Juices Premium,Beverages,Juices,QuickServe,3.18,4.43,2022-09-26,,Active,Redwood Suppliers,Each
+PRD-0016,FreshFirst Juices Deluxe,Beverages,Juices,FreshFirst,3.18,4.47,2022-02-17,,Active,NexGen Wholesale,Case/24
+PRD-0017,UrbanHarvest Juices Pro,Beverages,Juices,UrbanHarvest,3.76,5.71,2020-04-07,2026-02-16,Discontinued,PrimePack Industries,Each
+PRD-0018,CoastalSelect Juices Plus,Beverages,Juices,CoastalSelect,1.38,2.07,2025-10-11,,New Launch,Pinnacle Supply Group,Each
+PRD-0019,CoastalSelect Juices Deluxe,Beverages,Juices,CoastalSelect,2.78,4.41,2019-01-14,,Active,OmniSource Global,Case/24
+PRD-0020,HomeComfort Juices Value,Beverages,Juices,HomeComfort,3.54,4.85,2023-08-19,,Active,EastBridge Imports,Each
+PRD-0021,SunRise Juices Value,Beverages,Juices,SunRise,1.38,1.99,2025-08-25,2025-08-25,Discontinued,SunCoast Distributors,Each
+PRD-0022,ElitePro Juices Lite,Beverages,Juices,ElitePro,2.94,3.73,2019-11-23,,Active,GreenLeaf Organics,Each
+PRD-0023,NaturePath Water & Sparkling Classic,Beverages,Water & Sparkling,NaturePath,0.71,1.03,2025-12-13,2025-08-22,Discontinued,Pacific Rim Trading,Case/24
+PRD-0024,SunRise Water & Sparkling Premium,Beverages,Water & Sparkling,SunRise,1.08,1.43,2019-07-14,,Active,EastBridge Imports,Each
+PRD-0025,ElitePro Water & Sparkling Plus,Beverages,Water & Sparkling,ElitePro,1.16,1.79,2024-12-11,,New Launch,Sterling Wholesale,Each
+PRD-0026,CoastalSelect Water & Sparkling Original,Beverages,Water & Sparkling,CoastalSelect,0.62,0.76,2023-11-14,,Active,Meridian Logistics,Each
+PRD-0027,ValuBrand Water & Sparkling Plus,Beverages,Water & Sparkling,ValuBrand,1.05,1.67,2022-06-21,,Active,Sterling Wholesale,Case/24
+PRD-0028,BluePeak Water & Sparkling Deluxe,Beverages,Water & Sparkling,BluePeak,1.46,1.82,2023-08-22,,Active,BlueStar Trading,Case/24
+PRD-0029,SunRise Water & Sparkling Classic,Beverages,Water & Sparkling,SunRise,0.66,0.91,2023-03-12,,Active,PrimePack Industries,Each
+PRD-0030,BluePeak Water & Sparkling Plus,Beverages,Water & Sparkling,BluePeak,1.63,2.2,2022-01-30,,Active,GreenLeaf Organics,Each
+PRD-0031,FreshFirst Energy Drinks Pro,Beverages,Energy Drinks,FreshFirst,3.84,4.86,2024-08-04,,Active,EastBridge Imports,Case/24
+PRD-0032,FreshFirst Energy Drinks Plus,Beverages,Energy Drinks,FreshFirst,3.82,6.01,2021-03-05,,Active,Sterling Wholesale,Each
+PRD-0033,NaturePath Energy Drinks Plus,Beverages,Energy Drinks,NaturePath,2.76,3.41,2022-03-04,,Active,SunCoast Distributors,Case/24
+PRD-0034,ClearSpring Energy Drinks Premium,Beverages,Energy Drinks,ClearSpring,2.26,3.6,2023-10-07,,Active,Titan Food Brokers,Each
+PRD-0035,ElitePro Energy Drinks Select,Beverages,Energy Drinks,ElitePro,1.79,2.19,2022-07-22,,Active,Harvest Fields LLC,Each
+PRD-0036,QuickServe Energy Drinks Deluxe,Beverages,Energy Drinks,QuickServe,2.72,4.24,2025-11-02,2026-02-07,Discontinued,SunCoast Distributors,Each
+PRD-0037,OptimaFood Energy Drinks Classic,Beverages,Energy Drinks,OptimaFood,1.83,2.91,2023-01-18,2025-01-31,Discontinued,Sterling Wholesale,Each
+PRD-0038,UrbanHarvest Chips & Crisps Deluxe 300g,Snacks,Chips & Crisps,UrbanHarvest,2.49,3.09,2020-04-23,,Active,Vanguard Supplies,Each
+PRD-0039,UrbanHarvest Chips & Crisps Plus 1000g,Snacks,Chips & Crisps,UrbanHarvest,3.05,4.84,2020-08-30,,Active,Vanguard Supplies,Each
+PRD-0040,UrbanHarvest Chips & Crisps Premium 1000g,Snacks,Chips & Crisps,UrbanHarvest,2.91,4.62,2019-06-17,,Active,Pinnacle Supply Group,Case/48
+PRD-0041,UrbanHarvest Chips & Crisps Premium 300g,Snacks,Chips & Crisps,UrbanHarvest,1.85,2.32,2025-02-07,,New Launch,Pacific Rim Trading,Case/24
+PRD-0042,OptimaFood Chips & Crisps Value 300g,Snacks,Chips & Crisps,OptimaFood,2.51,3.37,2024-12-13,,New Launch,Brightway Products,Each
+PRD-0043,NaturePath Chips & Crisps Plus 750g,Snacks,Chips & Crisps,NaturePath,0.95,1.2,2025-02-26,,New Launch,Harvest Fields LLC,Case/24
+PRD-0044,EverGreen Chips & Crisps Original 300g,Snacks,Chips & Crisps,EverGreen,2.46,3.77,2025-07-29,,New Launch,NexGen Wholesale,Case/24
+PRD-0045,PureChoice Chips & Crisps Value 500g,Snacks,Chips & Crisps,PureChoice,2.27,3.01,2021-02-04,,Active,Pacific Rim Trading,Case/24
+PRD-0046,ElitePro Chips & Crisps Deluxe 250g,Snacks,Chips & Crisps,ElitePro,1.0,1.36,2025-04-07,,New Launch,Apex Distribution,Case/48
+PRD-0047,EverGreen Chips & Crisps Plus 300g,Snacks,Chips & Crisps,EverGreen,1.06,1.55,2025-01-28,,New Launch,Solaris Trading Co.,Case/24
+PRD-0048,ElitePro Nuts & Seeds Premium 750g,Snacks,Nuts & Seeds,ElitePro,6.17,8.13,2020-07-14,,Active,Apex Distribution,Case/12
+PRD-0049,GoldCrest Nuts & Seeds Deluxe 750g,Snacks,Nuts & Seeds,GoldCrest,5.63,7.6,2024-05-20,,Active,Cascade Natural Foods,Each
+PRD-0050,HomeComfort Nuts & Seeds Deluxe 500g,Snacks,Nuts & Seeds,HomeComfort,4.93,7.22,2022-09-22,,Active,Meridian Logistics,Case/12
+PRD-0051,PureChoice Nuts & Seeds Classic 400g,Snacks,Nuts & Seeds,PureChoice,7.0,10.47,2022-07-02,2025-04-28,Discontinued,EastBridge Imports,Case/12
+PRD-0052,HomeComfort Nuts & Seeds Original 750g,Snacks,Nuts & Seeds,HomeComfort,4.78,6.9,2023-03-11,,Active,OmniSource Global,Each
+PRD-0053,UrbanHarvest Nuts & Seeds Original 400g,Snacks,Nuts & Seeds,UrbanHarvest,6.63,9.97,2025-01-08,,New Launch,Pacific Rim Trading,Each
+PRD-0054,QuickServe Nuts & Seeds Deluxe 500g,Snacks,Nuts & Seeds,QuickServe,3.87,5.95,2021-03-07,,Active,Pinnacle Supply Group,Case/12
+PRD-0055,OptimaFood Nuts & Seeds Select 400g,Snacks,Nuts & Seeds,OptimaFood,7.4,10.64,2024-09-08,,Active,Apex Distribution,Case/12
+PRD-0056,OptimaFood Cookies & Bars Value 300g,Snacks,Cookies & Bars,OptimaFood,1.69,2.45,2022-09-05,2026-01-24,Discontinued,Brightway Products,Case/48
+PRD-0057,ElitePro Cookies & Bars Classic 250g,Snacks,Cookies & Bars,ElitePro,1.91,2.97,2022-12-08,,Active,Pinnacle Supply Group,Each
+PRD-0058,EverGreen Cookies & Bars Original 500g,Snacks,Cookies & Bars,EverGreen,2.08,2.93,2023-11-05,,Active,PrimePack Industries,Case/24
+PRD-0059,CoastalSelect Cookies & Bars Lite 1000g,Snacks,Cookies & Bars,CoastalSelect,3.21,4.56,2023-06-17,,Active,NexGen Wholesale,Case/24
+PRD-0060,QuickServe Cookies & Bars Deluxe 400g,Snacks,Cookies & Bars,QuickServe,2.89,4.07,2020-04-25,,Active,EastBridge Imports,Case/48
+PRD-0061,BluePeak Cookies & Bars Original 400g,Snacks,Cookies & Bars,BluePeak,2.73,3.68,2024-11-13,,New Launch,Sterling Wholesale,Each
+PRD-0062,PureChoice Cookies & Bars Deluxe 300g,Snacks,Cookies & Bars,PureChoice,2.64,3.27,2020-10-24,,Active,Meridian Logistics,Case/24
+PRD-0063,OptimaFood Cookies & Bars Deluxe 200g,Snacks,Cookies & Bars,OptimaFood,3.21,4.16,2020-07-15,,Active,Harvest Fields LLC,Case/24
+PRD-0064,NaturePath Cookies & Bars Premium 200g,Snacks,Cookies & Bars,NaturePath,2.66,4.01,2025-01-29,,New Launch,PrimePack Industries,Case/48
+PRD-0065,NaturePath Cheese Classic,Dairy,Cheese,NaturePath,4.57,6.68,2024-06-02,,Active,Sterling Wholesale,Each
+PRD-0066,OptimaFood Cheese Lite,Dairy,Cheese,OptimaFood,10.46,16.58,2024-01-14,,Active,GreenLeaf Organics,Each
+PRD-0067,EverGreen Cheese Classic,Dairy,Cheese,EverGreen,11.5,14.53,2020-10-22,,Active,Atlantic Foods Co.,Each
+PRD-0068,OptimaFood Cheese Deluxe,Dairy,Cheese,OptimaFood,11.86,17.89,2022-10-07,,Active,Apex Distribution,Case/12
+PRD-0069,SunRise Cheese Premium,Dairy,Cheese,SunRise,10.72,16.35,2021-04-10,,Active,Pacific Rim Trading,Each
+PRD-0070,EverGreen Cheese Lite,Dairy,Cheese,EverGreen,5.0,7.0,2024-04-03,,Active,Solaris Trading Co.,Case/12
+PRD-0071,CoastalSelect Cheese Lite,Dairy,Cheese,CoastalSelect,9.71,12.55,2021-08-21,,Active,SunCoast Distributors,Each
+PRD-0072,FreshFirst Cheese Select,Dairy,Cheese,FreshFirst,3.74,5.75,2020-07-09,,Active,Brightway Products,Each
+PRD-0073,QuickServe Yogurt Pro,Dairy,Yogurt,QuickServe,1.83,2.89,2020-06-01,,Active,EastBridge Imports,Each
+PRD-0074,BluePeak Yogurt Deluxe,Dairy,Yogurt,BluePeak,4.08,5.58,2022-03-24,,Active,SunCoast Distributors,Each
+PRD-0075,HomeComfort Yogurt Classic,Dairy,Yogurt,HomeComfort,3.57,4.73,2020-07-05,,Active,Vanguard Supplies,Case/12
+PRD-0076,ClearSpring Yogurt Plus,Dairy,Yogurt,ClearSpring,2.42,2.98,2022-05-12,,Active,BlueStar Trading,Each
+PRD-0077,GoldCrest Yogurt Plus,Dairy,Yogurt,GoldCrest,2.71,3.31,2024-02-28,2025-10-05,Discontinued,Cascade Natural Foods,Each
+PRD-0078,ValuBrand Yogurt Classic,Dairy,Yogurt,ValuBrand,2.68,4.26,2020-04-05,,Active,OmniSource Global,Case/12
+PRD-0079,CoastalSelect Yogurt Pro,Dairy,Yogurt,CoastalSelect,1.84,2.39,2025-12-30,,New Launch,Sterling Wholesale,Case/12
+PRD-0080,PureChoice Butter & Spreads Select,Dairy,Butter & Spreads,PureChoice,6.15,8.29,2021-12-05,,Active,GreenLeaf Organics,Each
+PRD-0081,PureChoice Butter & Spreads Lite,Dairy,Butter & Spreads,PureChoice,6.97,8.57,2019-07-10,,Active,Solaris Trading Co.,Case/12
+PRD-0082,HomeComfort Butter & Spreads Classic,Dairy,Butter & Spreads,HomeComfort,6.56,8.56,2019-04-09,,Active,Cascade Natural Foods,Case/12
+PRD-0083,OptimaFood Butter & Spreads Lite,Dairy,Butter & Spreads,OptimaFood,3.2,4.06,2019-08-19,,Active,Meridian Logistics,Each
+PRD-0084,HomeComfort Butter & Spreads Classic,Dairy,Butter & Spreads,HomeComfort,5.51,7.59,2022-08-10,,Active,EastBridge Imports,Each
+PRD-0085,BluePeak Canned Goods Value 500g,Grocery,Canned Goods,BluePeak,1.31,1.69,2025-10-04,,New Launch,GreenLeaf Organics,Case/6
+PRD-0086,BluePeak Canned Goods Select 1000g,Grocery,Canned Goods,BluePeak,1.13,1.46,2021-06-05,,Active,SunCoast Distributors,Each
+PRD-0087,HomeComfort Canned Goods Original 200g,Grocery,Canned Goods,HomeComfort,1.07,1.57,2019-05-14,,Active,TrueNorth Exports,Case/6
+PRD-0088,UrbanHarvest Canned Goods Original 500g,Grocery,Canned Goods,UrbanHarvest,1.75,2.3,2025-04-11,,New Launch,NexGen Wholesale,Case/24
+PRD-0089,OptimaFood Canned Goods Lite 250g,Grocery,Canned Goods,OptimaFood,2.28,2.95,2024-09-21,,Active,Meridian Logistics,Each
+PRD-0090,BluePeak Canned Goods Deluxe 250g,Grocery,Canned Goods,BluePeak,2.59,4.11,2022-01-15,,Active,Vanguard Supplies,Case/24
+PRD-0091,EverGreen Canned Goods Lite 200g,Grocery,Canned Goods,EverGreen,2.33,3.03,2024-07-31,,Active,Apex Distribution,Case/24
+PRD-0092,CoastalSelect Canned Goods Pro 500g,Grocery,Canned Goods,CoastalSelect,1.93,3.08,2023-12-12,,Active,Apex Distribution,Case/6
+PRD-0093,BluePeak Canned Goods Classic 400g,Grocery,Canned Goods,BluePeak,1.77,2.13,2019-01-25,,Active,Apex Distribution,Case/24
+PRD-0094,SunRise Canned Goods Value 200g,Grocery,Canned Goods,SunRise,2.94,4.22,2023-02-21,,Active,OmniSource Global,Each
+PRD-0095,CoastalSelect Condiments Select 500g,Grocery,Condiments,CoastalSelect,5.61,7.71,2022-12-01,,Active,Redwood Suppliers,Each
+PRD-0096,EverGreen Condiments Premium 500g,Grocery,Condiments,EverGreen,5.26,8.37,2022-02-01,,Active,Sterling Wholesale,Each
+PRD-0097,CoastalSelect Condiments Select 300g,Grocery,Condiments,CoastalSelect,1.81,2.72,2020-07-14,,Active,Delta Procurement,Case/12
+PRD-0098,CoastalSelect Condiments Plus 1000g,Grocery,Condiments,CoastalSelect,4.14,6.62,2022-09-07,,Active,Pinnacle Supply Group,Case/12
+PRD-0099,EverGreen Condiments Original 400g,Grocery,Condiments,EverGreen,3.55,4.67,2019-08-23,,Active,OmniSource Global,Each
+PRD-0100,FreshFirst Condiments Pro 250g,Grocery,Condiments,FreshFirst,4.85,7.16,2021-07-01,,Active,TrueNorth Exports,Case/12
+PRD-0101,SunRise Condiments Original 400g,Grocery,Condiments,SunRise,2.07,3.28,2021-08-10,,Active,Atlantic Foods Co.,Case/12
+PRD-0102,ClearSpring Condiments Lite 750g,Grocery,Condiments,ClearSpring,2.15,3.32,2025-12-12,,New Launch,SunCoast Distributors,Each
+PRD-0103,BluePeak Pasta & Grains Original 500g,Grocery,Pasta & Grains,BluePeak,1.47,1.94,2025-11-08,,New Launch,Delta Procurement,Case/24
+PRD-0104,GoldCrest Pasta & Grains Classic 750g,Grocery,Pasta & Grains,GoldCrest,1.43,2.07,2020-07-06,,Active,EastBridge Imports,Case/24
+PRD-0105,HomeComfort Pasta & Grains Premium 400g,Grocery,Pasta & Grains,HomeComfort,1.75,2.29,2021-11-16,,Active,PrimePack Industries,Each
+PRD-0106,NaturePath Pasta & Grains Value 750g,Grocery,Pasta & Grains,NaturePath,2.95,4.18,2020-01-10,,Active,Meridian Logistics,Each
+PRD-0107,HomeComfort Pasta & Grains Pro 1000g,Grocery,Pasta & Grains,HomeComfort,4.21,5.22,2024-03-30,2026-09-01,Discontinued,Redwood Suppliers,Case/24
+PRD-0108,UrbanHarvest Pasta & Grains Select 400g,Grocery,Pasta & Grains,UrbanHarvest,2.15,3.03,2025-03-07,,New Launch,Sterling Wholesale,Each
+PRD-0109,HomeComfort Pasta & Grains Select 300g,Grocery,Pasta & Grains,HomeComfort,3.99,5.04,2022-09-03,,Active,Brightway Products,Case/24
+PRD-0110,SunRise Pasta & Grains Pro 200g,Grocery,Pasta & Grains,SunRise,4.43,6.45,2022-07-02,,Active,NexGen Wholesale,Case/24
+PRD-0111,CoastalSelect Frozen Meals Select,Frozen Foods,Frozen Meals,CoastalSelect,10.28,13.37,2019-11-17,,Active,Solaris Trading Co.,Each
+PRD-0112,BluePeak Frozen Meals Pro,Frozen Foods,Frozen Meals,BluePeak,9.17,13.78,2023-05-20,2026-01-12,Discontinued,Redwood Suppliers,Each
+PRD-0113,SunRise Frozen Meals Plus,Frozen Foods,Frozen Meals,SunRise,7.85,11.68,2023-06-23,,Active,Cascade Natural Foods,Each
+PRD-0114,UrbanHarvest Frozen Meals Select,Frozen Foods,Frozen Meals,UrbanHarvest,10.79,15.14,2025-06-14,,New Launch,Meridian Logistics,Case/12
+PRD-0115,ClearSpring Frozen Meals Lite,Frozen Foods,Frozen Meals,ClearSpring,10.03,15.22,2024-10-31,,New Launch,SunCoast Distributors,Case/12
+PRD-0116,CoastalSelect Frozen Meals Select,Frozen Foods,Frozen Meals,CoastalSelect,9.53,12.71,2020-11-11,,Active,NexGen Wholesale,Case/12
+PRD-0117,GoldCrest Frozen Meals Plus,Frozen Foods,Frozen Meals,GoldCrest,6.36,9.21,2019-02-10,,Active,Atlantic Foods Co.,Case/12
+PRD-0118,FreshFirst Frozen Meals Lite,Frozen Foods,Frozen Meals,FreshFirst,10.36,13.19,2025-12-01,,New Launch,Redwood Suppliers,Each
+PRD-0119,PureChoice Frozen Meals Lite,Frozen Foods,Frozen Meals,PureChoice,4.55,7.18,2024-01-19,,Active,Brightway Products,Case/12
+PRD-0120,HomeComfort Frozen Vegetables Classic,Frozen Foods,Frozen Vegetables,HomeComfort,3.48,5.49,2023-10-12,,Active,GreenLeaf Organics,Case/12
+PRD-0121,CoastalSelect Frozen Vegetables Value,Frozen Foods,Frozen Vegetables,CoastalSelect,3.96,5.35,2020-10-07,,Active,PrimePack Industries,Case/12
+PRD-0122,CoastalSelect Frozen Vegetables Select,Frozen Foods,Frozen Vegetables,CoastalSelect,3.45,5.49,2019-05-02,2026-09-06,Discontinued,Apex Distribution,Case/12
+PRD-0123,NaturePath Frozen Vegetables Original,Frozen Foods,Frozen Vegetables,NaturePath,5.87,9.27,2024-06-10,,Active,SunCoast Distributors,Case/12
+PRD-0124,SunRise Frozen Vegetables Value,Frozen Foods,Frozen Vegetables,SunRise,5.15,6.6,2024-12-06,,New Launch,GreenLeaf Organics,Each
+PRD-0125,CoastalSelect Frozen Vegetables Premium,Frozen Foods,Frozen Vegetables,CoastalSelect,5.48,7.22,2025-05-26,,New Launch,Solaris Trading Co.,Each
+PRD-0126,QuickServe Frozen Vegetables Deluxe,Frozen Foods,Frozen Vegetables,QuickServe,3.0,3.76,2019-05-26,,Active,Pinnacle Supply Group,Each
+PRD-0127,SunRise Frozen Vegetables Deluxe,Frozen Foods,Frozen Vegetables,SunRise,2.7,3.25,2023-05-16,,Active,Continental Foods,Case/12
+PRD-0128,QuickServe Ice Cream Plus,Frozen Foods,Ice Cream,QuickServe,5.17,7.08,2023-05-27,,Active,Solaris Trading Co.,Each
+PRD-0129,ElitePro Ice Cream Pro,Frozen Foods,Ice Cream,ElitePro,4.56,7.23,2019-09-27,,Active,Brightway Products,Each
+PRD-0130,PureChoice Ice Cream Deluxe,Frozen Foods,Ice Cream,PureChoice,6.55,8.62,2021-09-24,,Active,SunCoast Distributors,Each
+PRD-0131,EverGreen Ice Cream Plus,Frozen Foods,Ice Cream,EverGreen,6.98,9.79,2022-02-28,,Active,Continental Foods,Case/12
+PRD-0132,ClearSpring Ice Cream Classic,Frozen Foods,Ice Cream,ClearSpring,6.39,8.69,2020-07-10,,Active,Pacific Rim Trading,Each
+PRD-0133,FreshFirst Ice Cream Classic,Frozen Foods,Ice Cream,FreshFirst,4.42,6.45,2024-01-06,2025-10-22,Discontinued,Pinnacle Supply Group,Case/12
+PRD-0134,PureChoice Vitamins Deluxe,Health & Beauty,Vitamins,PureChoice,12.34,18.42,2020-03-20,,Active,Pinnacle Supply Group,Box/10
+PRD-0135,BluePeak Vitamins Select,Health & Beauty,Vitamins,BluePeak,7.08,9.41,2022-02-05,,Active,Pacific Rim Trading,Case/24
+PRD-0136,FreshFirst Vitamins Plus,Health & Beauty,Vitamins,FreshFirst,6.76,9.42,2025-09-07,,New Launch,Titan Food Brokers,Each
+PRD-0137,FreshFirst Vitamins Plus,Health & Beauty,Vitamins,FreshFirst,6.95,9.01,2025-01-24,,New Launch,Pacific Rim Trading,Each
+PRD-0138,SunRise Vitamins Deluxe,Health & Beauty,Vitamins,SunRise,15.35,22.35,2020-10-16,,Active,Harvest Fields LLC,Case/24
+PRD-0139,FreshFirst Vitamins Original,Health & Beauty,Vitamins,FreshFirst,5.1,7.88,2024-09-19,,Active,Titan Food Brokers,Case/24
+PRD-0140,PureChoice Vitamins Classic,Health & Beauty,Vitamins,PureChoice,17.68,22.46,2022-09-26,,Active,Sterling Wholesale,Box/10
+PRD-0141,UrbanHarvest Vitamins Pro,Health & Beauty,Vitamins,UrbanHarvest,5.89,7.34,2021-07-08,,Active,PrimePack Industries,Case/24
+PRD-0142,GoldCrest Personal Care Pro,Health & Beauty,Personal Care,GoldCrest,6.7,8.67,2021-12-22,,Active,Vanguard Supplies,Each
+PRD-0143,QuickServe Personal Care Premium,Health & Beauty,Personal Care,QuickServe,8.84,10.6,2019-09-11,,Active,Solaris Trading Co.,Box/10
+PRD-0144,OptimaFood Personal Care Value,Health & Beauty,Personal Care,OptimaFood,4.93,6.5,2020-04-16,,Active,Brightway Products,Each
+PRD-0145,QuickServe Personal Care Pro,Health & Beauty,Personal Care,QuickServe,7.81,11.41,2020-12-10,,Active,SunCoast Distributors,Box/10
+PRD-0146,UrbanHarvest Personal Care Lite,Health & Beauty,Personal Care,UrbanHarvest,3.24,4.25,2022-05-19,,Active,GreenLeaf Organics,Box/10
+PRD-0147,SunRise Personal Care Value,Health & Beauty,Personal Care,SunRise,11.68,14.63,2020-04-28,,Active,OmniSource Global,Box/10
+PRD-0148,EverGreen Personal Care Classic,Health & Beauty,Personal Care,EverGreen,8.09,11.33,2020-04-07,,Active,Cascade Natural Foods,Box/10
+PRD-0149,QuickServe OTC Medicine Premium,Health & Beauty,OTC Medicine,QuickServe,12.5,17.54,2024-11-30,,New Launch,Vanguard Supplies,Each
+PRD-0150,NaturePath OTC Medicine Pro,Health & Beauty,OTC Medicine,NaturePath,4.54,5.85,2022-08-17,2025-06-08,Discontinued,Solaris Trading Co.,Each
+PRD-0151,HomeComfort OTC Medicine Deluxe,Health & Beauty,OTC Medicine,HomeComfort,14.32,21.47,2024-03-15,,Active,Titan Food Brokers,Box/10
+PRD-0152,CoastalSelect OTC Medicine Original,Health & Beauty,OTC Medicine,CoastalSelect,17.56,23.05,2023-12-10,,Active,SunCoast Distributors,Box/10
+PRD-0153,FreshFirst OTC Medicine Classic,Health & Beauty,OTC Medicine,FreshFirst,10.61,13.9,2024-11-30,2025-06-14,Discontinued,PrimePack Industries,Box/10
+PRD-0154,GoldCrest OTC Medicine Pro,Health & Beauty,OTC Medicine,GoldCrest,11.91,15.98,2022-11-05,,Active,Sterling Wholesale,Each
+PRD-0155,QuickServe Cleaning Products Original,Household,Cleaning Products,QuickServe,2.74,3.3,2020-03-25,,Active,Delta Procurement,Each
+PRD-0156,NaturePath Cleaning Products Lite,Household,Cleaning Products,NaturePath,6.19,9.88,2019-10-05,,Active,Continental Foods,Pack/6
+PRD-0157,EverGreen Cleaning Products Lite,Household,Cleaning Products,EverGreen,6.6,9.67,2024-05-17,,Active,Redwood Suppliers,Each
+PRD-0158,ElitePro Cleaning Products Deluxe,Household,Cleaning Products,ElitePro,3.36,5.17,2022-04-13,,Active,Pinnacle Supply Group,Pack/6
+PRD-0159,ElitePro Cleaning Products Lite,Household,Cleaning Products,ElitePro,7.8,11.49,2025-05-20,,New Launch,Pinnacle Supply Group,Case/12
+PRD-0160,BluePeak Cleaning Products Plus,Household,Cleaning Products,BluePeak,6.71,10.21,2023-07-05,,Active,OmniSource Global,Pack/6
+PRD-0161,PureChoice Cleaning Products Pro,Household,Cleaning Products,PureChoice,5.81,7.89,2023-08-22,,Active,NexGen Wholesale,Case/12
+PRD-0162,NaturePath Cleaning Products Plus,Household,Cleaning Products,NaturePath,3.2,3.96,2020-02-04,,Active,Cascade Natural Foods,Each
+PRD-0163,SunRise Paper Products Premium,Household,Paper Products,SunRise,5.31,8.22,2019-07-23,,Active,Solaris Trading Co.,Each
