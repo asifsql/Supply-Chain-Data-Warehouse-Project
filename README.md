@@ -6,7 +6,7 @@ stakeholder questions on top of it, including a month-over-month revenue growth 
 
 **Stack:** Python (Pandas) · PostgreSQL · SQLAlchemy · pgAdmin4 · SQL (Views, CTAS, Window Functions)
 
-![Architecture diagram](./image/Architecture_diagram.png)
+![Architecture diagram](C:\supply_chain_analytics\Supply_Chain_Project)
 **Sample output — month-over-month revenue growth:**
 ![MoM revenue growth query result](./image/MoM_revenue_growth.png)
 ---
