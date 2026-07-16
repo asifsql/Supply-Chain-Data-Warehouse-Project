@@ -13,7 +13,7 @@ stakeholder questions on top of it, including a month-over-month revenue growth 
 ![MoM revenue growth query result](./image/MoM_revenue_growth.png)
 ---
 
-## 📌 Business Problem
+## Business Problem
 
 A retail supply chain organization tracks products, stores, suppliers, sales, inventory,
 purchase orders, returns, promotions, warehouses, and logistics across **10 separate raw
@@ -26,7 +26,7 @@ Architecture** pattern used in modern data engineering (Bronze/Silver/Gold).
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 supply-chain-data-warehouse/
@@ -51,7 +51,7 @@ supply-chain-data-warehouse/
 
 ---
 
-## 🔧 Pipeline Details
+## Pipeline Details
 
 ### 1. Bronze Layer — Ingestion
 `notebooks/data_cleaning.ipynb`
@@ -104,7 +104,7 @@ Full writeup with the query for each: [`insights/stakeholder_findings.md`](insig
 
 ---
 
-## 🚀 How to Reproduce
+## How to Reproduce
 
 ```bash
 # 1. Clone the repo
@@ -121,7 +121,7 @@ jupyter notebook notebooks/data_cleaning.ipynb
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Designed a **medallion architecture from scratch**, separating raw ingestion, cleaning
   logic, and analytics-ready modeling into distinct, auditable layers
@@ -137,7 +137,7 @@ jupyter notebook notebooks/data_cleaning.ipynb
   repeatable pipeline runs, and moved database credentials out of source code into
   environment variables
 
-## 🔭 Possible Extensions
+## Possible Extensions
 - Automated data quality checks (e.g. `dbt` tests or `Great Expectations`) to catch schema
   drift before it hits the Gold layer
 - Incorporate `silver_logistics` and `silver_returns` into the fact layer for a fuller
